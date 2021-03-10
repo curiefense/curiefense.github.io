@@ -1,0 +1,280 @@
+---
+layout: default
+title: 'The Features of Curiefense, the Security Suite for Envoy'
+description: 'Curiefense extends Envoy Proxy to include multiple security technologies, protecting against a wide range of threats. Here&#x27;s what it does.'
+---
+
+  <div class="wrapper">
+    <div class="hero-nohome">
+      <div class="container w-container">
+        <div class="hero-row nohome">
+          <div class="row flex-vertical w-row">
+            <div class="w-col w-col-6 w-col-stack">
+              <div class="item-vertical level-one first">
+                <div class="item-vertical first">
+                  <h3 class="heading-2">Capabilities and more</h3>
+                  <h1 class="hero-title nohome">The features and benefits of Curiefense.<br></h1>
+                </div>
+                <div class="item-vertical">
+                  <p class="paragraph hero-paragraph">What it does, and how it does it.<br></p>
+                </div>
+                <div class="item-vertical level-one last"></div>
+              </div>
+            </div>
+            <div class="no-paddings w-col w-col-6 w-col-stack">
+              <div class="hero-image-nohome"><img src="images/Main_diagram-01.png" srcset="images/Main_diagram-01-p-1080.png 1080w, images/Main_diagram-01-p-1600.png 1600w, images/Main_diagram-01-p-2000.png 2000w, images/Main_diagram-01-p-2600.png 2600w, images/Main_diagram-01-p-3200.png 3200w, images/Main_diagram-01.png 4148w" height="" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, (max-width: 991px) 96vw, 610px" alt=""></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section free-features">
+      <div class="container w-container">
+        <div class="row-section features w-row">
+          <div class="w-col w-col-9">
+            <div class="item-vertical first">
+              <h3 class="heading-2">Comprehensive web security</h3>
+              <h2 class="heading-3">A fully operational system that is free, open source, and extensible.</h2>
+              <div class="item-vertical">
+                <p class="paragraph hero-paragraph">Curiefense provides multiple security technologies encapsulated into a single platform, protecting against a wide range of threats.<br></p>
+              </div>
+            </div>
+          </div>
+          <div class="w-col w-col-3"></div>
+        </div>
+      </div>
+    </div>
+    <div class="section features-subsection">
+      <div class="container w-container">
+        <div class="row-section flex-vertical features-top w-row">
+          <div class="w-col w-col-5 w-col-stack">
+            <div class="item-vertical">
+              <h3 class="heading-2">Web Application Firewall</h3>
+              <p class="paragraph">Curiefense’s full-featured WAF protects against the OWASP Top 10 and many other threats:<br></p>
+              <ul role="list" class="list">
+                <li class="list-item alt">
+                  <div class="paragraph">Negative security features (signatures, block-listing, etc.) exclude known threats.</div>
+                </li>
+                <li class="list-item alt">
+                  <div class="paragraph">Positive security features (input validation, schema enforcement, etc.) exclude anomalies and zero-days.</div>
+                </li>
+                <li class="list-item alt">
+                  <div class="paragraph">The platform has capabilities that are not offered by many commercial solutions, including content filtering, payload inspection, behavioral profiling, and more.</div>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="w-col w-col-1 w-col-stack"></div>
+          <div class="w-col w-col-6 w-col-stack">
+            <div class="box-shadow padding"><img src="images/WAF-Profiles.png" srcset="images/WAF-Profiles-p-500.png 500w, images/WAF-Profiles-p-800.png 800w, images/WAF-Profiles-p-1080.png 1080w, images/WAF-Profiles-p-1600.png 1600w, images/WAF-Profiles-p-2000.png 2000w, images/WAF-Profiles.png 2210w" height="" sizes="(max-width: 479px) 81vw, (max-width: 767px) 84vw, (max-width: 991px) 71vw, 42vw" alt=""></div>
+          </div>
+        </div>
+        <div class="row-section flex-vertical features-top w-row">
+          <div class="w-col w-col-5 w-col-stack">
+            <div class="item-vertical">
+              <h3 class="heading-2">Application-Layer DDoS Protection</h3>
+              <p class="paragraph">Curiefense defends against layer 7 DoS/DDoS at all scales, from massive DDoS botnet assaults to single malformed-packet DoS attempts.<br></p>
+            </div>
+          </div>
+          <div class="w-col w-col-1 w-col-stack"></div>
+          <div class="w-col w-col-6 w-col-stack">
+            <div><img src="images/DDOS-04.png" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" srcset="images/DDOS-04-p-800.png 800w, images/DDOS-04-p-1080.png 1080w, images/DDOS-04-p-1600.png 1600w, images/DDOS-04-p-2000.png 2000w, images/DDOS-04-p-2600.png 2600w, images/DDOS-04-p-3200.png 3200w, images/DDOS-04.png 4483w" alt=""></div>
+          </div>
+        </div>
+        <div class="row-section flex-vertical features-top w-row">
+          <div class="w-col w-col-5 w-col-stack">
+            <div class="item-vertical">
+              <h3 class="heading-2">Advanced Rate Limiting</h3>
+              <p class="paragraph">Curiefense provides rate-limiting capabilities, definable at any scope (from globally down to individual URLs). Traffic sources are blocked when their requests exceed predefined limits. This mechanism has a wide variety of beneficial uses, including:<br></p>
+              <ul role="list" class="list">
+                <li class="list-item alt">
+                  <div class="paragraph">Prevention of account takeover attacks (credential stuffing, credential discovery, etc.)</div>
+                </li>
+                <li class="list-item alt">
+                  <div class="paragraph">Prevention of other brute-force threats, e.g. payment card validation</div>
+                </li>
+                <li class="list-item alt">
+                  <div class="paragraph">Detecting anomalies, e.g. a single user changes geolocation multiple times</div>
+                </li>
+                <li class="list-item alt">
+                  <div class="paragraph">Blocking inventory denial attacks</div>
+                </li>
+                <li class="list-item alt">
+                  <div class="paragraph">And more</div>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="w-col w-col-1 w-col-stack"></div>
+          <div class="w-col w-col-6 w-col-stack">
+            <div class="box-shadow padding"><img src="images/Rate-Limits.png" srcset="images/Rate-Limits-p-500.png 500w, images/Rate-Limits-p-800.png 800w, images/Rate-Limits-p-1080.png 1080w, images/Rate-Limits-p-1600.png 1600w, images/Rate-Limits-p-2000.png 2000w, images/Rate-Limits.png 2158w" height="" sizes="(max-width: 479px) 81vw, (max-width: 767px) 84vw, (max-width: 991px) 71vw, 42vw" alt=""></div>
+          </div>
+        </div>
+        <div class="row-section flex-vertical features-top w-row">
+          <div class="w-col w-col-5 w-col-stack">
+            <div class="item-vertical">
+              <h3 class="heading-2">API Security</h3>
+              <p class="paragraph">APIs and services are protected with the full range of capabilities that are applied to web applications. The only exceptions are techniques which do not apply to APIs, such as browser environment verification.<br><br>Curiefense also has additional capabilities that apply only to APIs and services, such as schema enforcement.<br></p>
+            </div>
+          </div>
+          <div class="w-col w-col-1 w-col-stack"></div>
+          <div class="w-col w-col-6 w-col-stack"><img src="images/api-03.png" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" srcset="images/api-03-p-500.png 500w, images/api-03-p-800.png 800w, images/api-03-p-1080.png 1080w, images/api-03.png 2283w" alt=""></div>
+        </div>
+        <div class="row-section flex-vertical features-top w-row">
+          <div class="w-col w-col-5 w-col-stack">
+            <div class="item-vertical">
+              <h3 class="heading-2">DevOps</h3>
+              <ul role="list" class="list">
+                <li class="list-item alt">
+                  <div class="paragraph">Curiefense can be deployed and controlled via web console, REST API, and/or a CLI tool.</div>
+                </li>
+                <li class="list-item alt">
+                  <div class="paragraph">JSON or YAML configuration format</div>
+                </li>
+                <li class="list-item alt">
+                  <div class="paragraph">Git versioning as the configuration storage engine</div>
+                </li>
+                <li class="list-item alt">
+                  <div class="paragraph">Support for environment branching (e.g., prod/devops/qa)</div>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="w-col w-col-1 w-col-stack"></div>
+          <div class="w-col w-col-6 w-col-stack">
+            <div><img src="images/devops-01.png" srcset="images/devops-01-p-500.png 500w, images/devops-01-p-800.png 800w, images/devops-01-p-1080.png 1080w, images/devops-01.png 1284w" height="" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
+          </div>
+        </div>
+        <div class="row-section flex-vertical features-top w-row">
+          <div class="w-col w-col-5 w-col-stack">
+            <div class="item-vertical">
+              <h3 class="heading-2">Logging and Real-Time Reporting</h3>
+              <p class="paragraph">Curiefense logs and reports all details (headers, payloads, tags, disposition, etc.) of all requests. Out of the box, it includes Prometheus metrics and Grafana dashboards. Users can customize these, or can swap in their own reporting and visualization frameworks.<br></p>
+            </div>
+          </div>
+          <div class="w-col w-col-1 w-col-stack"></div>
+          <div class="w-col w-col-6 w-col-stack">
+            <div class="box-shadow"><img src="images/real_time_screenshot.jpg" srcset="images/real_time_screenshot-p-500.jpeg 500w, images/real_time_screenshot-p-800.jpeg 800w, images/real_time_screenshot-p-1080.jpeg 1080w, images/real_time_screenshot-p-1600.jpeg 1600w, images/real_time_screenshot-p-2000.jpeg 2000w, images/real_time_screenshot.jpg 2124w" height="" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
+          </div>
+        </div>
+        <div class="row-section flex-vertical features-top w-row">
+          <div class="w-col w-col-5 w-col-stack">
+            <div class="item-vertical">
+              <h3 class="heading-2">Threat Feeds</h3>
+              <p class="paragraph">Curiefense consumes external threat feeds (e.g., IP reputation), auto-updating its security posture as the threat environment evolves. Weekly updates are included for IP reputation, ASNs, etc.<br></p>
+            </div>
+          </div>
+          <div class="w-col w-col-1 w-col-stack"></div>
+          <div class="w-col w-col-6 w-col-stack"><img src="images/Threat-Intelligence-Feeds-03.png" srcset="images/Threat-Intelligence-Feeds-03-p-500.png 500w, images/Threat-Intelligence-Feeds-03-p-800.png 800w, images/Threat-Intelligence-Feeds-03-p-1080.png 1080w, images/Threat-Intelligence-Feeds-03-p-1600.png 1600w, images/Threat-Intelligence-Feeds-03-p-2000.png 2000w, images/Threat-Intelligence-Feeds-03-p-2600.png 2600w, images/Threat-Intelligence-Feeds-03-p-3200.png 3200w, images/Threat-Intelligence-Feeds-03.png 3949w" height="" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
+        </div>
+      </div>
+    </div>
+    <div id="cta" class="section cta">
+      <div class="container w-container">
+        <div class="row-section w-row">
+          <div class="w-col w-col-6 w-col-stack">
+            <div class="item-vertical first">
+              <h2 class="heading-3 contrast">Ready to roll?</h2>
+              <div class="div-block-2">
+                <a href="https://docs.curiefense.io/installation/getting-started-with-curiefense" target="_blank" class="button alt2 w-inline-block">
+                  <div class="text-block">Quick Start Guide</div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="w-col w-col-3 w-col-stack">
+            <div class="ready-to-roll-button-wrapper"></div>
+          </div>
+          <div class="w-col w-col-3 w-col-stack">
+            <div class="ready-to-roll-button-wrapper">
+              <a href="contact-us.html" class="button alt3 w-inline-block"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section footer">
+      <div class="container w-container">
+        <div class="w-row">
+          <div class="w-col w-col-4"><img src="images/curie-01.svg" width="147" alt="">
+            <div class="footer-description">
+              <p class="paragraph">Curiefense is named in honor of the famous scientist <a href="marie-curie.html" target="_blank">Marie Curie</a>. The first version was developed in Malakoff, France, a few hundred meters from her home and laboratory. Curiefense was originally created by <a href="https://www.reblaze.com/" target="_blank">Reblaze</a>.<br></p>
+            </div>
+            <div class="footer-copyright">© Curiefense Contributors 2020-2021</div>
+            <div class="columns w-row">
+              <div class="w-col w-col-2 w-col-small-3 w-col-tiny-3">
+                <a href="https://github.com/curiefense" target="_blank" class="w-inline-block"><img src="images/github.svg" loading="lazy" width="30" alt=""></a>
+              </div>
+              <div class="w-col w-col-2 w-col-small-3 w-col-tiny-3">
+                <a href="https://twitter.com/curiefense" target="_blank" class="w-inline-block"><img src="images/twitter.svg" loading="lazy" width="35" alt=""></a>
+              </div>
+              <div class="w-col w-col-2 w-col-small-3 w-col-tiny-3">
+                <a href="https://join.slack.com/t/curiefense/shared_invite/zt-nc8lyrjo-JJoY2mwrqNOfkmoA6ycTHg" target="_blank" class="w-inline-block"><img src="images/slack.svg" loading="lazy" width="30" alt=""></a>
+              </div>
+              <div class="w-col w-col-6 w-col-small-3 w-col-tiny-3">
+                <a href="https://www.linkedin.com/company/curiefense" target="_blank" class="w-inline-block"><img src="images/linkedin.svg" loading="lazy" width="30" alt=""></a>
+              </div>
+            </div>
+          </div>
+          <div class="w-col w-col-2"></div>
+          <div class="w-col w-col-2">
+            <ul role="list" class="footer-list">
+              <li class="footer-list-item">
+                <a href="features.html" aria-current="page" class="footer-list-item-link w--current">Features</a>
+              </li>
+              <li class="footer-list-item">
+                <a href="manifesto.html" class="footer-list-item-link">Manifesto</a>
+              </li>
+              <li class="footer-list-item">
+                <a href="https://github.com/curiefense/curiefense/blob/master/ROADMAP.md" target="_blank" class="footer-list-item-link">Roadmap</a>
+              </li>
+              <li class="footer-list-item">
+                <a href="https://github.com/curiefense/curiefense/blob/master/CODE_OF_CONDUCT.md" target="_blank" class="footer-list-item-link">Code of Conduct</a>
+              </li>
+            </ul>
+          </div>
+          <div class="w-col w-col-2">
+            <ul role="list" class="footer-list second">
+              <li class="footer-list-item">
+                <a href="https://github.com/cncf/artwork/blob/master/examples/sandbox.md#curiefense-logos" target="_blank" class="footer-list-item-link">Logos</a>
+              </li>
+              <li class="footer-list-item">
+                <a href="contact-us.html" class="footer-list-item-link">Contact Us</a>
+              </li>
+              <li class="footer-list-item">
+                <a href="blog.html" class="footer-list-item-link">Blog</a>
+              </li>
+              <li class="footer-list-item">
+                <a href="faq.html" class="footer-list-item-link">FAQ</a>
+              </li>
+            </ul>
+          </div>
+          <div class="w-col w-col-2">
+            <ul role="list" class="footer-list second">
+              <li class="footer-list-item">
+                <a href="https://twitter.com/curiefense" target="_blank" class="footer-list-item-link">Twitter</a>
+              </li>
+              <li class="footer-list-item">
+                <a href="https://github.com/curiefense/curiefense" target="_blank" class="footer-list-item-link">GitHub</a>
+              </li>
+              <li class="footer-list-item">
+                <a href="https://stackshare.io/curiefense/curiefense" target="_blank" class="footer-list-item-link">StackShare</a>
+              </li>
+              <li class="footer-list-item">
+                <a href="https://www.katacoda.com/curiefense" target="_blank" class="footer-list-item-link">Katacoda</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="container-2 w-container">
+        <a href="https://www.cncf.io/sandbox-projects/" target="_blank" class="w-inline-block"><img src="images/cncf-sandbox-horizontal-color.svg" loading="lazy" width="150" alt="" class="image-8"></a>
+      </div>
+      <div class="w-container">
+        <div class="text-block-4">© 2021 The Linux Foundation. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. <br>For a list of trademarks of The Linux Foundation, please see our <a href="https://www.linuxfoundation.org/en/trademark-usage/" target="_blank">Trademark Usage</a> page.</div>
+      </div>
+    </div>
+  </div>
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5f906e60f009d620eb2024dd" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="js/curiefense.js" type="text/javascript"></script>
+  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
