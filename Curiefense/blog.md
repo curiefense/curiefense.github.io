@@ -38,27 +38,35 @@ description: 'News and information about Curiefense, the security extension for 
         </div>
         <div class="w-dyn-list">
           <div role="list" class="blog-grid w-dyn-items">
+          {% for post in site.data.blog-posts %}
             <div role="listitem" class="blog-box w-dyn-item">
               <div class="blog-box-image">
-                <a href="#" class="w-inline-block"><img src="" loading="lazy" width="70" alt="" class="blog-box-img"></a>
+                <a href="post/{{post.Slug}}" class="w-inline-block">
+                  <img src="{{post.ThumbnailImage}}" loading="lazy" width="70" alt="" class="blog-box-img">
+                </a>
               </div>
               <div class="blog-box-sepparator"></div>
               <div class="w-row">
                 <div class="w-col w-col-6">
-                  <div class="blog-box-date"></div>
+                  <div class="blog-box-date">{{post.CreatedOn | date_to_string: "ordinal", "US"}}</div>
                 </div>
                 <div class="w-col w-col-6">
-                  <div class="blog-box-date"></div>
+                {% assign words = post.Author | split: '-' %}
+                {% capture titlecaseAuthor %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
+                  <div class="blog-box-date">{{titlecaseAuthor}}</div>
                 </div>
               </div>
-              <a href="#" class="w-inline-block">
-                <div class="blog-box-name"></div>
+              <a href="post/{{post.Slug}}" class="w-inline-block">
+                <div class="blog-box-name">{{post.Name}}</div>
               </a>
-              <p class="paragraph blog-box-summary"></p>
-              <a href="#" class="button blog-box-button w-inline-block">
+              <p class="paragraph blog-box-summary">
+                {{post.PostSummary}}
+              </p>
+              <a href="post/{{post.Slug}}" class="button blog-box-button w-inline-block">
                 <div class="text-block">Read more</div>
               </a>
             </div>
+          {% endfor %}
           </div>
           <div class="w-dyn-empty">
             <div>No items found.</div>
