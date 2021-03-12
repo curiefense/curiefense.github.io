@@ -174,7 +174,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
         <div class="w-row">
           <div class="w-col w-col-4"><img src="images/curie-01.svg" width="147" alt="">
             <div class="footer-description">
-              <p class="paragraph">Curiefense is named in honor of the famous scientist <a href="marie-curie.html" target="_blank">Marie Curie</a>. The first version was developed in Malakoff, France, a few hundred meters from her home and laboratory. Curiefense was originally created by <a href="https://www.reblaze.com/" target="_blank">Reblaze</a>.<br></p>
+              <p class="paragraph">Curiefense is named in honor of the famous scientist <a href="marie-curie" target="_blank">Marie Curie</a>. The first version was developed in Malakoff, France, a few hundred meters from her home and laboratory. Curiefense was originally created by <a href="https://www.reblaze.com/" target="_blank">Reblaze</a>.<br></p>
             </div>
             <div class="footer-copyright">© Curiefense Contributors 2020-2021</div>
             <div class="columns w-row">
@@ -196,10 +196,10 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
           <div class="w-col w-col-2">
             <ul role="list" class="footer-list">
               <li class="footer-list-item">
-                <a href="features.html" aria-current="page" class="footer-list-item-link w--current">Features</a>
+                <a href="features" aria-current="page" class="footer-list-item-link w--current">Features</a>
               </li>
               <li class="footer-list-item">
-                <a href="manifesto.html" class="footer-list-item-link">Manifesto</a>
+                <a href="manifesto" class="footer-list-item-link">Manifesto</a>
               </li>
               <li class="footer-list-item">
                 <a href="https://github.com/curiefense/curiefense/blob/master/ROADMAP.md" target="_blank" class="footer-list-item-link">Roadmap</a>
@@ -215,13 +215,13 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
                 <a href="https://github.com/cncf/artwork/blob/master/examples/sandbox.md#curiefense-logos" target="_blank" class="footer-list-item-link">Logos</a>
               </li>
               <li class="footer-list-item">
-                <a href="contact-us.html" class="footer-list-item-link">Contact Us</a>
+                <a href="contact-us" class="footer-list-item-link">Contact Us</a>
               </li>
               <li class="footer-list-item">
-                <a href="blog.html" class="footer-list-item-link">Blog</a>
+                <a href="blog" class="footer-list-item-link">Blog</a>
               </li>
               <li class="footer-list-item">
-                <a href="faq.html" class="footer-list-item-link">FAQ</a>
+                <a href="faq" class="footer-list-item-link">FAQ</a>
               </li>
             </ul>
           </div>
