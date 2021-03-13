@@ -4,8 +4,6 @@ title: 'Curiefense | Protecting Cloud Native Applications'
 description: 'Curiefense extends Envoy proxy to protect all forms of web traffic: sites, apps, services, and APIs. Includes Bot Management, WAF, application-layer DDoS protection, session profiling, advanced rate limiting, and much more, in a unified open source platform.'
 ---
 
-
-
 <header id="hero" class="hero-2">
   <div class="flex-container-2 w-container">
     <div class="div-block">
