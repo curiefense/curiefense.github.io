@@ -42,7 +42,7 @@ description: 'News and information about Curiefense, the security extension for 
             <div role="listitem" class="blog-box w-dyn-item">
               <div class="blog-box-image">
                 <a href="post/{{post.Slug}}" class="w-inline-block">
-                  <img src="{{post.ThumbnailImage}}" loading="lazy" width="70" alt="" class="blog-box-img">
+                  <img src="{{post.MainImage | default: post.ThumbnailImage}}" loading="lazy" width="70" alt="" class="blog-box-img">
                 </a>
               </div>
               <div class="blog-box-sepparator"></div>
@@ -68,21 +68,22 @@ description: 'News and information about Curiefense, the security extension for 
             </div>
           {% endfor %}
           </div>
-          <div class="w-dyn-empty">
+          <!-- <div class="w-dyn-empty">
             <div>No items found.</div>
-          </div>
-          <div class="w-pagination-wrapper blog-posts-pagination">
+          </div> -->
+          <!-- <div class="w-pagination-wrapper blog-posts-pagination">
             <a href="#" class="w-pagination-previous"><svg class="w-pagination-previous-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 12 12" transform="translate(0, 1)">
                 <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M8 10L4 6l4-4"></path>
               </svg>
               <div class="w-inline-block">Previous</div>
             </a>
             <a href="#" class="w-pagination-next">
-              <div class="w-inline-block">Next</div><svg class="w-pagination-next-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 12 12" transform="translate(0, 1)">
+              <div class="w-inline-block">Next</div>
+              <svg class="w-pagination-next-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 12 12" transform="translate(0, 1)">
                 <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M4 2l4 4-4 4"></path>
               </svg>
             </a>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

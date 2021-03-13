@@ -12,7 +12,7 @@ description: "Curiefense is an open source project that adds web security to Env
             <div class="item-vertical level-one">
               <h3 class="heading-2">Our Story</h3>
               <h1 class="heading-3">Our Mission</h1>
-              <p class="paragraph hero-paragraph">We live in a world where the range of cyberattacks is ever expanding, and the severity escalates exponentially with the sheer volume of data processed daily across the Internet. <br><br>Attackers evolve rapidly, perfecting their tools and techniques, and demonstrating unprecedented capabilities; thus, collaboration is the most promising way to build a better, more comprehensive, simpler, transparent and scalable security solution.<br><br>Our mission is to provide the ultimate cloud-native application security: a platform that is open, extensible, adaptive and evolving, while maintaining total privacy.<a href="manifesto.html"> read our manifesto &gt;&gt;</a><br></p>
+              <p class="paragraph hero-paragraph">We live in a world where the range of cyberattacks is ever expanding, and the severity escalates exponentially with the sheer volume of data processed daily across the Internet. <br><br>Attackers evolve rapidly, perfecting their tools and techniques, and demonstrating unprecedented capabilities; thus, collaboration is the most promising way to build a better, more comprehensive, simpler, transparent and scalable security solution.<br><br>Our mission is to provide the ultimate cloud-native application security: a platform that is open, extensible, adaptive and evolving, while maintaining total privacy.<a href="manifesto"> read our manifesto &gt;&gt;</a><br></p>
             </div>
           </div>
           <div class="no-paddings w-col w-col-1">
