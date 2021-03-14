@@ -47,7 +47,7 @@ description: 'News and information about Curiefense, the security extension for 
               <div class="blog-box-sepparator"></div>
               <div class="w-row">
                 <div class="w-col w-col-6">
-                  <div class="blog-box-date">{{post.publishedOn | date_to_string: "ordinal", "US"}}</div>
+                  <div class="blog-box-date">{{post.createdOn | date_to_string: "ordinal", "US"}}</div>
                 </div>
                 <div class="w-col w-col-6">
                   <div class="blog-box-date">{{post.author}}</div>
