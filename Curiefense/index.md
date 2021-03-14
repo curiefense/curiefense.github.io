@@ -29,14 +29,14 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
 }</script>
       </a>
     </div>
-    <div class="hero-image-mask"><img src="images/5fb8444198723103ddf44156_DDOS-04-p-1600.png"
+    <div class="hero-image-mask"><img src="/images/5fb8444198723103ddf44156_DDOS-04-p-1600.png"
            sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 252.46875px, 385.265625px"
            srcset="images/5fb8444198723103ddf44156_DDOS-04-p-1600-p-800.png 800w, images/5fb8444198723103ddf44156_DDOS-04-p-1600-p-1080.png 1080w, images/5fb8444198723103ddf44156_DDOS-04-p-1600.png 1600w"
            alt="" class="hero-image-2"></div>
   </div>
 </header>
 <div class="section-2">
-  <div>A CNCF Sandbox Project</div><img src="images/cncf-color.svg" loading="lazy" width="350" alt=""
+  <div>A CNCF Sandbox Project</div><img src="/images/cncf-color.svg" loading="lazy" width="350" alt=""
        class="image-9">
 </div>
 <div class="wrapper">
@@ -69,7 +69,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
           </div>
         </div>
         <div class="w-col w-col-1 w-col-stack"></div>
-        <div class="w-col w-col-6 w-col-stack"><img src="images/isometric_white_bg-06-06.png"
+        <div class="w-col w-col-6 w-col-stack"><img src="/images/isometric_white_bg-06-06.png"
                srcset="images/isometric_white_bg-06-06-p-500.png 500w, images/isometric_white_bg-06-06-p-800.png 800w, images/isometric_white_bg-06-06-p-1080.png 1080w, images/isometric_white_bg-06-06-p-1600.png 1600w, images/isometric_white_bg-06-06-p-3200.png 3200w, images/isometric_white_bg-06-06.png 6580w"
                height="" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
       </div>
@@ -103,7 +103,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
           </div>
         </div>
         <div class="w-col w-col-1 w-col-stack"></div>
-        <div class="w-col w-col-6 w-col-stack"><img src="images/security-layers_DARK_BG-03.png"
+        <div class="w-col w-col-6 w-col-stack"><img src="/images/security-layers_DARK_BG-03.png"
                srcset="images/security-layers_DARK_BG-03-p-500.png 500w, images/security-layers_DARK_BG-03-p-1600.png 1600w, images/security-layers_DARK_BG-03-p-2000.png 2000w, images/security-layers_DARK_BG-03-p-2600.png 2600w, images/security-layers_DARK_BG-03-p-3200.png 3200w, images/security-layers_DARK_BG-03.png 4478w"
                height="" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
       </div>
@@ -163,18 +163,18 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
         <div class="w-col w-col-4 w-col-stack"></div>
       </div>
       <div class="item-vertical">
-        <div class="w-layout-grid platforms-grid"><img src="images/Docker-compose.png" loading="lazy" height="116"
+        <div class="w-layout-grid platforms-grid"><img src="/images/Docker-compose.png" loading="lazy" height="116"
                sizes="91.46875px" srcset="images/Docker-compose-p-500.png 500w, images/Docker-compose.png 526w"
-               alt=""><img src="images/kubernetes-logo.png" loading="lazy" height="91" sizes="93.78125px"
+               alt=""><img src="/images/kubernetes-logo.png" loading="lazy" height="91" sizes="93.78125px"
                srcset="images/kubernetes-logo-p-500.png 500w, images/kubernetes-logo-p-800.png 800w, images/kubernetes-logo.png 3600w"
-               alt=""><img src="images/istio-logo.png" loading="lazy" height="110" alt=""><img
-               src="images/Envoy.png" loading="lazy" height="94" alt=""><img src="images/google-cloud-1200-630.png"
+               alt=""><img src="/images/istio-logo.png" loading="lazy" height="110" alt=""><img
+               src="/images/Envoy.png" loading="lazy" height="94" alt=""><img src="/images/google-cloud-1200-630.png"
                loading="lazy" height="105" sizes="200px"
                srcset="images/google-cloud-1200-630-p-500.png 500w, images/google-cloud-1200-630-p-800.png 800w, images/google-cloud-1200-630-p-1080.png 1080w, images/google-cloud-1200-630.png 1200w"
-               alt=""><img src="images/aws_logo_smile_1200x630.png" loading="lazy" height="58" sizes="97.1875px"
+               alt=""><img src="/images/aws_logo_smile_1200x630.png" loading="lazy" height="58" sizes="97.1875px"
                srcset="images/aws_logo_smile_1200x630-p-500.png 500w, images/aws_logo_smile_1200x630.png 605w"
-               alt=""><img src="images/azure-icon-250x250.png" loading="lazy" height="82" alt=""><img
-               src="images/Terraform.png" loading="lazy" height="80" sizes="(max-width: 479px) 88vw, 266.859375px"
+               alt=""><img src="/images/azure-icon-250x250.png" loading="lazy" height="82" alt=""><img
+               src="/images/Terraform.png" loading="lazy" height="80" sizes="(max-width: 479px) 88vw, 266.859375px"
                srcset="images/Terraform-p-500.png 500w, images/Terraform-p-800.png 800w, images/Terraform-p-1080.png 1080w, images/Terraform-p-1600.png 1600w, images/Terraform.png 1838w"
                alt=""></div>
       </div>
@@ -197,7 +197,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
         <div class="w-col w-col-4"></div>
       </div>
       <div class="item-vertical">
-        <div class="real-time-screenshot"><img src="images/real_time_screenshot.jpg" loading="lazy"
+        <div class="real-time-screenshot"><img src="/images/real_time_screenshot.jpg" loading="lazy"
                sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, 94vw"
                srcset="images/real_time_screenshot-p-500.jpeg 500w, images/real_time_screenshot-p-800.jpeg 800w, images/real_time_screenshot-p-1080.jpeg 1080w, images/real_time_screenshot-p-1600.jpeg 1600w, images/real_time_screenshot-p-2000.jpeg 2000w, images/real_time_screenshot.jpg 2124w"
                alt=""></div>
@@ -242,7 +242,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
               <div class="endorsements-slide w-slide">
                 <div class="row endorsments-row w-row">
                   <div class="column w-col w-col-4 w-col-small-small-stack">
-                    <div class="endorsements-photo"><img src="images/james.jpg" loading="lazy" alt=""
+                    <div class="endorsements-photo"><img src="/images/james.jpg" loading="lazy" alt=""
                            class="endorsments-img"></div>
                   </div>
                   <div class="w-col w-col-8 w-col-small-small-stack">
@@ -259,7 +259,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
               <div class="endorsements-slide w-slide">
                 <div class="row endorsments-row w-row">
                   <div class="column w-col w-col-4 w-col-small-small-stack">
-                    <div class="endorsements-photo"><img src="images/matt-endorsment.jpg" loading="lazy"
+                    <div class="endorsements-photo"><img src="/images/matt-endorsment.jpg" loading="lazy"
                            sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, 30vw"
                            srcset="images/matt-endorsment-p-500.jpeg 500w, images/matt-endorsment.jpg 684w" alt=""
                            class="endorsments-img"></div>
@@ -277,7 +277,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
               <div class="endorsements-slide w-slide">
                 <div class="row endorsments-row w-row">
                   <div class="column w-col w-col-4 w-col-small-small-stack">
-                    <div class="endorsements-photo"><img src="images/chris.jpg" loading="lazy" alt=""
+                    <div class="endorsements-photo"><img src="/images/chris.jpg" loading="lazy" alt=""
                            class="endorsments-img"></div>
                   </div>
                   <div class="w-col w-col-8 w-col-small-small-stack">
@@ -310,7 +310,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
           <h3 class="heading-2">Created by</h3>
           <div>
             <a href="https://www.reblaze.com/" target="_blank" class="w-inline-block"><img
-                   src="images/reblaze-logomark-black.svg" loading="lazy" width="150" alt=""></a>
+                   src="/images/reblaze-logomark-black.svg" loading="lazy" width="150" alt=""></a>
           </div>
           <h2 class="heading-3">
             <a href="https://www.reblaze.com/" target="_blank">Reblaze</a>, the cloud native security company
@@ -322,7 +322,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
   <div class="section footer">
     <div class="container w-container">
       <div class="w-row">
-        <div class="w-col w-col-4"><img src="images/curie-01.svg" width="147" alt="">
+        <div class="w-col w-col-4"><img src="/images/curie-01.svg" width="147" alt="">
           <div class="footer-description">
             <p class="paragraph">Curiefense is named in honor of the famous scientist <a href="marie-curie"
                  target="_blank">Marie Curie</a>. The first version was developed in Malakoff, France, a few hundred
@@ -333,20 +333,20 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
           <div class="columns w-row">
             <div class="w-col w-col-2 w-col-small-3 w-col-tiny-3">
               <a href="https://github.com/curiefense" target="_blank" class="w-inline-block"><img
-                     src="images/github.svg" loading="lazy" width="30" alt=""></a>
+                     src="/images/github.svg" loading="lazy" width="30" alt=""></a>
             </div>
             <div class="w-col w-col-2 w-col-small-3 w-col-tiny-3">
               <a href="https://twitter.com/curiefense" target="_blank" class="w-inline-block"><img
-                     src="images/twitter.svg" loading="lazy" width="35" alt=""></a>
+                     src="/images/twitter.svg" loading="lazy" width="35" alt=""></a>
             </div>
             <div class="w-col w-col-2 w-col-small-3 w-col-tiny-3">
               <a href="https://join.slack.com/t/curiefense/shared_invite/zt-nc8lyrjo-JJoY2mwrqNOfkmoA6ycTHg"
-                 target="_blank" class="w-inline-block"><img src="images/slack.svg" loading="lazy" width="30"
+                 target="_blank" class="w-inline-block"><img src="/images/slack.svg" loading="lazy" width="30"
                      alt=""></a>
             </div>
             <div class="w-col w-col-6 w-col-small-3 w-col-tiny-3">
               <a href="https://www.linkedin.com/company/curiefense" target="_blank" class="w-inline-block"><img
-                     src="images/linkedin.svg" loading="lazy" width="30" alt=""></a>
+                     src="/images/linkedin.svg" loading="lazy" width="30" alt=""></a>
             </div>
           </div>
         </div>
@@ -409,7 +409,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
     </div>
     <div class="container-2 w-container">
       <a href="https://www.cncf.io/sandbox-projects/" target="_blank" class="w-inline-block"><img
-             src="images/cncf-sandbox-horizontal-color.svg" loading="lazy" width="150" alt="" class="image-8"></a>
+             src="/images/cncf-sandbox-horizontal-color.svg" loading="lazy" width="150" alt="" class="image-8"></a>
     </div>
     <div class="w-container">
       <div class="text-block-4">© 2021 The Linux Foundation. All rights reserved. The Linux Foundation has
@@ -422,5 +422,5 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
 <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5f906e60f009d620eb2024dd"
         type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
         crossorigin="anonymous"></script>
-<script src="js/curiefense.js" type="text/javascript"></script>
+<script src="/js/curiefense.js" type="text/javascript"></script>
 <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
