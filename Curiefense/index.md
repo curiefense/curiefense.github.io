@@ -306,7 +306,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
   <div class="section createdby">
     <div class="container w-container">
       <div class="item-vertical centered">
-        <div class="item-vertical first">
+        <div class="item-vertical first centered">
           <h3 class="heading-2">Created by</h3>
           <div>
             <a href="https://www.reblaze.com/" target="_blank" class="w-inline-block"><img
