@@ -77,7 +77,11 @@
 
   <body class="body">
     {% include navigation.html %}
-    {{ content }}
+    <div class="wrapper">
+      {{ content }}
+    </div>
+    {% include footer.html %}
+    
   </body>
 
 </html>
