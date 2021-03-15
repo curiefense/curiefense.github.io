@@ -14,7 +14,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
          class="button-7 w-button">Get Started</a>
       <a href="#" class="lightbox-link w-inline-block w-lightbox">
         <p class="nav-link"><em class="italic-text-3"></em> View Video<br></p>
-        <script type="application/json" class="w-json">{
+        <script defer type="application/json" class="w-json">{
   "items": [
     {
       "type": "video",
@@ -140,7 +140,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
         <div class="w-col w-col-1 w-col-stack"></div>
         <div class="w-col w-col-6 w-col-stack">
           <div class="w-embed w-script">
-            <script id="asciicast-373999" src="https://asciinema.org/a/373999.js" async="" data-autoplay="true"
+            <script defer id="asciicast-373999" src="https://asciinema.org/a/373999.js" async="" data-autoplay="true"
                     data-loop="true"></script>
           </div>
         </div>
