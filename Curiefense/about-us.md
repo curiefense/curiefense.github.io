@@ -15,7 +15,7 @@ description: "Curiefense is an open source project that adds web security to Env
         </div>
       </div>
       <div class="no-paddings w-col w-col-1">
-        <div class="hero-image"></div>****
+        <div class="hero-image"></div>
       </div>
     </div>
     <div class="item-vertical">
