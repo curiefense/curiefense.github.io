@@ -40,7 +40,6 @@ description: 'News and information about Curiefense, the security extension for 
         <div role="listitem" class="blog-box w-dyn-item">
           <div class="blog-box-image">
             <a href="{{post.url}}" class="w-inline-block" style="background-image: url({{post.MainImage | default: post.thumbnail}}); background-size: cover; background-repeat: no-repeat; height: 100%; display: block;">
-              <!-- <img src="{{post.MainImage | default: post.thumbnail}}" loading="lazy" width="70" alt="" class="blog-box-img"> -->
             </a>
           </div>
           <div class="blog-box-sepparator"></div>
