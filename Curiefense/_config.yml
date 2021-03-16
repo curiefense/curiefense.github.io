@@ -1,6 +1,7 @@
 name: Curifense
 
-permalink: none
+# permalink: none
+permalink: /:title
 
 exclude:
   - Gemfile

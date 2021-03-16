@@ -21,7 +21,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
           </div>
         </div>
         <div class="no-paddings w-col w-col-6 w-col-stack">
-          <div class="hero-image-nohome"><img src="images/Main_diagram-01.png" srcset="images/Main_diagram-01-p-1080.png 1080w, images/Main_diagram-01-p-1600.png 1600w, images/Main_diagram-01-p-2000.png 2000w, images/Main_diagram-01-p-2600.png 2600w, images/Main_diagram-01-p-3200.png 3200w, images/Main_diagram-01.png 4148w" height="" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, (max-width: 991px) 96vw, 610px" alt=""></div>
+          <div class="hero-image-nohome"><img src="/images/Main_diagram-01.png" srcset="/images/Main_diagram-01-p-1080.png 1080w, /images/Main_diagram-01-p-1600.png 1600w, /images/Main_diagram-01-p-2000.png 2000w, /images/Main_diagram-01-p-2600.png 2600w, /images/Main_diagram-01-p-3200.png 3200w, /images/Main_diagram-01.png 4148w" height="" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, (max-width: 991px) 96vw, 610px" alt=""></div>
         </div>
       </div>
     </div>
@@ -65,7 +65,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
       </div>
       <div class="w-col w-col-1 w-col-stack"></div>
       <div class="w-col w-col-6 w-col-stack">
-        <div class="box-shadow padding"><img src="images/WAF-Profiles.png" srcset="images/WAF-Profiles-p-500.png 500w, images/WAF-Profiles-p-800.png 800w, images/WAF-Profiles-p-1080.png 1080w, images/WAF-Profiles-p-1600.png 1600w, images/WAF-Profiles-p-2000.png 2000w, images/WAF-Profiles.png 2210w" height="" sizes="(max-width: 479px) 81vw, (max-width: 767px) 84vw, (max-width: 991px) 71vw, 42vw" alt=""></div>
+        <div class="box-shadow padding"><img src="/images/WAF-Profiles.png" srcset="/images/WAF-Profiles-p-500.png 500w, /images/WAF-Profiles-p-800.png 800w, /images/WAF-Profiles-p-1080.png 1080w, /images/WAF-Profiles-p-1600.png 1600w, /images/WAF-Profiles-p-2000.png 2000w, /images/WAF-Profiles.png 2210w" height="" sizes="(max-width: 479px) 81vw, (max-width: 767px) 84vw, (max-width: 991px) 71vw, 42vw" alt=""></div>
       </div>
     </div>
     <div class="row-section flex-vertical features-top w-row">
@@ -77,7 +77,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
       </div>
       <div class="w-col w-col-1 w-col-stack"></div>
       <div class="w-col w-col-6 w-col-stack">
-        <div><img src="images/DDOS-04.png" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" srcset="images/DDOS-04-p-800.png 800w, images/DDOS-04-p-1080.png 1080w, images/DDOS-04-p-1600.png 1600w, images/DDOS-04-p-2000.png 2000w, images/DDOS-04-p-2600.png 2600w, images/DDOS-04-p-3200.png 3200w, images/DDOS-04.png 4483w" alt=""></div>
+        <div><img src="/images/DDOS-04.png" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" srcset="/images/DDOS-04-p-800.png 800w, /images/DDOS-04-p-1080.png 1080w, /images/DDOS-04-p-1600.png 1600w, /images/DDOS-04-p-2000.png 2000w, /images/DDOS-04-p-2600.png 2600w, /images/DDOS-04-p-3200.png 3200w, /images/DDOS-04.png 4483w" alt=""></div>
       </div>
     </div>
     <div class="row-section flex-vertical features-top w-row">
@@ -106,7 +106,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
       </div>
       <div class="w-col w-col-1 w-col-stack"></div>
       <div class="w-col w-col-6 w-col-stack">
-        <div class="box-shadow padding"><img src="images/Rate-Limits.png" srcset="images/Rate-Limits-p-500.png 500w, images/Rate-Limits-p-800.png 800w, images/Rate-Limits-p-1080.png 1080w, images/Rate-Limits-p-1600.png 1600w, images/Rate-Limits-p-2000.png 2000w, images/Rate-Limits.png 2158w" height="" sizes="(max-width: 479px) 81vw, (max-width: 767px) 84vw, (max-width: 991px) 71vw, 42vw" alt=""></div>
+        <div class="box-shadow padding"><img src="/images/Rate-Limits.png" srcset="/images/Rate-Limits-p-500.png 500w, /images/Rate-Limits-p-800.png 800w, /images/Rate-Limits-p-1080.png 1080w, /images/Rate-Limits-p-1600.png 1600w, /images/Rate-Limits-p-2000.png 2000w, /images/Rate-Limits.png 2158w" height="" sizes="(max-width: 479px) 81vw, (max-width: 767px) 84vw, (max-width: 991px) 71vw, 42vw" alt=""></div>
       </div>
     </div>
     <div class="row-section flex-vertical features-top w-row">
@@ -117,7 +117,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
         </div>
       </div>
       <div class="w-col w-col-1 w-col-stack"></div>
-      <div class="w-col w-col-6 w-col-stack"><img src="images/api-03.png" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" srcset="images/api-03-p-500.png 500w, images/api-03-p-800.png 800w, images/api-03-p-1080.png 1080w, images/api-03.png 2283w" alt=""></div>
+      <div class="w-col w-col-6 w-col-stack"><img src="/images/api-03.png" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" srcset="/images/api-03-p-500.png 500w, /images/api-03-p-800.png 800w, /images/api-03-p-1080.png 1080w, /images/api-03.png 2283w" alt=""></div>
     </div>
     <div class="row-section flex-vertical features-top w-row">
       <div class="w-col w-col-5 w-col-stack">
@@ -141,7 +141,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
       </div>
       <div class="w-col w-col-1 w-col-stack"></div>
       <div class="w-col w-col-6 w-col-stack">
-        <div><img src="images/devops-01.png" srcset="images/devops-01-p-500.png 500w, images/devops-01-p-800.png 800w, images/devops-01-p-1080.png 1080w, images/devops-01.png 1284w" height="" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
+        <div><img src="/images/devops-01.png" srcset="/images/devops-01-p-500.png 500w, /images/devops-01-p-800.png 800w, /images/devops-01-p-1080.png 1080w, /images/devops-01.png 1284w" height="" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
       </div>
     </div>
     <div class="row-section flex-vertical features-top w-row">
@@ -153,7 +153,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
       </div>
       <div class="w-col w-col-1 w-col-stack"></div>
       <div class="w-col w-col-6 w-col-stack">
-        <div class="box-shadow"><img src="images/real_time_screenshot.jpg" srcset="images/real_time_screenshot-p-500.jpeg 500w, images/real_time_screenshot-p-800.jpeg 800w, images/real_time_screenshot-p-1080.jpeg 1080w, images/real_time_screenshot-p-1600.jpeg 1600w, images/real_time_screenshot-p-2000.jpeg 2000w, images/real_time_screenshot.jpg 2124w" height="" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
+        <div class="box-shadow"><img src="/images/real_time_screenshot.jpg" srcset="/images/real_time_screenshot-p-500.jpeg 500w, /images/real_time_screenshot-p-800.jpeg 800w, /images/real_time_screenshot-p-1080.jpeg 1080w, /images/real_time_screenshot-p-1600.jpeg 1600w, /images/real_time_screenshot-p-2000.jpeg 2000w, /images/real_time_screenshot.jpg 2124w" height="" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
       </div>
     </div>
     <div class="row-section flex-vertical features-top w-row">
@@ -164,7 +164,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
         </div>
       </div>
       <div class="w-col w-col-1 w-col-stack"></div>
-      <div class="w-col w-col-6 w-col-stack"><img src="images/Threat-Intelligence-Feeds-03.png" srcset="images/Threat-Intelligence-Feeds-03-p-500.png 500w, images/Threat-Intelligence-Feeds-03-p-800.png 800w, images/Threat-Intelligence-Feeds-03-p-1080.png 1080w, images/Threat-Intelligence-Feeds-03-p-1600.png 1600w, images/Threat-Intelligence-Feeds-03-p-2000.png 2000w, images/Threat-Intelligence-Feeds-03-p-2600.png 2600w, images/Threat-Intelligence-Feeds-03-p-3200.png 3200w, images/Threat-Intelligence-Feeds-03.png 3949w" height="" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
+      <div class="w-col w-col-6 w-col-stack"><img src="/images/Threat-Intelligence-Feeds-03.png" srcset="/images/Threat-Intelligence-Feeds-03-p-500.png 500w, /images/Threat-Intelligence-Feeds-03-p-800.png 800w, /images/Threat-Intelligence-Feeds-03-p-1080.png 1080w, /images/Threat-Intelligence-Feeds-03-p-1600.png 1600w, /images/Threat-Intelligence-Feeds-03-p-2000.png 2000w, /images/Threat-Intelligence-Feeds-03-p-2600.png 2600w, /images/Threat-Intelligence-Feeds-03-p-3200.png 3200w, /images/Threat-Intelligence-Feeds-03.png 3949w" height="" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
     </div>
   </div>
 </div>
