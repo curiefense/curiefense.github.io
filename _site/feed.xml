@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-03-16T16:34:27-07:00</updated><id>/feed.xml</id><title type="html">Curifense</title><entry><title type="html">Curiefense GA (1.3.0) Released</title><link href="/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more" rel="alternate" type="text/html" title="Curiefense GA (1.3.0) Released" /><published>2021-03-02T00:00:00-08:00</published><updated>2021-03-02T00:00:00-08:00</updated><id>/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more</id><content type="html" xml:base="/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-03-16T16:38:43-07:00</updated><id>/feed.xml</id><title type="html">Curifense</title><entry><title type="html">Curiefense GA (1.3.0) Released</title><link href="/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more" rel="alternate" type="text/html" title="Curiefense GA (1.3.0) Released" /><published>2021-03-02T00:00:00-08:00</published><updated>2021-03-02T00:00:00-08:00</updated><id>/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more</id><content type="html" xml:base="/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more">&lt;p&gt;
     Curiefense is now in GA! 🎉 The &lt;a href=&quot;https://docs.curiefense.io/v/1.3.0/installation/getting-started-with-curiefense&quot;&gt;latest version&lt;/a&gt; (1.3.0) is now available for deployment. A lot has happened since the initial release of v1.0
     in November, and not just in &lt;a href=&quot;https://docs.curiefense.io/v/1.3.0/reference/release-notes&quot;&gt;our changelog&lt;/a&gt;. Here are some of the highlights.
 &lt;/p&gt;
@@ -89,125 +89,6 @@
         Stephen and Emilia at O’Reilly for their help with
         &lt;a href=&quot;https://www.katacoda.com/curiefense&quot;&gt;our Katacoda scenarios&lt;/a&gt;
     &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Justin Dorfman</name></author><summary type="html">A lot has happened since the initial release of v1.0 in November, and not just in our changelog. Here are some of the highlights.</summary></entry><entry><title type="html">Curiefense GA (1.3.0) Released: Project joins CNCF Sandbox, launches new learning platform, and more</title><link href="/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more-0" rel="alternate" type="text/html" title="Curiefense GA (1.3.0) Released: Project joins CNCF Sandbox, launches new learning platform, and more" /><published>2021-03-01T00:00:00-08:00</published><updated>2021-03-01T00:00:00-08:00</updated><id>/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more-0</id><content type="html" xml:base="/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more-0">&lt;p&gt;
-    Curiefense is now in GA! 🎉 The &lt;a href=&quot;https://docs.curiefense.io/v/1.3.0/installation/getting-started-with-curiefense&quot;&gt;latest version&lt;/a&gt; (1.3.0) is now available for deployment. A lot has happened since the initial release of v1.0
-    in November, and not just in &lt;a href=&quot;https://docs.curiefense.io/v/1.3.0/reference/release-notes&quot;&gt;our changelog&lt;/a&gt;. Here are some of the highlights.
-&lt;/p&gt;
-&lt;h3&gt;Joining the Open Source and Cloud Native Communities&lt;/h3&gt;
-&lt;p&gt;Curiefense is now a &lt;a href=&quot;https://www.curiefense.io/post/now-a-cncf-sandbox-project&quot;&gt;CNCF Sandbox Project&lt;/a&gt;, and we’re already making substantial progress in conforming the project to CNCF standards.&amp;nbsp;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;The project has &lt;a href=&quot;https://bestpractices.coreinfrastructure.org/en/projects/4576&quot;&gt;earned the CII Best Practices Badge&lt;/a&gt; from the Linux Foundation.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;
-    We have launched a podcast: “&lt;a href=&quot;https://ctcn.fireside.fm/1&quot;&gt;Committing to Cloud Native&lt;/a&gt;.” Along with discussing news and current events in the community, we’ll be documenting our journey as we integrate Curiefense into the
-    cloud native ecosystem. Hopefully, the lessons we learn along the way can be useful to others who travel this path later.&amp;nbsp;&amp;nbsp;&amp;nbsp;
-&lt;/p&gt;
-&lt;h3&gt;New Interactive Learning Platform&lt;/h3&gt;
-&lt;p&gt;
-    Now you can try Curiefense without having to install anything. Our &lt;a href=&quot;https://www.katacoda.com/curiefense/scenarios/getting-started&quot;&gt;first scenario on Katacoda&lt;/a&gt; provides you with a live, remotely-accessible environment, and
-    walks you through Curiefense’s initial deployment, management UI, and dashboards. More scenarios are on the way.
-&lt;/p&gt;
-&lt;h3&gt;Project Transparency and Community Participation&lt;/h3&gt;
-&lt;p&gt;Curiefense has been an “open book” project from day one, and we’re continuing to make data even easier to access. Recently we have:&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Created a &lt;a href=&quot;https://app.databox.com/datawall/3ddf913b2db3bb4f53586ec27aaee63106008ba72&quot;&gt;GitHub Dashboard by Databox&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Added &lt;a href=&quot;https://curiefense.devstats.cncf.io/d/8/dashboards?orgId=1&amp;amp;from=now-7d&amp;amp;to=now-1h&amp;amp;refresh=15m&quot;&gt;activity reporting via CNCF DevStats&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;
-        Created multiple granular channels in the Curiefense Slack workspace, making it easier to follow and participate in specific parts in the project. Slack members can interact with project maintainers, and can also subscribe to our
-        realtime GitHub repository feed.&lt;br /&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&quot;w-richtext-figure-type-image w-richtext-align-center&quot;&gt;
-    &lt;div&gt;
-        &lt;img src=&quot;https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/603d1f417e492c8d476094cf_8TxW2CC76Y5PPK724sbfuKUYj45-nKtkomQVjv0NG2n38a6ajhYrzbA_FNlDX5ud8BkafIweJ7uor_WF-dvSTDsDmmyWK3lXOK180j2rFOT3XaHK3MClYjtVrAARmPVMBMFrFt27.png&quot; width=&quot;auto&quot; height=&quot;auto&quot; loading=&quot;auto&quot; /&gt;
-    &lt;/div&gt;
-&lt;/figure&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;To join the Curiefense workspace on Slack, just email &lt;a href=&quot;mailto:community@curiefense.io&quot;&gt;community@curiefense.io&lt;/a&gt; for an invite.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;
-    To follow us elsewhere, Twitter (&lt;a href=&quot;https://twitter.com/curiefense&quot;&gt;https://twitter.com/curiefense&lt;/a&gt;) is our most-used social media channel. If you prefer email, we also have a
-    &lt;a href=&quot;http://eepurl.com/hnnmpj&quot;&gt;newsletter&lt;/a&gt;.&amp;nbsp;
-&lt;/p&gt;
-&lt;h2&gt;Fun Stuff&lt;/h2&gt;
-&lt;p&gt;
-    To celebrate our launch, we now have &lt;a href=&quot;https://github.com/curiefense/media/blob/main/README.md#-wallpaper&quot;&gt;Curiefense wallpaper&lt;/a&gt; available for your
-    &lt;a href=&quot;https://github.com/curiefense/media/blob/main/README.md#-wallpaper&quot;&gt;desktop&lt;/a&gt; and/or &lt;a href=&quot;https://github.com/curiefense/media/blob/main/README.md#-zoom-virtual-backgrounds&quot;&gt;Zoom&lt;/a&gt;. Stay tuned for shirts and stickers,
-    coming soon!
-&lt;/p&gt;
-&lt;h2&gt;All Are Welcome!&lt;/h2&gt;
-&lt;p&gt;Curiefense is maintained by &lt;a href=&quot;https://www.reblaze.com/&quot;&gt;Reblaze&lt;/a&gt;, which is making significant investments into its development. That being said, Curiefense is a CNCF project, and is vendor-neutral.&amp;nbsp;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;
-    We ask anyone who is interested to join us (including competitors). Our goal is to provide the community with a robust cloud native security solution for Envoy Proxy, and all are welcome. The more we work together, the better it will be
-    for everyone.
-&lt;/p&gt;
-&lt;h2&gt;Acknowledgments and Thanks&lt;/h2&gt;
-&lt;p&gt;The Curiefense team would like to thank:&amp;nbsp;&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;https://twitter.com/amye&quot;&gt;Amye Scavarda Perrin&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/cra&quot;&gt;Chris Aniszczyk&lt;/a&gt; at the CNCF with onboarding&lt;/li&gt;
-    &lt;li&gt;
-        Our advisors: &lt;a href=&quot;https://twitter.com/mattklein123&quot;&gt;Matt Klein&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ChrisUeland&quot;&gt;Chris Ueland&lt;/a&gt;, Chris Ferreira, James Bynoe, and the rest of
-        &lt;a href=&quot;https://www.curiefense.io/about-us&quot;&gt;the team&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://twitter.com/g_uist&quot;&gt;Kerollany “Guist”&lt;/a&gt; for her awesome merch designs&lt;/li&gt;
-    &lt;li&gt;Stephen and Emilia at O’Reilly for their help with &lt;a href=&quot;https://www.katacoda.com/curiefense&quot;&gt;our Katacoda scenarios&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author></entry><entry><title type="html">Curiefense GA (1.3.0) Released</title><link href="/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more-2" rel="alternate" type="text/html" title="Curiefense GA (1.3.0) Released" /><published>2021-03-01T00:00:00-08:00</published><updated>2021-03-01T00:00:00-08:00</updated><id>/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more-2</id><content type="html" xml:base="/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more-2">&lt;p&gt;
-    Curiefense is now in GA! 🎉 The &lt;a href=&quot;https://docs.curiefense.io/v/1.3.0/installation/getting-started-with-curiefense&quot;&gt;latest version&lt;/a&gt; (1.3.0) is now available for deployment. A lot has happened since the initial release of v1.0
-    in November, and not just in &lt;a href=&quot;https://docs.curiefense.io/v/1.3.0/reference/release-notes&quot;&gt;our changelog&lt;/a&gt;. Here are some of the highlights.
-&lt;/p&gt;
-&lt;h3&gt;Joining the Open Source and Cloud Native Communities&lt;/h3&gt;
-&lt;p&gt;Curiefense is now a &lt;a href=&quot;https://www.curiefense.io/post/now-a-cncf-sandbox-project&quot;&gt;CNCF Sandbox Project&lt;/a&gt;, and we’re already making substantial progress in conforming the project to CNCF standards.&amp;nbsp;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;The project has &lt;a href=&quot;https://bestpractices.coreinfrastructure.org/en/projects/4576&quot;&gt;earned the CII Best Practices Badge&lt;/a&gt; from the Linux Foundation.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;
-    We have launched a podcast: “&lt;a href=&quot;https://ctcn.fireside.fm/1&quot;&gt;Committing to Cloud Native&lt;/a&gt;.” Along with discussing news and current events in the community, we’ll be documenting our journey as we integrate Curiefense into the
-    cloud native ecosystem. Hopefully, the lessons we learn along the way can be useful to others who travel this path later.&amp;nbsp;&amp;nbsp;&amp;nbsp;
-&lt;/p&gt;
-&lt;h3&gt;New Interactive Learning Platform&lt;/h3&gt;
-&lt;p&gt;
-    Now you can try Curiefense without having to install anything. Our &lt;a href=&quot;https://www.katacoda.com/curiefense/scenarios/getting-started&quot;&gt;first scenario on Katacoda&lt;/a&gt; provides you with a live, remotely-accessible environment, and
-    walks you through Curiefense’s initial deployment, management UI, and dashboards. More scenarios are on the way.
-&lt;/p&gt;
-&lt;h3&gt;Project Transparency and Community Participation&lt;/h3&gt;
-&lt;p&gt;Curiefense has been an “open book” project from day one, and we’re continuing to make data even easier to access. Recently we have:&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Created a &lt;a href=&quot;https://app.databox.com/datawall/3ddf913b2db3bb4f53586ec27aaee63106008ba72&quot;&gt;GitHub Dashboard by Databox&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Added &lt;a href=&quot;https://curiefense.devstats.cncf.io/d/8/dashboards?orgId=1&amp;amp;from=now-7d&amp;amp;to=now-1h&amp;amp;refresh=15m&quot;&gt;activity reporting via CNCF DevStats&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;
-        Created multiple granular channels in the Curiefense Slack workspace, making it easier to follow and participate in specific parts in the project. Slack members can interact with project maintainers, and can also subscribe to our
-        realtime GitHub repository feed.
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;figure class=&quot;w-richtext-figure-type-image w-richtext-align-center&quot;&gt;
-    &lt;div&gt;
-        &lt;img src=&quot;https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/603d1f417e492c8d476094cf_8TxW2CC76Y5PPK724sbfuKUYj45-nKtkomQVjv0NG2n38a6ajhYrzbA_FNlDX5ud8BkafIweJ7uor_WF-dvSTDsDmmyWK3lXOK180j2rFOT3XaHK3MClYjtVrAARmPVMBMFrFt27.png&quot; width=&quot;auto&quot; height=&quot;auto&quot; loading=&quot;auto&quot; /&gt;
-    &lt;/div&gt;
-&lt;/figure&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;To join the Curiefense workspace on Slack, just email &lt;a href=&quot;mailto:community@curiefense.io&quot;&gt;community@curiefense.io&lt;/a&gt; for an invite.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;
-    To follow us elsewhere, Twitter (&lt;a href=&quot;https://twitter.com/curiefense&quot;&gt;https://twitter.com/curiefense&lt;/a&gt;) is our most-used social media channel. If you prefer email, we also have a
-    &lt;a href=&quot;http://eepurl.com/hnnmpj&quot;&gt;newsletter&lt;/a&gt;.&amp;nbsp;
-&lt;/p&gt;
-&lt;h2&gt;Fun Stuff&lt;/h2&gt;
-&lt;p&gt;
-    To celebrate our launch, we now have &lt;a href=&quot;https://github.com/curiefense/media/blob/main/README.md#-wallpaper&quot;&gt;Curiefense wallpaper&lt;/a&gt; available for your
-    &lt;a href=&quot;https://github.com/curiefense/media/blob/main/README.md#-wallpaper&quot;&gt;desktop&lt;/a&gt; and/or &lt;a href=&quot;https://github.com/curiefense/media/blob/main/README.md#-zoom-virtual-backgrounds&quot;&gt;Zoom&lt;/a&gt;. Stay tuned for shirts and stickers,
-    coming soon!
-&lt;/p&gt;
-&lt;h2&gt;All Are Welcome!&lt;/h2&gt;
-&lt;p&gt;Curiefense is maintained by &lt;a href=&quot;https://www.reblaze.com/&quot;&gt;Reblaze&lt;/a&gt;, which is making significant investments into its development. That being said, Curiefense is a CNCF project, and is vendor-neutral.&amp;nbsp;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;
-    We ask anyone who is interested to join us (including competitors). Our goal is to provide the community with a robust cloud native security solution for Envoy Proxy, and all are welcome. The more we work together, the better it will be
-    for everyone.
-&lt;/p&gt;
-&lt;h2&gt;Acknowledgments and Thanks&lt;/h2&gt;
-&lt;p&gt;The Curiefense team would like to thank:&amp;nbsp;&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;https://twitter.com/amye&quot;&gt;Amye Scavarda Perrin&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/cra&quot;&gt;Chris Aniszczyk&lt;/a&gt; at the CNCF with onboarding&lt;/li&gt;
-    &lt;li&gt;
-        Our advisors: &lt;a href=&quot;https://twitter.com/mattklein123&quot;&gt;Matt Klein&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ChrisUeland&quot;&gt;Chris Ueland&lt;/a&gt;, Chris Ferreira, James Bynoe, and the rest of
-        &lt;a href=&quot;https://www.curiefense.io/about-us&quot;&gt;the team&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://twitter.com/g_uist&quot;&gt;Kerollany “Guist”&lt;/a&gt; for her awesome merch designs&lt;/li&gt;
-    &lt;li&gt;Stephen and Emilia at O’Reilly for their help with &lt;a href=&quot;https://www.katacoda.com/curiefense&quot;&gt;our Katacoda scenarios&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>Justin Dorfman</name></author><summary type="html">A lot has happened since the initial release of v1.0 in November, and not just in our changelog. Here are some of the highlights.</summary></entry><entry><title type="html">Now a CNCF Sandbox Project</title><link href="/now-a-cncf-sandbox-project" rel="alternate" type="text/html" title="Now a CNCF Sandbox Project" /><published>2021-02-18T00:00:00-08:00</published><updated>2021-02-18T00:00:00-08:00</updated><id>/now-a-cncf-sandbox-project</id><content type="html" xml:base="/now-a-cncf-sandbox-project">&lt;p&gt;We’re delighted to announce that Curiefense has been accepted as a CNCF Sandbox Project!&lt;/p&gt;
 &lt;p&gt;
     The &lt;a href=&quot;https://www.cncf.io/&quot; target=&quot;_blank&quot;&gt;Cloud Native Computing Foundation&lt;/a&gt; is the home for many of the fastest-growing open source projects, including Kubernetes, Prometheus, and Envoy. It has hundreds of members,
@@ -621,4 +502,169 @@
     &lt;li&gt;Deep Packet Inspection&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The next two articles in this series will discuss these mechanisms in detail.&lt;/p&gt;
-&lt;p&gt;‍&lt;/p&gt;</content><author><name></name></author><summary type="html">API security is increasingly important on the web today. However, filtering API traffic is, in some ways, quite different than protecting a web application. Here's how Curiefense approaches these challenges.</summary></entry></feed>
+&lt;p&gt;‍&lt;/p&gt;</content><author><name></name></author><summary type="html">API security is increasingly important on the web today. However, filtering API traffic is, in some ways, quite different than protecting a web application. Here's how Curiefense approaches these challenges.</summary></entry><entry><title type="html">Inspired by Marie Curie</title><link href="/inspired-by-marie-curie" rel="alternate" type="text/html" title="Inspired by Marie Curie" /><published>2020-12-22T00:00:00-08:00</published><updated>2020-12-22T00:00:00-08:00</updated><id>/inspired-by-marie-curie</id><content type="html" xml:base="/inspired-by-marie-curie">&lt;figure class=&quot;w-richtext-figure-type-image w-richtext-align-floatleft&quot; style=&quot;max-width: 20%;&quot;&gt;
+    &lt;div&gt;&lt;img src=&quot;https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fe19cf66bd35227921e2edd_Tamara.jpg&quot; loading=&quot;lazy&quot; width=&quot;auto&quot; height=&quot;auto&quot; /&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;p&gt;Hi, my name is Tamara. I work as a data scientist at Reblaze, and I am in love with what I do. I am proud to be part of a team that rocks!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    We recently released a new open-source project: &lt;a href=&quot;https://www.curiefense.io/&quot;&gt;Curiefense&lt;/a&gt;*. It is named after the famous scientist &lt;strong&gt;Marie Curie&lt;/strong&gt; (&lt;em&gt;née&lt;/em&gt; Maria Skłodowska). Madame Curie’s life story can be
+    considered as an inexhaustible source of inspiration, not only for me, but for entire generations. Her example has made me grow and develop, and has taught me to never give up. In this article, I'd like to share some facts from her
+    biography that give me power, energy, and enthusiasm to keep on and do what I’m doing.
+&lt;/p&gt;
+&lt;p&gt;
+    Even as a schoolgirl, Maria was an &lt;strong&gt;extraordinarily hard worker&lt;/strong&gt;. She was devoted to studying, sometimes even skipping sleep and food. After graduating school, she worked as a &lt;em&gt;gouvernante &lt;/em&gt;(governess) to earn
+    money, so she could move to Paris and study chemistry and physics at the Sorbonne (the University of Paris).&amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+    She lived in spartan conditions in the cold attic of the Latin Quarter, studying and working extremely hard. This produced results: Maria became one of the best students of the university and received two degrees (in physics and
+    mathematics). Her hard work attracted attention, and she was given the opportunity to conduct her own research. Marie Curie eventually became the first woman professor in the history of the Sorbonne.
+&lt;/p&gt;
+&lt;p&gt;
+    When Marie and her husband Pierre Curie (whom she had met at the Sorbonne) discovered a new chemical element—now known as &lt;em&gt;radium&lt;/em&gt;&lt;strong&gt;—&lt;/strong&gt;many scientists did not want to believe it. The only way to dispel doubts was to
+    extract a small amount of pure radium from uranium ore, and that was an extremely difficult task. Curie spent years working for free and performing laboratory duties, risking her health and career, and rejecting offers from several
+    universities (in particular, Geneva)&lt;strong&gt; &lt;/strong&gt;only because of her belief in the supreme goal.&lt;strong&gt; &lt;/strong&gt;Marie had to prove her scientific competence with an incredible work capacity and participation in high-profile
+    debates with other scientists&lt;strong&gt;—&lt;/strong&gt;men who didn’t skimp on caustic and sarcastic comments about the idea of a woman working in science.
+&lt;/p&gt;
+&lt;p&gt;
+    After discovering two new elements (radium and polonium), Pierre and Marie &lt;strong&gt;shared all their collected knowledge &lt;/strong&gt;from their years of research. This contributed vastly to the development of industrial radiography,
+    medicine (including radiologic examinations and cancer treatments), and many other fields.&amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+    Marie &lt;strong&gt;invested &lt;/strong&gt;in the founding of several radiological institutes. From our perspective today, she could be named as one of the first practitioners of the Creative Commons principles. (Creative Commons is an American
+    non-profit organization and international network devoted to educational access, and expanding the range of creative works available for others to legally build upon and share.)&amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;
+    Her influence cast a positive light upon the involvement of women in the fields of physics, chemistry and medicine. She was awarded (jointly with Pierre Curie and Henri Becquerel) the 1903 Nobel Prize in Physics, for their
+    investigations into radioactivity, and also (as the sole recipient) the 1911 Nobel Prize in Chemistry for the discovery of polonium and radium.
+&lt;/p&gt;
+&lt;p&gt;
+    Madame Curie was the first person in history to win two Nobel Prizes, and she remains the only person to become a Nobel Laureate in two different sciences. She was the first of 53 women (as of 2019) to have been awarded a Nobel
+    Prize.&amp;nbsp;
+&lt;/p&gt;
+&lt;p&gt;Many medical centers, universities, buildings, public places, streets and museums are named after her; her life and work are described in many works of art, books, biographies and films.&lt;/p&gt;
+&lt;p&gt;
+    Mme. Curie was a member of 85 scientific societies (including the French Medical Academy), received 20 honorary degrees, became a superstar of several fields of science, and contributed to the foundation of the most important radium
+    institutes in Europe. She proved that gender doesn’t play a role in science, and showed that women can be great scientists. She paved the way for subsequent generations of female mathematicians, physicists, and engineers.
+&lt;/p&gt;
+&lt;p&gt;
+    Speaking of great scientists and engineers... at Reblaze we are always hiring! If you'd like to join my team and work on Curiefense and other exciting projects at the cutting edge of current technology (cybersecurity, data science,
+    machine learning, and more), you can apply to join our team at &lt;a href=&quot;https://boards.greenhouse.io/reblazetechnologies/&quot;&gt;https://boards.greenhouse.io/reblazetechnologies/&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+    ‍&lt;strong&gt;Curiefense &lt;/strong&gt;is an Open-Source Security Platform. We believe that open source is an inherently superior approach to software development and distribution: a powerful way to allow the intellect and talents of entire
+    communities to create better tools, for the benefit of us all. By making it freely available, many organizations will be able to access and use this platform, including some that otherwise would not be able to do so. (from
+    &lt;a href=&quot;https://www.reblaze.com/blog/announcing-curiefense-an-open-source-security-platform/&quot;&gt;https://www.reblaze.com/blog/announcing-curiefense-an-open-source-security-platform/&lt;/a&gt;).
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Reblaze Data Scientist Tamara Shostak writes about being inspired by Marie Curie and the example she set by her life, work ethic, and extensive accomplishments.</summary></entry><entry><title type="html">The Curiefense WAF</title><link href="/the-curiefense-waf" rel="alternate" type="text/html" title="The Curiefense WAF" /><published>2020-11-19T00:00:00-08:00</published><updated>2020-11-19T00:00:00-08:00</updated><id>/the-curiefense-waf</id><content type="html" xml:base="/the-curiefense-waf">&lt;p&gt;In a previous article, we discussed &lt;a href=&quot;https://www.curiefense.io/post/an-intuitive-system&quot;&gt;Curiefense’s tag-based real-time traffic processing&lt;/a&gt;:&lt;br /&gt;&lt;/p&gt;
+&lt;figure class=&quot;w-richtext-figure-type-image w-richtext-align-fullwidth&quot; style=&quot;max-width: 1600px;&quot;&gt;
+    &lt;div&gt;
+        &lt;img src=&quot;https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32c94cb1bfc90e1f891c9_xowYh8ajZe7ixE0LQHI-aqgh6M9X6XXJXrvwqrN4GTIsWIh9UbCi_-Zm7Kkqo6QU2PxDFzk9zoywniNdEQhAtflQ1bD5Pkt1_rZ80-zSWPyvzQCd8CvaXT7IZIDPyV1y_nohX3Fg.png&quot; width=&quot;auto&quot; height=&quot;auto&quot; loading=&quot;auto&quot; /&gt;
+    &lt;/div&gt;
+    &lt;figcaption&gt;&lt;em&gt;Four stages of real-time traffic processing&lt;/em&gt;&lt;br /&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+    In the diagram, requests enter from the left and proceed through several stages of evaluation. Those which do not violate any security policies or otherwise exhibit anomalous behavior are allowed through to the protected web resource on
+    the right.
+&lt;/p&gt;
+&lt;p&gt;The last stage of evaluation is the WAF. In the previous article, this was discussed briefly; in this article, we’ll take a closer look.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+    WAF is an acronym for Web Application Firewall. Often this term is used rather broadly (and imprecisely) to describe a security solution that performs various types of traffic filtering. We’ll use the term here in its narrower, more
+    precise sense: a firewall that blocks malicious HTTP requests.
+&lt;/p&gt;
+&lt;h2&gt;Scope of Protection&lt;/h2&gt;
+&lt;p&gt;
+    Curiefense’s WAF protects against a wide range of attacks: SQL injection, code and command injection, directory traversals, file access attempts, cross-site scripting (XSS), and more. It can detect any malicious activity which can be
+    discerned by inspecting an individual request and its contents (its headers, arguments, etc.)&amp;nbsp;&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;Traditionally, WAFs have been used to protect sites and web applications. Curiefense’s WAF can also protect services and APIs, and offers the same set of capabilities for them as it does for sites and apps.&lt;/p&gt;
+&lt;h2&gt;The tldr; Curiefense’s WAF in a nutshell&lt;/h2&gt;
+&lt;p&gt;
+    Curiefense includes an extensive and regularly-updated database of threat signatures. By default, it filters every incoming request that matches a signature. However, it is possible to exempt requests from evaluation against one or more
+    specific signatures.&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Here’s an example of why this can be useful. When an incoming HTTP request has a parameter that contains an apostrophe, this usually indicates an attempt at SQL injection. Therefore, Curiefense includes a threat signature that will
+    block this request. However, in some situations, an apostrophe might be valid within certain input parameters. Thus, an administrator can configure Curiefense to exempt those parameters from being evaluated against that signature.&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    In addition to these built-in threat signatures, Curiefense users can create a wide variety of additional filters. This includes content filtering; users can supply regex patterns which define the allowable structure and content of
+    request parameters.&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;This capability can be quite powerful. A request that does not match these custom filters can be blocked automatically, or subjected to further scrutiny, depending on the configuration.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+    Curiefense’s WAF policies are combined into WAF Profiles, which can be assigned to any scope of paths/URLs within the protected web service. In a typical deployment, there will be a few specific Profiles customized for individual URLs,
+    several additional Profiles for broader paths, and one that applies by default to every URL not otherwise specified.&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;That’s the Curiefense WAF in a nutshell. In the remainder of this article, we’ll discuss its traffic filtering in more detail.&lt;/p&gt;
+&lt;h2&gt;Approach&lt;/h2&gt;
+&lt;p&gt;Curiefense uses both negative security and positive security models:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Negative security&lt;/strong&gt; blocks traffic that matches defined characteristics of malicious traffic, and allows the rest.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Positive security&lt;/strong&gt; allows traffic that matches defined characteristics of legitimate traffic, and blocks the rest.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    Each model has strengths and weaknesses. For example, negative security cannot protect against zero-days, while positive security has a higher risk of producing false-positive alarms. Therefore, Curiefense uses both, to leverage their
+    advantages while avoiding their disadvantages. Here’s how it does this.
+&lt;/p&gt;
+&lt;h2&gt;Capabilities&lt;/h2&gt;
+&lt;p&gt;As mentioned above, Curiefense includes an extensive database of threat signatures. They are viewable in the UI, as shown in the following example. (This particular one detects a specific type of SQL injection.)&lt;br /&gt;&lt;/p&gt;
+&lt;figure class=&quot;w-richtext-figure-type-image w-richtext-align-fullwidth&quot; style=&quot;max-width: 1600px;&quot;&gt;
+    &lt;div&gt;
+        &lt;img src=&quot;https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb615e73775b86f8648c759_AXA_3FsDLRjqAjqoTrIrhdTJX8wxkDDOSrxZD2uZrra6uYIcx07ACymfdznEtdMdsulviUGtVSz6Kf4AHo28L7fVCXyCtDMuFdZ_ewYlqowWyB4WeDDjU_V49QnVCp_d4JEdC6Sh.png&quot; width=&quot;auto&quot; height=&quot;auto&quot; loading=&quot;auto&quot; /&gt;
+    &lt;/div&gt;
+    &lt;figcaption&gt;&lt;em&gt;Curiefense includes an extensive list of signatures. This is one of many for detecting various types of SQL injection.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;By default, a request which matches any of the threat signatures will be blocked. (This is part of Curiefense’s negative security model.)&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Additional security policies can be defined by administrators. Some of these also use negative security, such as enforcement of maximum limits for the length and number of headers, cookies and arguments.&amp;nbsp;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Other policies use positive security, such as those which define the allowable content of specific parameters (headers, cookies, and/or arguments). Requests which do not match these policies can be blocked.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Some policies use a hybrid approach. For example, regex patterns can be defined for specific parameters, and used as follows:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;If a parameter matches its assigned regex pattern, that parameter is deemed to be legitimate. It is exempted from evaluation against the WAF Signatures.&lt;/li&gt;
+    &lt;li&gt;If a parameter does not match its regex pattern, that pattern will be evaluated against the WAF Signatures, except for any Signatures that were specifically excluded for that parameter.&lt;/li&gt;
+    &lt;li&gt;If a parameter does not have a pattern defined, it will be evaluated against all WAF Signatures.&amp;nbsp;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To illustrate this, here’s a sample set of WAF security policies (known as a WAF Profile) in the Curiefense UI:&lt;br /&gt;&lt;/p&gt;
+&lt;figure class=&quot;w-richtext-figure-type-image w-richtext-align-fullwidth&quot; style=&quot;max-width: 1600px;&quot;&gt;
+    &lt;div&gt;
+        &lt;img src=&quot;https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb615e8cbb953b1e851b20c_MEXqHYfQ29cQQnKPLOFhZBWkR6vAEfCcJMdIp0p71tnuX1-nOKCC4UBqJeFEaU0sd3EjoXNdgn1_K45tXS2MOX3ny20uwfHxQ0KZ9Ef4VOl27cl5o-RAb4ZINtTOqig6Q9QzGggs.png&quot; width=&quot;auto&quot; height=&quot;auto&quot; loading=&quot;auto&quot; /&gt;
+    &lt;/div&gt;
+    &lt;figcaption&gt;&lt;em&gt;A sample WAF&amp;nbsp;Profile.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;If this Profile were active for a URL, and an incoming request was received for that URL, Curiefense would iterate through all of the request’s parameters—through every header, cookie, and argument—and evaluate each one as follows:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;If that parameter had a length more than 1024, or it exceeded the allowable number of that type of parameter, the request would be blocked. No further processing would occur.&amp;nbsp;&lt;/li&gt;
+    &lt;li&gt;
+        If the parameter did not have a Matching Value defined (which in the example above means it was any parameter other than a &lt;em&gt;sessionid&lt;/em&gt; header or a header beginning with &lt;em&gt;user_&lt;/em&gt;), it would be evaluated against the
+        threat signature database. If it matched one of the signatures, the request would be blocked and no further processing would occur. Otherwise, processing would continue with the next parameter.
+    &lt;/li&gt;
+    &lt;li&gt;
+        If the parameter had a Matching Value definition, and matched it (which in the above example, means it was either a 12-digit &lt;em&gt;sessionid&lt;/em&gt; header or an 8-character &lt;em&gt;user_*&lt;/em&gt; header), the parameter would be passed, and
+        processing would continue with the next parameter.
+    &lt;/li&gt;
+    &lt;li&gt;
+        If the parameter had a Matching Value definition but did not match it, Curiefense would respond (depending on its configuration) by either blocking the request (which is the case for the &lt;em&gt;sessionid&lt;/em&gt; header in the example), or
+        by evaluating the parameter against all threat signatures, except for any signatures listed in the Exclude Sig field.&lt;br /&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    Note that Curiefense allows the above processing to be bypassed if desired. The “Ignore Alphanumeric Input” option instructs the WAF to treat parameters as benign if they contain only alphanumeric characters. This saves processing time,
+    and it can be useful in situations where extensive content filtering is not needed.&amp;nbsp;&amp;nbsp;&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;For more information on configuring the Curiefense WAF, see the &lt;a href=&quot;https://docs.curiefense.io/console/document-editor/waf-profiles&quot;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Other Features&lt;/h2&gt;
+&lt;p&gt;
+    As shown in the UI screenshot, individual filter rules are combined into a WAF Profile. Profiles can be assigned to paths throughout the protected web service, from globally down to individual URLs. Paths can be specified using regex,
+    which makes it straightforward to administer even complicated deployments.&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;Lastly, as with every other type of configuration within Curiefense:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;All WAF administration can be done via REST API as well as through the UI.&amp;nbsp;&lt;/li&gt;
+    &lt;li&gt;All configurations are maintained in a version history. Users can revert to a previous configuration at any time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Final Notes&lt;/h2&gt;
+&lt;p&gt;
+    A WAF processes requests, and filters them based on their contents. Many attacks are out of scope for WAF filtering, because the individual requests themselves seem benign. For example, a credential stuffing attack consists of requests
+    that are not overtly malicious—they contain no injection attempts, no attempts to access system files, and so on.&amp;nbsp;&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;Curiefense can handle those types of attacks as well, because it has a robust set of threat detection capabilities that go far beyond WAF filtering. We’ll discuss those capabilities in future articles.&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Curiefense’s WAF protects against a wide range of attacks. It includes an extensive database of threat signatures, and users can create custom security policies as well. Here are its capabilities and how to use them.</summary></entry></feed>
