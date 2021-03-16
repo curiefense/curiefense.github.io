@@ -26,7 +26,8 @@ description: "Curiefense is an open source project that adds web security to Env
       {% for member in site.data.team-members %}
         <div id="w-node-_2e17a88a-a2a7-9ea3-09b8-78a22d8b9580-31274adf" class="person-box">
           <div class="person-box-image smaller">
-            <img src="{{member.imageSrc}}" loading="lazy" width="146" sizes="(max-width: 479px) 85vw, (max-width: 767px) 86vw, 90vw" srcset="{{member.imageSrcSet}}" alt="" class="person-img" />
+            <!-- <img src="{{member.imageSrc}}" loading="lazy" width="146" sizes="(max-width: 479px) 85vw, (max-width: 767px) 86vw, 90vw" srcset="{{member.imageSrcSet}}" alt="" class="person-img" /> -->
+            <img width="206px" height="230px" src="{{member.imageSrc}}" loading="lazy" width="146" sizes="(max-width: 479px) 85vw, (max-width: 767px) 86vw, 90vw" srcset="{{member.imageSrcSet}}" alt="" class="person-img" />
           </div>
           <div class="person-box-name">{{member.name}}<br>{{member.company}}</div>
           <div class="person-box-title">{{member.title}}</div>
