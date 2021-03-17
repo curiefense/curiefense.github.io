@@ -184,7 +184,8 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
             <div class="item-vertical">
               <p class="paragraph hero-paragraph contrast">All details (headers and payloads) of all requests are
                 available for display. Curiefense includes Grafana dashboards out of the box, or use your own
-                visualization framework.<br></p>
+                visualization framework.</p>
+                <br>
             </div>
           </div>
         </div>
@@ -192,7 +193,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
       </div>
       <div class="item-vertical">
         <div class="real-time-screenshot">
-          <img width="1080" height="586" src="/images/real_time_screenshot.jpg" loading="lazy" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, 94vw" srcset="images/real_time_screenshot-p-500.jpeg 500w, images/real_time_screenshot-p-800.jpeg 800w, images/real_time_screenshot-p-1080.jpeg 1080w, images/real_time_screenshot-p-1600.jpeg 1600w, images/real_time_screenshot-p-2000.jpeg 2000w, images/real_time_screenshot.jpg 2124w"alt="">
+          <img width="1080" height="586" src="/images/real_time_screenshot.jpg" loading="lazy" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, 94vw" srcset="images/real_time_screenshot-p-500.jpeg 500w, images/real_time_screenshot-p-800.jpeg 800w, images/real_time_screenshot-p-1080.jpeg 1080w, images/real_time_screenshot-p-1600.jpeg 1600w, images/real_time_screenshot-p-2000.jpeg 2000w, images/real_time_screenshot.jpg 2124w" alt="">
         </div>
       </div>
     </div>
