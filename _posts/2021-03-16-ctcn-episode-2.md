@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "How Appfleet Fits into the Cloud Native Ecosystem"
-description: "A lot has happened since the initial release of v1.0 in November, and not just in our changelog. Here are some of the highlights."
+description: "The Cloud Native Ecosystem continues to develop and expand its reach as more and more entrepreneurs see pain points in the developer landscape and seek to fill those gaps."
 published: true
-excerpt: "A lot has happened since the initial release of v1.0 in November, and not just in our changelog. Here are some of the highlights."
-createdOn: "Tue Mar 02 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
+excerpt: ""
+createdOn: "Tue Mar 16 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
 mainImage: ""
-thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/603d4cb85cb5d722b7998c07_Frame%201.png"
+thumbnail: "https://p21.p4.n0.cdn.getcloudapp.com/items/8Luk8X6R/a1778d09-66e3-4db9-bb3a-45f6714d7692.png?v=209e73bb4d6aad8488684c481fb76280"
 ---
+
+<iframe src="https://player.fireside.fm/v2/sO31L4lC+8O-k1eqE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe><br>
 
 The Cloud Native Ecosystem continues to develop and expand its reach as more and more entrepreneurs see pain points in the developer landscape and seek to fill those gaps.  And that’s exactly what [Dmitriy Akulov](https://twitter.com/jimaek) did when he came up against a couple roadblocks time and time again.  To scratch his own itch, he founded [Appfleet](https://appfleet.com/) which has very quickly gained some real traction and is showing itself to be a very valuable tool for developers worldwide.
 
