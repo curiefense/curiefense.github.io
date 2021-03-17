@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="hero-nohome blog-post">
+  <div class="container w-container"></div>
+</div>
+<div class="section blog-post">
+  <div class="container w-container">
+    <div class="blog-post-wrapper">
+      <div class="blog-post-header">
+        <h3 class="heading-2">{{page.title}}</h3>
+        <h1 class="hero-title nohome">{{page.title}}</h1>
+        <div>{{page.title}}</div>
+      </div>
+      <div class="blog-post-main-image">
+        <img loading="lazy" src="{{page.mainImage | default: page.thumbnail}}" alt="">
+      </div>
+      <div class="rich-text-block w-richtext">
+        {{content}}
+      </div>
+    </div>
+  </div>
+</div>
