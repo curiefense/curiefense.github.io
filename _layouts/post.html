@@ -9,7 +9,7 @@ layout: default
   <div class="container w-container">
     <div class="blog-post-wrapper">
       <div class="blog-post-header">
-        <h3 class="heading-2">{{post.createdOn | date_to_string: "ordinal", "US"}}</h3>
+        <h3 class="heading-2">{{page.createdOn | date_to_string: "ordinal", "US"}}</h3>
         <h1 class="hero-title nohome">{{page.title}}</h1>
         {% if page.author != "" %}
           <div>by {{page.author}}</div>
