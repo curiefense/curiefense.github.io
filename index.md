@@ -13,7 +13,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
       <a href="https://docs.curiefense.io/installation/getting-started-with-curiefense"
          class="button-7 w-button">Get Started</a>
       <a href="#" class="lightbox-link w-inline-block w-lightbox">
-        <p class="nav-link"><em class="italic-text-3"></em> View Video<br></p>
+        <p class="nav-link"><img src="/images/youtube-play.png" loading="lazy" width="19" alt="" style="vertical-align: text-top;">  View Video<br></p>
         <script defer async type="application/json" class="w-json">{
   "items": [
     {
@@ -29,14 +29,14 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
 }</script>
       </a>
     </div>
-    <div class="hero-image-mask"><img width="384" height="255" src="/images/5fb8444198723103ddf44156_DDOS-04-p-1600.png"
+    <div class="hero-image-mask"><img width="384" src="/images/5fb8444198723103ddf44156_DDOS-04-p-1600.png"
            sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 252.46875px, 385.265625px"
            srcset="images/5fb8444198723103ddf44156_DDOS-04-p-1600-p-800.png 800w, images/5fb8444198723103ddf44156_DDOS-04-p-1600-p-1080.png 1080w, images/5fb8444198723103ddf44156_DDOS-04-p-1600.png 1600w"
            alt="" class="hero-image-2"></div>
   </div>
 </header>
 <div class="section-2">
-  <div>A CNCF Sandbox Project</div><img height="63" src="/images/cncf-color.svg" loading="lazy" width="350" alt=""
+  <div>A CNCF Sandbox Project</div><img src="/images/cncf-color.svg" loading="lazy" width="350" alt=""
        class="image-9">
 </div>
 <div class="wrapper">
@@ -69,9 +69,16 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
           </div>
         </div>
         <div class="w-col w-col-1 w-col-stack"></div>
-        <div class="w-col w-col-6 w-col-stack"><img width="530" height="406" src="/images/isometric_white_bg-06-06.png"
-               srcset="images/isometric_white_bg-06-06-p-500.png 500w, images/isometric_white_bg-06-06-p-800.png 800w, images/isometric_white_bg-06-06-p-1080.png 1080w, images/isometric_white_bg-06-06-p-1600.png 1600w, images/isometric_white_bg-06-06-p-3200.png 3200w, images/isometric_white_bg-06-06.png 6580w"
-               sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
+        <div class="w-col w-col-6 w-col-stack">
+          <img width="530" src="/images/isometric_white_bg-06-06-p-500.png"
+               srcset="/images/isometric_white_bg-06-06-p-500.png 500w,
+               /images/isometric_white_bg-06-06-p-800.png 800w,
+               /images/isometric_white_bg-06-06-p-1080.png 1080w,
+               /images/isometric_white_bg-06-06-p-1600.png 1600w,
+               /images/isometric_white_bg-06-06-p-3200.png 3200w,
+               /images/isometric_white_bg-06-06.png 6580w"
+               sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt="">
+          </div>
       </div>
     </div>
   </div>
@@ -103,8 +110,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
           </div>
         </div>
         <div class="w-col w-col-1 w-col-stack"></div>
-        <div class="w-col w-col-6 w-col-stack"><img width="530" height="402" src="/images/security-six-layers-1600.png" srcset="images/security-six-layers-1600.png 500w, images/security-six-layers-1600.png 1600w, images/security-layers_DARK_BG-03-p-2000.png 2000w, security-six-layers-1600.png 2600w, images/security-six-layers-1600.png 3200w, images/security-six-layers-1600.png 4478w"
-               sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt=""></div>
+        <div class="w-col w-col-6 w-col-stack"><img width="530" src="/images/security-six-layers-1600.png" srcset="images/security-six-layers-1600.png 500w, images/security-six-layers-1600.png 1600w, images/security-layers_DARK_BG-03-p-2000.png 2000w, security-six-layers-1600.png 2600w, images/security-six-layers-1600.png 3200w, images/security-six-layers-1600.png 4478w"
       </div>
     </div>
   </div>
@@ -162,14 +168,14 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
       </div>
       <div class="item-vertical">
         <div class="w-layout-grid platforms-grid">
-          <img src="/images/Docker-compose.png" loading="lazy" width="91" height="116" sizes="91.46875px" srcset="images/Docker-compose-p-500.png 500w, images/Docker-compose.png 526w" alt="">
-          <img src="/images/kubernetes-logo.png" loading="lazy" width="93" height="91" sizes="93.78125px" srcset="images/kubernetes-logo-p-500.png 500w, images/kubernetes-logo-p-800.png 800w, images/kubernetes-logo.png 3600w" alt="">
-          <img src="/images/istio-logo.png" loading="lazy" width="101" height="110" alt="">
-          <img src="/images/Envoy.png" loading="lazy" width="126" height="94" alt="">
-          <img src="/images/google-cloud-1200-630.png" loading="lazy" width="200" height="105" sizes="200px" srcset="images/google-cloud-1200-630-p-500.png 500w, images/google-cloud-1200-630-p-800.png 800w, images/google-cloud-1200-630-p-1080.png 1080w, images/google-cloud-1200-630.png 1200w" alt="">
-          <img src="/images/aws_logo_smile_1200x630.png" loading="lazy" width="97" height="58" sizes="97.1875px" srcset="images/aws_logo_smile_1200x630-p-500.png 500w, images/aws_logo_smile_1200x630.png 605w" alt="">
-          <img src="/images/azure-icon-250x250.png" loading="lazy" width="82" height="82" alt="">
-          <img src="/images/Terraform.png" loading="lazy" width="258" height="80" sizes="(max-width: 479px) 88vw, 266.859375px" srcset="images/Terraform-p-500.png 500w, images/Terraform-p-800.png 800w, images/Terraform-p-1080.png 1080w, images/Terraform-p-1600.png 1600w, images/Terraform.png 1838w" alt="">
+          <img src="/images/Docker-compose.png" loading="lazy" width="91" sizes="91.46875px" srcset="images/Docker-compose-p-500.png 500w, images/Docker-compose.png 526w" alt="">
+          <img src="/images/kubernetes-logo.png" loading="lazy" width="93" sizes="93.78125px" srcset="images/kubernetes-logo-p-500.png 500w, images/kubernetes-logo-p-800.png 800w, images/kubernetes-logo.png 3600w" alt="">
+          <img src="/images/istio-logo.png" loading="lazy" width="101" alt="">
+          <img src="/images/Envoy.png" loading="lazy" width="126" alt="">
+          <img src="/images/google-cloud-1200-630.png" loading="lazy" width="200" sizes="200px" srcset="images/google-cloud-1200-630-p-500.png 500w, images/google-cloud-1200-630-p-800.png 800w, images/google-cloud-1200-630-p-1080.png 1080w, images/google-cloud-1200-630.png 1200w" alt="">
+          <img src="/images/aws_logo_smile_1200x630.png" loading="lazy" width="97" sizes="97.1875px" srcset="images/aws_logo_smile_1200x630-p-500.png 500w, images/aws_logo_smile_1200x630.png 605w" alt="">
+          <img src="/images/azure-icon-250x250.png" loading="lazy" width="82" alt="">
+          <img src="/images/Terraform.png" loading="lazy" width="258" sizes="(max-width: 479px) 88vw, 266.859375px" srcset="images/Terraform-p-500.png 500w, images/Terraform-p-800.png 800w, images/Terraform-p-1080.png 1080w, images/Terraform-p-1600.png 1600w, images/Terraform.png 1838w" alt="">
         </div>
       </div>
     </div>
@@ -193,7 +199,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
       </div>
       <div class="item-vertical">
         <div class="real-time-screenshot">
-          <img width="1080" height="586" src="/images/real_time_screenshot.jpg" loading="lazy" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, 94vw" srcset="images/real_time_screenshot-p-500.jpeg 500w, images/real_time_screenshot-p-800.jpeg 800w, images/real_time_screenshot-p-1080.jpeg 1080w, images/real_time_screenshot-p-1600.jpeg 1600w, images/real_time_screenshot-p-2000.jpeg 2000w, images/real_time_screenshot.jpg 2124w" alt="">
+          <img width="1080" src="/images/real_time_screenshot.jpg" loading="lazy" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, 94vw" srcset="images/real_time_screenshot-p-500.jpeg 500w, images/real_time_screenshot-p-800.jpeg 800w, images/real_time_screenshot-p-1080.jpeg 1080w, images/real_time_screenshot-p-1600.jpeg 1600w, images/real_time_screenshot-p-2000.jpeg 2000w, images/real_time_screenshot.jpg 2124w" alt="">
         </div>
       </div>
     </div>
@@ -236,7 +242,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
               <div class="endorsements-slide w-slide">
                 <div class="row endorsments-row w-row">
                   <div class="column w-col w-col-4 w-col-small-small-stack">
-                    <div class="endorsements-photo"><img width="348" height="420" src="/images/james.jpg" loading="lazy" alt=""
+                    <div class="endorsements-photo"><img width="348" src="/images/james.jpg" loading="lazy" alt=""
                            class="endorsments-img"></div>
                   </div>
                   <div class="w-col w-col-8 w-col-small-small-stack">
@@ -304,7 +310,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
           <h3 class="heading-2">Created by</h3>
           <div>
             <a href="https://www.reblaze.com/" target="_blank" class="w-inline-block"><img
-                   src="/images/reblaze-logomark-black.svg" loading="lazy" width="150" height="78" alt=""></a>
+                   src="/images/reblaze-logomark-black.svg" loading="lazy" width="150" alt=""></a>
           </div>
           <h2 class="heading-3">
             <a href="https://www.reblaze.com/" target="_blank">Reblaze</a>, the cloud native security company
