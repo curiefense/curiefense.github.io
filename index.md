@@ -110,7 +110,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
           </div>
         </div>
         <div class="w-col w-col-1 w-col-stack"></div>
-        <div class="w-col w-col-6 w-col-stack"><img width="530" src="/images/security-six-layers-1600.png" srcset="images/security-six-layers-1600.png 500w, images/security-six-layers-1600.png 1600w, images/security-layers_DARK_BG-03-p-2000.png 2000w, security-six-layers-1600.png 2600w, images/security-six-layers-1600.png 3200w, images/security-six-layers-1600.png 4478w"
+        <div class="w-col w-col-6 w-col-stack"><img width="530" src="/images/security-six-layers-1600.png" srcset="images/security-six-layers-1600.png 500w, images/security-six-layers-1600.png 1600w, images/security-layers_DARK_BG-03-p-2000.png 2000w, security-six-layers-1600.png 2600w, images/security-six-layers-1600.png 3200w, images/security-six-layers-1600.png 4478w" />
       </div>
     </div>
   </div>
