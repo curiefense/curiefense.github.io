@@ -12,6 +12,9 @@ compress_html:
 # permalink: none
 permalink: /:title
 
+plugins:
+  - jekyll-redirect-from
+
 exclude:
   - Gemfile
   - Gemfile.lock
