@@ -15,6 +15,7 @@ permalink: pretty
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile
