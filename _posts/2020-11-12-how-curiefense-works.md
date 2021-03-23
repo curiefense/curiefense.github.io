@@ -1,13 +1,16 @@
 ---
+title: How Curiefense Works
 layout: post
-title: "How Curiefense Works"
-description: "Curiefense represents a new approach to web security: traffic filtering done directly within the service mesh. Here’s how it works."
+description: 'Curiefense represents a new approach to web security: traffic filtering
+  done directly within the service mesh. Here’s how it works.'
 published: true
-excerpt: "Curiefense represents a new approach to web security: traffic filtering done directly within the service mesh. Here’s how it works."
-createdOn: "Thu Nov 12 2020 21:51:27 GMT+0000 (Coordinated Universal Time)"
-author: ""
-mainImage: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fadae129b676cc8f669fb07_Main_diagram-01.png"
-thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fadae129b676cc8f669fb07_Main_diagram-01.png"
+excerpt: 'Curiefense represents a new approach to web security: traffic filtering
+  done directly within the service mesh. Here’s how it works.'
+createdOn: Thu Nov 12 2020 21:51:27 GMT+0000 (Coordinated Universal Time)
+mainImage: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fadae129b676cc8f669fb07_Main_diagram-01.png
+thumbnail: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fadae129b676cc8f669fb07_Main_diagram-01.png
+redirect_from:
+- "/post/how-curiefense-works"
 ---
 
 <p>Curiefense represents a new approach to web security: traffic filtering done directly within the service mesh. Here’s how it works.</p>

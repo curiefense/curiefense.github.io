@@ -1,13 +1,17 @@
 ---
+title: The Curiefense WAF
 layout: post
-title: "The Curiefense WAF"
-description: "Curiefense’s WAF protects against a wide range of attacks. It includes an extensive database of threat signatures, and users can create custom security policies as well. Here are its capabilities and how to use them. "
+description: Curiefense’s WAF protects against a wide range of attacks. It includes
+  an extensive database of threat signatures, and users can create custom security
+  policies as well. Here are its capabilities and how to use them.
 published: true
-excerpt: "Curiefense’s WAF protects against a wide range of attacks. It includes an extensive database of threat signatures, and users can create custom security policies as well. Here are its capabilities and how to use them."
-createdOn: ""
-author: ""
-mainImage: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb6190d223a0f4b73236273_hexagon-grid-locked.jpg"
-thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb6191501f604ae8c3403c3_hexagon-grid-locked-opengraph.jpg"
+excerpt: Curiefense’s WAF protects against a wide range of attacks. It includes an
+  extensive database of threat signatures, and users can create custom security policies
+  as well. Here are its capabilities and how to use them.
+mainImage: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb6190d223a0f4b73236273_hexagon-grid-locked.jpg
+thumbnail: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb6191501f604ae8c3403c3_hexagon-grid-locked-opengraph.jpg
+redirect_from:
+- "/post/the-curiefense-waf"
 ---
 
 <p>In a previous article, we discussed <a href="https://www.curiefense.io/post/an-intuitive-system">Curiefense’s tag-based real-time traffic processing</a>:<br /></p>

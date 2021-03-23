@@ -13,7 +13,7 @@ excerpt: Many organizations today have embraced microservices; they have abandon
 createdOn: Tue Mar 11 2021 13:42:55 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
 mainImage: ""
-thumbnail: "./images/604b2dba5c9a7036a9c629c6_service-mesh-16x9-p-2000.jpg"
+thumbnail: "/images/604b2dba5c9a7036a9c629c6_service-mesh-16x9-p-2000.jpg"
 redirect_from:
   - /post/web-security-on-service-meshes-part-1-introduction
 ---
