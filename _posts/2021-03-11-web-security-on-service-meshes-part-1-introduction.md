@@ -14,6 +14,8 @@ createdOn: Tue Mar 11 2021 13:42:55 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
 mainImage: ""
 thumbnail: "./images/604b2dba5c9a7036a9c629c6_service-mesh-16x9-p-2000.jpg"
+redirect_from:
+  - /post/web-security-on-service-meshes-part-1-introduction
 ---
 
 Many organizations today have embraced microservices; they have abandoned the legacy, monolithic infrastructure of applications in the past, and moved into a world of APIs, cloud native infrastructure, and containerization. However, while microservices provide many benefits, they also introduce unique challenges, such as:
