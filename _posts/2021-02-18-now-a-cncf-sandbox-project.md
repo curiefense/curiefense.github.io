@@ -1,13 +1,17 @@
 ---
+title: Now a CNCF Sandbox Project
 layout: post
-title: "Now a CNCF Sandbox Project"
-description: "Curiefense has been accepted as a Sandbox Project within the Cloud Native Computing Foundation. Here's what this means, now and going forward."
+description: Curiefense has been accepted as a Sandbox Project within the Cloud Native
+  Computing Foundation. Here's what this means, now and going forward.
 published: true
-excerpt: "Curiefense has been accepted as a Sandbox Project within the Cloud Native Computing Foundation. Here's what this means, now and going forward."
-createdOn: "Thu Feb 18 2021 17:54:12 GMT+0000 (Coordinated Universal Time)"
-author: "Spiros Psarris"
-mainImage: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/602ea960aae4f67ad3e8b8cf_CNCF-Sandbox.jpeg"
-thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/603dcbc5c1dd61e9be343884_sandbox.jpg"
+excerpt: Curiefense has been accepted as a Sandbox Project within the Cloud Native
+  Computing Foundation. Here's what this means, now and going forward.
+createdOn: Thu Feb 18 2021 17:54:12 GMT+0000 (Coordinated Universal Time)
+author: Spiros Psarris
+mainImage: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/602ea960aae4f67ad3e8b8cf_CNCF-Sandbox.jpeg
+thumbnail: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/603dcbc5c1dd61e9be343884_sandbox.jpg
+redirect_from:
+- "/post/now-a-cncf-sandbox-project"
 ---
 
 <p>We’re delighted to announce that Curiefense has been accepted as a CNCF Sandbox Project!</p>

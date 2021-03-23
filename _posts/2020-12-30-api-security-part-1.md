@@ -1,13 +1,18 @@
 ---
+title: API Security, Part 1
 layout: post
-title: "API Security, Part 1"
-description: "API security is increasingly important on the web today. However, filtering API traffic is, in some ways, quite different than protecting a web application. Here's how Curiefense approaches these challenges."
+description: API security is increasingly important on the web today. However, filtering
+  API traffic is, in some ways, quite different than protecting a web application.
+  Here's how Curiefense approaches these challenges.
 published: true
-excerpt: "API security is increasingly important on the web today. However, filtering API traffic is, in some ways, quite different than protecting a web application. Here's how Curiefense approaches these challenges."
-createdOn: "Wed Dec 30 2020 18:30:26 GMT+0000 (Coordinated Universal Time)"
-author: ""
-mainImage: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fecc6e52d254242d5211898_4_sec_layers-02%201200x632.png"
-thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fecc6e52d254242d5211898_4_sec_layers-02%201200x632.png"
+excerpt: API security is increasingly important on the web today. However, filtering
+  API traffic is, in some ways, quite different than protecting a web application.
+  Here's how Curiefense approaches these challenges.
+createdOn: Wed Dec 30 2020 18:30:26 GMT+0000 (Coordinated Universal Time)
+mainImage: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fecc6e52d254242d5211898_4_sec_layers-02%201200x632.png
+thumbnail: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fecc6e52d254242d5211898_4_sec_layers-02%201200x632.png
+redirect_from:
+- "/post/api-security-part-1"
 ---
 
 <p>API security is increasingly important on the web today, thanks to microservice architectures, mobile apps, and other growing trends. It’s a broad subject, and includes requirements such as:&nbsp;</p>
