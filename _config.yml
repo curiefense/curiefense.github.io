@@ -9,9 +9,7 @@ compress_html:
   ignore:
     envs: []
 
-# permalink: none
-# permalink: /:title
-permalink: pretty
+permalink: /:title
 
 plugins:
   - jekyll-redirect-from
