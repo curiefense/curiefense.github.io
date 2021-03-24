@@ -1,12 +1,15 @@
 ---
+title: Curiefense GA (1.3.0) Released
 layout: post
-title: "Curiefense GA (1.3.0) Released"
-description: "A lot has happened since the initial release of v1.0 in November, and not just in our changelog. Here are some of the highlights."
+description: A lot has happened since the initial release of v1.0 in November, and
+  not just in our changelog. Here are some of the highlights.
 published: true
 createdOn: "Tue Mar 02 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
 mainImage: ""
 thumbnail: "/images/blog-curiefense-ga-1-3-0-released-1.png"
+redirect_from:
+- "/post/curiefense-ga-1-3-0-released-project-joins-cncf-sandbox-launches-new-learning-platform-and-more"
 ---
 
 <p>

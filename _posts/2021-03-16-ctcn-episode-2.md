@@ -1,7 +1,10 @@
 ---
+title: How Appfleet Fits into the Cloud Native Ecosystem
 layout: post
-title: "How Appfleet Fits into the Cloud Native Ecosystem"
-description: "The Cloud Native Ecosystem continues to develop and expand its reach as more and more entrepreneurs see pain points in the developer landscape and seek to fill those gaps."
+canonical_url: ''
+description: The Cloud Native Ecosystem continues to develop and expand its reach
+  as more and more entrepreneurs see pain points in the developer landscape and seek
+  to fill those gaps.
 published: true
 createdOn: "Tue Mar 16 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
@@ -48,4 +51,3 @@ Every podcast we take a moment to appreciate some amazing work coming out of the
 All in all, we had a great conversation and there was so much more than what we could squeeze into this post.  So be sure to [listen to the whole podcast here](https://podcast.curiefense.io/2) for the full experience.  It’s jam-packed with value and should give you a great introduction to Appfleet and the amazing things they’re building there.
 
 And if you’re going to give Appfleet a try, be sure to use our podcast code [CTCN20](https://appfleet.com/) to get a recurring 20% discount for your first 12 months.
-

@@ -1,12 +1,16 @@
 ---
+title: Adding Web Security to Envoy
 layout: post
-title: "Adding Web Security to Envoy"
-description: "As Envoy Proxy continues to grow and becomes more widely adopted, a natural next step is to add security capabilities. Curiefense leverages Envoy's extensibility and flexibility to provide traffic filtering for a wide variety of use cases."
+description: As Envoy Proxy continues to grow and becomes more widely adopted, a natural
+  next step is to add security capabilities. Curiefense leverages Envoy's extensibility
+  and flexibility to provide traffic filtering for a wide variety of use cases.
 published: true
 createdOn: "Tue Mar 02 2021 06:06:37 GMT+0000 (Coordinated Universal Time)"
 author: ""
 mainImage: "/images/blog-adding-web-security-to-envoy.png"
 thumbnail: "/images/blog-adding-web-security-to-envoy.png"
+redirect_from:
+- "/post/adding-web-security-to-envoy"
 ---
 
 <p>As <a href="https://www.envoyproxy.io/" target="_blank">Envoy</a> continues to grow and becomes more widely adopted, a natural next step is to leverage its inherent extensibility to add security capabilities.</p>
@@ -60,4 +64,3 @@ thumbnail: "/images/blog-adding-web-security-to-envoy.png"
 <p><br /></p>
 <p><br /></p>
 <p><br /></p>
-

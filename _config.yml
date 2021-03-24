@@ -1,4 +1,4 @@
-name: Curifense
+name: Curiefense
 
 compress_html:
   clippings: all
@@ -10,7 +10,12 @@ compress_html:
     envs: []
 
 # permalink: none
-permalink: /:title
+# permalink: /:title
+permalink: pretty
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile

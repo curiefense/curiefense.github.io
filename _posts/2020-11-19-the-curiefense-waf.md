@@ -1,12 +1,16 @@
 ---
+title: The Curiefense WAF
 layout: post
-title: "The Curiefense WAF"
-description: "Curiefense’s WAF protects against a wide range of attacks. It includes an extensive database of threat signatures, and users can create custom security policies as well. Here are its capabilities and how to use them. "
+description: Curiefense’s WAF protects against a wide range of attacks. It includes
+  an extensive database of threat signatures, and users can create custom security
+  policies as well. Here are its capabilities and how to use them.
 published: true
 createdOn: ""
 author: ""
 mainImage: "/images/blog-the-curiefense-waf-1.jpeg"
 thumbnail: "/images/blog-the-curiefense-waf-1.jpeg"
+redirect_from:
+- "/post/the-curiefense-waf"
 ---
 
 <p>In a previous article, we discussed <a href="https://www.curiefense.io/post/an-intuitive-system">Curiefense’s tag-based real-time traffic processing</a>:<br /></p>
