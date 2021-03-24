@@ -6,8 +6,8 @@ published: true
 excerpt: "Curiefense is a new open-source cloud-native application security platform. It integrates security directly into modern service architectures, and offers multiple benefits that were not previously available in this form."
 createdOn: "Mon Nov 09 2020 17:56:04 GMT+0000 (Coordinated Universal Time)"
 author: ""
-mainImage: "/images/isometric_white_bg-06-06-p-1600.png"
-thumbnail: "/images/isometric_white_bg-06-06-p-1600.png"
+mainImage: "/images/blog-introducing-curiefense.png"
+thumbnail: "/images/blog-introducing-curiefense.png"
 ---
 
 <p>Curiefense is an open-source cloud-native application security platform. It offers protection for all forms of web traffic: sites, apps, services, and APIs.&nbsp;<br /></p>
