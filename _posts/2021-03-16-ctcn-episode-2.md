@@ -7,7 +7,7 @@ excerpt: ""
 createdOn: "Tue Mar 16 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
 mainImage: ""
-thumbnail: "/images/appfleet-fits-into-cloud-native.png"
+thumbnail: "/images/blog-how-appfleet-fits-into-the-cloud-native-ecosystem.png"
 ---
 
 <iframe src="https://player.fireside.fm/v2/sO31L4lC+8O-k1eqE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe><br>
