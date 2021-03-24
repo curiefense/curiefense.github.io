@@ -6,8 +6,8 @@ published: true
 excerpt: "This article continues the discussion of API security mechanisms, including session flow control, behavioral profiling, content filtering, hostile bot detection, and deep packet inspection."
 createdOn: "Thu Jan 21 2021 06:01:10 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
-mainImage: "/images/flow-control.png"
-thumbnail: "/images/flow-control.png"
+mainImage: "/images/blog-api-security-part3.png"
+thumbnail: "/images/blog-api-security-part3.png"
 ---
 
 <p>
