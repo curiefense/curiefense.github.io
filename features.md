@@ -21,7 +21,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
           </div>
         </div>
         <div class="no-paddings w-col w-col-6 w-col-stack">
-          <div class="hero-image-nohome"><img width="610" src="/images/Main_diagram-01.png" srcset="/images/Main_diagram-01-p-1080.png 1080w, /images/Main_diagram-01-p-1600.png 1600w, /images/Main_diagram-01-p-2000.png 2000w, /images/Main_diagram-01-p-2600.png 2600w, /images/Main_diagram-01-p-3200.png 3200w, /images/Main_diagram-01.png 4148w" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, (max-width: 991px) 96vw, 610px" alt=""></div>
+          <div class="hero-image-nohome"><img width="610" src="/images/Main_diagram-01.png" srcset="/images/blog-how-curiefense-works.png 1080w, /images/Main_diagram-01-p-1600.png 1600w, /images/Main_diagram-01-p-2000.png 2000w, /images/Main_diagram-01-p-2600.png 2600w, /images/Main_diagram-01-p-3200.png 3200w, /images/Main_diagram-01.png 4148w" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, (max-width: 991px) 96vw, 610px" alt=""></div>
         </div>
       </div>
     </div>
