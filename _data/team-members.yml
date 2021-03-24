@@ -32,7 +32,14 @@
   linkedInProfileLink: https://www.linkedin.com/in/james-austin-bynoe-5693a418/
   imageSrc: /images/james.jpg
   imageSrcSet: 
-  
+
+- name: Santosh Kumar
+  company: Cisco
+  title: Product Advisory
+  linkedInProfileLink: https://www.linkedin.com/in/santokum/
+  imageSrc: /images/santosh-kumar.jpg
+  imageSrcSet: /images/santosh-kumar.jpeg 500w, /images/santosh-kumar.jpeg 800w, /images/santosh-kumar.jpeg 1080w, /images/santosh-kumar.jpeg 1368w
+
 - name: Chris Aniszczyk
   company: CNCF
   title: Product Advisory
@@ -130,11 +137,4 @@
   linkedInProfileLink: https://www.linkedin.com/in/nirgeninson/
   imageSrc: /images/photo5.jpg
   imageSrcSet: /images/photo5-p-500.jpeg 500w, /images/photo5.jpg 690w
-  
-- name: Andreu Pifarre
-  company: Loop
-  title: Website
-  linkedInProfileLink: https://www.linkedin.com/in/andreupifarre/
-  imageSrc: /images/photo12.jpg
-  imageSrcSet: /images/photo12-p-500.jpeg 500w, /images/photo12.jpg 690w
   

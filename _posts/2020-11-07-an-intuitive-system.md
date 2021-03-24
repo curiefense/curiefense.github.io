@@ -1,12 +1,16 @@
 ---
+title: An Intuitive System
 layout: post
-title: "An Intuitive System"
-description: "To filter HTTP traffic, Curiefense uses an intuitive tag-based system. It's flexible and powerful, but still straightforward to understand and use. Here's how it works. "
+description: To filter HTTP traffic, Curiefense uses an intuitive tag-based system.
+  It's flexible and powerful, but still straightforward to understand and use. Here's
+  how it works.
 published: true
 createdOn: "Tue Nov 17 2020 01:56:49 GMT+0000 (Coordinated Universal Time)"
 author: ""
 mainImage: "/images/blog-an-intuitive-system-1.png"
 thumbnail: "/images/blog-an-intuitive-system-1.png"
+redirect_from:
+- "/post/an-intuitive-system"
 ---
 
 <p>A key element of every security system is its ease of use. One of Curiefense’s core principles (as discussed in the <a href="https://www.curiefense.io/manifesto">Manifesto</a>) is simplicity:&nbsp;<br /></p>
