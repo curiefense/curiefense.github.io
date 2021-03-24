@@ -18,6 +18,10 @@ layout: compress
     <meta content="{{page.title}}" property="twitter:title">
     <meta content="{{page.description}}" property="twitter:description">
     
+    {% if page.canonical_url %}
+    <link rel="canonical" href="{{page.canonical_url}}" />
+    {% endif %}
+    
     <meta content="/images/blog-how-curiefense-works.png"
           property="twitter:image">
           
@@ -81,8 +85,6 @@ layout: compress
       gtag('js', new Date());
       gtag('config', 'G-GS3KLXMBN3');
     </script> -->
-
-    {% seo title=false %}
   </head>
 
   <body class="body">
