@@ -6,8 +6,8 @@ published: true
 excerpt: "Curiefense includes a number of security mechanisms for defending APIs against hostile traffic. This article discusses API Discovery, Identity-Based Filtering, Mobile Client Authentication, Behavior Enforcement, and Rate Limiting."
 createdOn: "Tue Jan 05 2021 04:50:01 GMT+0000 (Coordinated Universal Time)"
 author: ""
-mainImage: "/images/api-discovery.png"
-thumbnail: "/images/api-discovery.png"
+mainImage: "/images/blog-api-security-part2.png"
+thumbnail: "/images/blog-api-security-part2.png"
 ---
 
 <p>
