@@ -14,7 +14,7 @@ thumbnail: "/images/blue-fancy-lock.jpeg"
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="/images/blog_an-intuitive-system_rate-limiting.png"
+            src="/images/blog-an-intuitive-system-1.png"
             width="auto"
             height="auto"
             loading="auto"

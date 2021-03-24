@@ -6,8 +6,8 @@ published: true
 excerpt: "To filter HTTP traffic, Curiefense uses an intuitive tag-based system. It's flexible and powerful, but still straightforward to understand and use. Here's how it works. "
 createdOn: "Tue Nov 17 2020 01:56:49 GMT+0000 (Coordinated Universal Time)"
 author: ""
-mainImage: "/images/blog_an-intuitive-system_rate-limiting.png"
-thumbnail: "/images/blog_an-intuitive-system_rate-limiting.png"
+mainImage: "/images/blog-an-intuitive-system-1.png"
+thumbnail: "/images/blog-an-intuitive-system-1.png"
 ---
 
 <p>A key element of every security system is its ease of use. One of Curiefense’s core principles (as discussed in the <a href="https://www.curiefense.io/manifesto">Manifesto</a>) is simplicity:&nbsp;<br /></p>
@@ -30,7 +30,7 @@ thumbnail: "/images/blog_an-intuitive-system_rate-limiting.png"
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="/images/blog_an-intuitive-system_real-time-traffic.png"
+            src="/images/blog-an-intuitive-system-2.png"
             width="auto"
             height="auto"
             loading="auto"
@@ -61,7 +61,7 @@ thumbnail: "/images/blog_an-intuitive-system_rate-limiting.png"
     and attach a “vpn” tag to requests originating from one of them. And so on.
 </p>
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 2206px;">
-    <div><img src="/images/blog_an-intuitive-system_profiling-list.png" loading="lazy" width="auto" height="auto" /></div>
+    <div><img src="/images/blog-an-intuitive-system-3.png" loading="lazy" width="auto" height="auto" /></div>
     <figcaption><em>The UI for subscribing to an external feed (in this example, Spamhaus DROP) and specifying the tag(s) to attach to requests which match it.</em></figcaption>
 </figure>
 <p>
@@ -84,7 +84,7 @@ thumbnail: "/images/blog_an-intuitive-system_rate-limiting.png"
 <p>Curiefense uses a request’s tags to enforce security policies. These are defined in an ACL (Access Control List) Profile. An ACL Profile defines the actions to take when certain tags are found, arranged in a sequential order.<br /></p>
 <p>Here’s an example in the Curiefense UI:</p>
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 2214px;">
-    <div><img src="/images/blog_an-intuitive-system_acl-profiling.png" loading="lazy" width="auto" height="auto" /></div>
+    <div><img src="/images/blog-an-intuitive-system-4.png" loading="lazy" width="auto" height="auto" /></div>
     <figcaption><em>A sample ACL&nbsp;Profile in the Curiefense UI</em></figcaption>
 </figure>
 <p>‍</p>
@@ -112,7 +112,7 @@ thumbnail: "/images/blog_an-intuitive-system_rate-limiting.png"
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="/images/blog_an-intuitive-system_waf-profiling.png"
+            src="/images/blog-an-intuitive-system-5.png"
             width="auto"
             height="auto"
             loading="auto"
@@ -133,7 +133,7 @@ thumbnail: "/images/blog_an-intuitive-system_rate-limiting.png"
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="/images/blog_an-intuitive-system_rate-limiting.png"
+            src="/images/blog-an-intuitive-system-1.png"
             width="auto"
             height="auto"
             loading="auto"
