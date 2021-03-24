@@ -3,7 +3,6 @@ layout: post
 title: "Now a CNCF Sandbox Project"
 description: "Curiefense has been accepted as a Sandbox Project within the Cloud Native Computing Foundation. Here's what this means, now and going forward."
 published: true
-description:"Curiefense has been accepted as a Sandbox Project within the Cloud Native Computing Foundation. Here's what this means, now and going forward."
 createdOn: "Thu Feb 18 2021 17:54:12 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
 mainImage: "/images/blog-now-a-cncf-sandbox-poject.svg"

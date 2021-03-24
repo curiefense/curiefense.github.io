@@ -3,7 +3,6 @@ layout: post
 title: "An Intuitive System"
 description: "To filter HTTP traffic, Curiefense uses an intuitive tag-based system. It's flexible and powerful, but still straightforward to understand and use. Here's how it works. "
 published: true
-description:"To filter HTTP traffic, Curiefense uses an intuitive tag-based system. It's flexible and powerful, but still straightforward to understand and use. Here's how it works. "
 createdOn: "Tue Nov 17 2020 01:56:49 GMT+0000 (Coordinated Universal Time)"
 author: ""
 mainImage: "/images/blog-an-intuitive-system-1.png"

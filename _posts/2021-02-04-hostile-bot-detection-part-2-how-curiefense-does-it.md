@@ -3,7 +3,6 @@ layout: post
 title: "Hostile Bot Detection Part 2: How Curiefense Does It"
 description: "The previous article on Hostile Bot Detection discussed why it is so important, and the problems with using reCAPTCHA for this. Now in part 2, we'll discuss how Curiefense identifies and filters malicious bots."
 published: true
-description:"The previous article on Hostile Bot Detection discussed why it is so important, and the problems with using reCAPTCHA for this. Now in part 2, we'll discuss how Curiefense identifies and filters malicious bots."
 createdOn: "Thu Feb 04 2021 16:43:09 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
 mainImage: "/images/blog-hostile-bot-detection-part2-how-curiefense-does-it.png"

@@ -3,7 +3,6 @@ layout: post
 title: "Introducing Curiefense"
 description: "Curiefense is a new open-source cloud-native application security platform. It integrates security directly into modern service architectures, and offers multiple benefits that were not previously available in this form."
 published: true
-description:"Curiefense is a new open-source cloud-native application security platform. It integrates security directly into modern service architectures, and offers multiple benefits that were not previously available in this form."
 createdOn: "Mon Nov 09 2020 17:56:04 GMT+0000 (Coordinated Universal Time)"
 author: ""
 mainImage: "/images/blog-introducing-curiefense.png"

@@ -3,7 +3,6 @@ layout: post
 title: "Curiefense GA (1.3.0) Released"
 description: "A lot has happened since the initial release of v1.0 in November, and not just in our changelog. Here are some of the highlights."
 published: true
-description:"A lot has happened since the initial release of v1.0 in November, and not just in our changelog. Here are some of the highlights."
 createdOn: "Tue Mar 02 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
 mainImage: ""
