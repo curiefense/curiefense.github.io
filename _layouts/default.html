@@ -19,7 +19,10 @@ layout: compress
     <meta content="{{page.description}}" property="twitter:description">
     
     {% if page.canonical_url %}
-    <link rel="canonical" href="{{page.canonical_url}}" />
+      {%- assign canonicalurl = page.canonical_url | strip -%}
+      {% if canonicalurl != "" %}
+        <link rel="canonical" href="{{canonicalurl}}" />
+      {% endif %}
     {% endif %}
     
     <meta content="/images/blog-how-curiefense-works.png"
