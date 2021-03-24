@@ -6,12 +6,12 @@ published: true
 excerpt: "Reblaze Data Scientist Tamara Shostak writes about being inspired by Marie Curie and the example she set by her life, work ethic, and extensive accomplishments. "
 createdOn: "Tue Dec 22 2020 07:20:34 GMT+0000 (Coordinated Universal Time)"
 author: ""
-mainImage: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fe1a47e716aa856efdf1c47_Marie-Curie.jpg"
-thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fe1a47e716aa856efdf1c47_Marie-Curie.jpg"
+mainImage: "/images/V4VWSYDNOGOBZCMBGMYWFVV36Q.jpg"
+thumbnail: "/images/V4VWSYDNOGOBZCMBGMYWFVV36Q.jpg"
 ---
 
 <figure class="w-richtext-figure-type-image w-richtext-align-floatleft" style="max-width: 20%;">
-    <div><img src="https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fe19cf66bd35227921e2edd_Tamara.jpg" loading="lazy" width="auto" height="auto" /></div>
+    <div><img src="/images/photo9.jpg" loading="lazy" width="auto" height="auto" /></div>
 </figure>
 <p>Hi, my name is Tamara. I work as a data scientist at Reblaze, and I am in love with what I do. I am proud to be part of a team that rocks!&nbsp;</p>
 <p>

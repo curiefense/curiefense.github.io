@@ -7,7 +7,7 @@ excerpt: "A lot has happened since the initial release of v1.0 in November, and 
 createdOn: "Tue Mar 02 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
 mainImage: ""
-thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/603d4cb85cb5d722b7998c07_Frame%201.png"
+thumbnail: "/images/release-1-3-0.png"
 ---
 
 <p>
@@ -57,7 +57,7 @@ thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/603d4cb85cb
 <figure class="w-richtext-figure-type-image w-richtext-align-center">
     <div>
         <img
-            src="https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/603d1f417e492c8d476094cf_8TxW2CC76Y5PPK724sbfuKUYj45-nKtkomQVjv0NG2n38a6ajhYrzbA_FNlDX5ud8BkafIweJ7uor_WF-dvSTDsDmmyWK3lXOK180j2rFOT3XaHK3MClYjtVrAARmPVMBMFrFt27.png"
+            src="/images/github-repo-feed.png"
             width="auto"
             height="auto"
             loading="auto"
