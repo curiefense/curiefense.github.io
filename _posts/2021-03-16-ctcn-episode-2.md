@@ -3,7 +3,7 @@ layout: post
 title: "How Appfleet Fits into the Cloud Native Ecosystem"
 description: "The Cloud Native Ecosystem continues to develop and expand its reach as more and more entrepreneurs see pain points in the developer landscape and seek to fill those gaps."
 published: true
-excerpt: ""
+description:""
 createdOn: "Tue Mar 16 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
 mainImage: ""

@@ -3,7 +3,7 @@ layout: post
 title: "Hostile Bot Detection Part 1: Replacing reCAPTCHA"
 description: "reCAPTCHA is a popular service for automatically excluding bots, but there is a growing dissatisfaction over its UX, effectiveness, and potential lack of privacy. For organizations seeking an alternative, what is available to replace it?"
 published: true
-excerpt: "reCAPTCHA is a popular service for automatically excluding bots, but there is a growing dissatisfaction over its UX, effectiveness, and potential lack of privacy. For organizations seeking an alternative, what is available to replace it?"
+description:"reCAPTCHA is a popular service for automatically excluding bots, but there is a growing dissatisfaction over its UX, effectiveness, and potential lack of privacy. For organizations seeking an alternative, what is available to replace it?"
 createdOn: "Thu Jan 28 2021 06:02:08 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
 mainImage: "/images/blog-hostile-bot-detection-part1-replacing-reCAPTCHA.png"

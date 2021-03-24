@@ -55,7 +55,7 @@ description: 'News and information about Curiefense, the security extension for 
             <div class="blog-box-name">{{post.title}}</div>
           </a>
           <p class="paragraph blog-box-summary">
-            {{post.excerpt}}
+            {{post.description}}
           </p>
           <a href="{{post.url}}" class="button blog-box-button w-inline-block">
             <div class="text-block">Read more</div>
