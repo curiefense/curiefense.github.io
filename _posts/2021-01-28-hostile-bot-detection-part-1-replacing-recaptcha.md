@@ -6,8 +6,8 @@ published: true
 excerpt: "reCAPTCHA is a popular service for automatically excluding bots, but there is a growing dissatisfaction over its UX, effectiveness, and potential lack of privacy. For organizations seeking an alternative, what is available to replace it?"
 createdOn: "Thu Jan 28 2021 06:02:08 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
-mainImage: "/images/recaptcha.png"
-thumbnail: "/images/recaptcha.png"
+mainImage: "/images/blog-hostile-bot-detection-part1-replacing-reCAPTCHA.png"
+thumbnail: "/images/blog-hostile-bot-detection-part1-replacing-reCAPTCHA.png"
 ---
 
 <p>Bot detection is crucially important for any organization with a web presence. Almost all attacks involve automated traffic in one form or another, and excluding hostile bots is a vital part of good security.</p>
