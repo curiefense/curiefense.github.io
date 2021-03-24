@@ -6,8 +6,8 @@ published: true
 excerpt: "Curiefense’s WAF protects against a wide range of attacks. It includes an extensive database of threat signatures, and users can create custom security policies as well. Here are its capabilities and how to use them."
 createdOn: ""
 author: ""
-mainImage: "/images/blue-fancy-lock.jpeg"
-thumbnail: "/images/blue-fancy-lock.jpeg"
+mainImage: "/images/blog-the-curiefense-waf-1.jpeg"
+thumbnail: "/images/blog-the-curiefense-waf-1.jpeg"
 ---
 
 <p>In a previous article, we discussed <a href="https://www.curiefense.io/post/an-intuitive-system">Curiefense’s tag-based real-time traffic processing</a>:<br /></p>
@@ -71,7 +71,7 @@ thumbnail: "/images/blue-fancy-lock.jpeg"
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="/images/blog_curiefence-waf-capabilities.png"
+            src="/images/blog-the-curiefense-waf-2.jpeg"
             width="auto"
             height="auto"
             loading="auto"
@@ -92,7 +92,7 @@ thumbnail: "/images/blue-fancy-lock.jpeg"
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="/images/blog_curiefence-waf_waf-profile.png"
+            src="/images/blog-the-curiefense-waf-3.png"
             width="auto"
             height="auto"
             loading="auto"
