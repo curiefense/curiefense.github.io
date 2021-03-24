@@ -6,8 +6,8 @@ published: true
 excerpt: "To filter HTTP traffic, Curiefense uses an intuitive tag-based system. It's flexible and powerful, but still straightforward to understand and use. Here's how it works. "
 createdOn: "Tue Nov 17 2020 01:56:49 GMT+0000 (Coordinated Universal Time)"
 author: ""
-mainImage: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32dcf78ac52d6491477a7_Traffic-CF-v1.0.png"
-thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32dcf78ac52d6491477a7_Traffic-CF-v1.0.png"
+mainImage: "/images/blog_an-intuitive-system_rate-limiting.png"
+thumbnail: "/images/blog_an-intuitive-system_rate-limiting.png"
 ---
 
 <p>A key element of every security system is its ease of use. One of Curiefense’s core principles (as discussed in the <a href="https://www.curiefense.io/manifesto">Manifesto</a>) is simplicity:&nbsp;<br /></p>
@@ -30,7 +30,7 @@ thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32dcf78a
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32c942d9b8d6e38700495_L84S5piX2Qm7yG46hzlVay2sND93oswbkgl_bpvzyTKfrC4-M0M9g773KyGZPZCxxAmcmWa-G9Tu4OQq0CNp-PjI-YH10bnLkIWdviiJx68_HcTf0_oNJBTicMPu3stYiqdwSuIy.png"
+            src="/images/blog_an-intuitive-system_real-time-traffic.png"
             width="auto"
             height="auto"
             loading="auto"
@@ -61,7 +61,7 @@ thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32dcf78a
     and attach a “vpn” tag to requests originating from one of them. And so on.
 </p>
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 2206px;">
-    <div><img src="https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb334be97887168802ec433_Profiling%20Lists%20two.png" loading="lazy" width="auto" height="auto" /></div>
+    <div><img src="/images/blog_an-intuitive-system_profiling-list.png" loading="lazy" width="auto" height="auto" /></div>
     <figcaption><em>The UI for subscribing to an external feed (in this example, Spamhaus DROP) and specifying the tag(s) to attach to requests which match it.</em></figcaption>
 </figure>
 <p>
@@ -84,7 +84,7 @@ thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32dcf78a
 <p>Curiefense uses a request’s tags to enforce security policies. These are defined in an ACL (Access Control List) Profile. An ACL Profile defines the actions to take when certain tags are found, arranged in a sequential order.<br /></p>
 <p>Here’s an example in the Curiefense UI:</p>
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 2214px;">
-    <div><img src="https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32f8643c37a170d892a44_ACL%20Profiles%20two.png" loading="lazy" width="auto" height="auto" /></div>
+    <div><img src="/images/blog_an-intuitive-system_acl-profiling.png" loading="lazy" width="auto" height="auto" /></div>
     <figcaption><em>A sample ACL&nbsp;Profile in the Curiefense UI</em></figcaption>
 </figure>
 <p>‍</p>
@@ -112,7 +112,7 @@ thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32dcf78a
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32c955ce12170b9892016_8LZDaeBU3Fu-JwJXe2fyn_rPdmqdRVjV776FojhA5hRCi1607QSljQCX5NWy7SaalcA6oDk4l1LIdsYgYui9_cIbr18eSH_hZbGBLgNctt0rgzfYsDf5UyugEZ4rMGJllv6a9ZKN.png"
+            src="/images/blog_an-intuitive-system_waf-profiling.png"
             width="auto"
             height="auto"
             loading="auto"
@@ -133,7 +133,7 @@ thumbnail: "https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32dcf78a
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32c94cb1bfc90e1f891c9_xowYh8ajZe7ixE0LQHI-aqgh6M9X6XXJXrvwqrN4GTIsWIh9UbCi_-Zm7Kkqo6QU2PxDFzk9zoywniNdEQhAtflQ1bD5Pkt1_rZ80-zSWPyvzQCd8CvaXT7IZIDPyV1y_nohX3Fg.png"
+            src="/images/blog_an-intuitive-system_rate-limiting.png"
             width="auto"
             height="auto"
             loading="auto"
