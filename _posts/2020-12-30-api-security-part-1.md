@@ -6,8 +6,8 @@ published: true
 excerpt: "API security is increasingly important on the web today. However, filtering API traffic is, in some ways, quite different than protecting a web application. Here's how Curiefense approaches these challenges."
 createdOn: "Wed Dec 30 2020 18:30:26 GMT+0000 (Coordinated Universal Time)"
 author: ""
-mainImage: "/images/security-six-layers-1600.png"
-thumbnail: "/images/security-six-layers-1600.png"
+mainImage: "/images/blog-welcome.png"
+thumbnail: "/images/blog-welcome.png"
 ---
 
 <p>API security is increasingly important on the web today, thanks to microservice architectures, mobile apps, and other growing trends. It’s a broad subject, and includes requirements such as:&nbsp;</p>
