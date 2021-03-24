@@ -48,14 +48,14 @@ description: 'News and information about Curiefense, the security extension for 
               <div class="blog-box-date">{{post.createdOn | date_to_string: "ordinal", "US"}}</div>
             </div>
             <div class="w-col w-col-6">
-              <div class="blog-box-date">{{post.author}}</div>
+              <div class="blog-box-date">by {{post.author}}</div>
             </div>
           </div>
           <a href="{{post.url}}" class="w-inline-block">
             <div class="blog-box-name">{{post.title}}</div>
           </a>
           <p class="paragraph blog-box-summary">
-            {{post.excerpt}}
+            {{post.description}}
           </p>
           <a href="{{post.url}}" class="button blog-box-button w-inline-block">
             <div class="text-block">Read more</div>
