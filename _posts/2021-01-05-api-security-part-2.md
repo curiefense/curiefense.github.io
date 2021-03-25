@@ -5,12 +5,10 @@ description: Curiefense includes a number of security mechanisms for defending A
   against hostile traffic. This article discusses API Discovery, Identity-Based Filtering,
   Mobile Client Authentication, Behavior Enforcement, and Rate Limiting.
 published: true
-excerpt: Curiefense includes a number of security mechanisms for defending APIs against
-  hostile traffic. This article discusses API Discovery, Identity-Based Filtering,
-  Mobile Client Authentication, Behavior Enforcement, and Rate Limiting.
-createdOn: Tue Jan 05 2021 04:50:01 GMT+0000 (Coordinated Universal Time)
-mainImage: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5ff3efe4ec5ad4dedf4e1b6b_API-Discovery-cropped.png
-thumbnail: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5ff3efe4ec5ad4dedf4e1b6b_API-Discovery-cropped.png
+createdOn: "Tue Jan 05 2021 04:50:01 GMT+0000 (Coordinated Universal Time)"
+author: ""
+mainImage: "/images/blog-api-security-part2.png"
+thumbnail: "/images/blog-api-security-part2.png"
 redirect_from:
 - "/post/api-security-part-2"
 ---

@@ -20,7 +20,7 @@ description: 'Curiefense adds web security to Envoy Proxy, protecting apps, site
           </div>
         </div>
         <div class="no-paddings w-col w-col-6 w-col-stack">
-          <div class="hero-image-nohome"><img width="610" src="/images/isometric_white_bg-06-06.png" srcset="images/isometric_white_bg-06-06-p-500.png 500w, images/isometric_white_bg-06-06-p-800.png 800w, images/isometric_white_bg-06-06-p-1080.png 1080w, images/isometric_white_bg-06-06-p-1600.png 1600w, images/isometric_white_bg-06-06-p-3200.png 3200w, images/isometric_white_bg-06-06.png 6580w" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, (max-width: 991px) 96vw, 610px" alt=""></div>
+          <div class="hero-image-nohome"><img width="610" src="/images/isometric_white_bg-06-06.png" srcset="images/isometric_white_bg-06-06-p-500.png 500w, images/isometric_white_bg-06-06-p-800.png 800w, images/isometric_white_bg-06-06-p-1080.png 1080w, images/blog-introducing-curiefense.png 1600w, images/isometric_white_bg-06-06-p-3200.png 3200w, images/isometric_white_bg-06-06.png 6580w" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, (max-width: 991px) 96vw, 610px" alt=""></div>
         </div>
       </div>
     </div>

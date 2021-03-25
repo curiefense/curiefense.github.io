@@ -6,13 +6,10 @@ description: reCAPTCHA is a popular service for automatically excluding bots, bu
   of privacy. For organizations seeking an alternative, what is available to replace
   it?
 published: true
-excerpt: reCAPTCHA is a popular service for automatically excluding bots, but there
-  is a growing dissatisfaction over its UX, effectiveness, and potential lack of privacy.
-  For organizations seeking an alternative, what is available to replace it?
-createdOn: Thu Jan 28 2021 06:02:08 GMT+0000 (Coordinated Universal Time)
-author: Spiros Psarris
-mainImage: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/6012529dad89fd4e8662609b_Recaptcha-600px.png
-thumbnail: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/6012529dad89fd4e8662609b_Recaptcha-600px.png
+createdOn: "Thu Jan 28 2021 06:02:08 GMT+0000 (Coordinated Universal Time)"
+author: "Spiros Psarris"
+mainImage: "/images/blog-hostile-bot-detection-part1-replacing-reCAPTCHA.png"
+thumbnail: "/images/blog-hostile-bot-detection-part1-replacing-reCAPTCHA.png"
 redirect_from:
 - "/post/hostile-bot-detection-part-1-replacing-recaptcha"
 ---

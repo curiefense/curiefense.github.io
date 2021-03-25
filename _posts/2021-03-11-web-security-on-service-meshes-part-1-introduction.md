@@ -6,10 +6,6 @@ description: Many organizations today have embraced microservices; they have aba
   a world of APIs, cloud native infrastructure, and containerization. However, while
   microservices provide many benefits, they also introduce unique challenges.
 published: true
-excerpt: Many organizations today have embraced microservices; they have abandoned
-  the legacy, monolithic infrastructure of applications in the past, and moved into
-  a world of APIs, cloud native infrastructure, and containerization. However, while
-  microservices provide many benefits, they also introduce unique challenges
 createdOn: Tue Mar 11 2021 13:42:55 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
 mainImage: ""

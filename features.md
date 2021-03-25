@@ -21,7 +21,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
           </div>
         </div>
         <div class="no-paddings w-col w-col-6 w-col-stack">
-          <div class="hero-image-nohome"><img width="610" src="/images/Main_diagram-01.png" srcset="/images/Main_diagram-01-p-1080.png 1080w, /images/Main_diagram-01-p-1600.png 1600w, /images/Main_diagram-01-p-2000.png 2000w, /images/Main_diagram-01-p-2600.png 2600w, /images/Main_diagram-01-p-3200.png 3200w, /images/Main_diagram-01.png 4148w" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, (max-width: 991px) 96vw, 610px" alt=""></div>
+          <div class="hero-image-nohome"><img width="610" src="/images/Main_diagram-01.png" srcset="/images/blog-how-curiefense-works.png 1080w, /images/Main_diagram-01-p-1600.png 1600w, /images/Main_diagram-01-p-2000.png 2000w, /images/Main_diagram-01-p-2600.png 2600w, /images/Main_diagram-01-p-3200.png 3200w, /images/Main_diagram-01.png 4148w" sizes="(max-width: 479px) 93vw, (max-width: 767px) 92vw, (max-width: 991px) 96vw, 610px" alt=""></div>
         </div>
       </div>
     </div>
@@ -77,7 +77,7 @@ description: 'Curiefense extends Envoy Proxy to include multiple security techno
       </div>
       <div class="w-col w-col-1 w-col-stack"></div>
       <div class="w-col w-col-6 w-col-stack">
-        <div><img width="530" src="/images/DDOS-04.png" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" srcset="/images/DDOS-04-p-800.png 800w, /images/DDOS-04-p-1080.png 1080w, /images/DDOS-04-p-1600.png 1600w, /images/DDOS-04-p-2000.png 2000w, /images/DDOS-04-p-2600.png 2600w, /images/DDOS-04-p-3200.png 3200w, /images/DDOS-04.png 4483w" alt=""></div>
+        <div><img width="530" src="/images/DDOS-04.png" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" srcset="/images/blog-adding-web-security-to-envoy.png 800w, /images/DDOS-04-p-1080.png 1080w, /images/DDOS-04-p-1600.png 1600w, /images/DDOS-04-p-2000.png 2000w, /images/DDOS-04-p-2600.png 2600w, /images/DDOS-04-p-3200.png 3200w, /images/DDOS-04.png 4483w" alt=""></div>
       </div>
     </div>
     <div class="row-section flex-vertical features-top w-row">

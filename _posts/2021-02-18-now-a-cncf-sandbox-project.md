@@ -4,12 +4,10 @@ layout: post
 description: Curiefense has been accepted as a Sandbox Project within the Cloud Native
   Computing Foundation. Here's what this means, now and going forward.
 published: true
-excerpt: Curiefense has been accepted as a Sandbox Project within the Cloud Native
-  Computing Foundation. Here's what this means, now and going forward.
-createdOn: Thu Feb 18 2021 17:54:12 GMT+0000 (Coordinated Universal Time)
-author: Spiros Psarris
-mainImage: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/602ea960aae4f67ad3e8b8cf_CNCF-Sandbox.jpeg
-thumbnail: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/603dcbc5c1dd61e9be343884_sandbox.jpg
+createdOn: "Thu Feb 18 2021 17:54:12 GMT+0000 (Coordinated Universal Time)"
+author: "Spiros Psarris"
+mainImage: "/images/blog-now-a-cncf-sandbox-poject.svg"
+thumbnail: "/images/blog-now-a-cncf-sandbox-poject.svg"
 redirect_from:
 - "/post/now-a-cncf-sandbox-project"
 ---

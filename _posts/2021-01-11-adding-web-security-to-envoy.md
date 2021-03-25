@@ -5,12 +5,10 @@ description: As Envoy Proxy continues to grow and becomes more widely adopted, a
   next step is to add security capabilities. Curiefense leverages Envoy's extensibility
   and flexibility to provide traffic filtering for a wide variety of use cases.
 published: true
-excerpt: As Envoy Proxy continues to grow and becomes more widely adopted, a natural
-  next step is to add security capabilities. Curiefense leverages Envoy's extensibility
-  and flexibility to provide traffic filtering for a wide variety of use cases.
-createdOn: Tue Mar 02 2021 06:06:37 GMT+0000 (Coordinated Universal Time)
-mainImage: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5ffbb5fec6f932ae75bf2758_DDOS-04.png
-thumbnail: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5ffbb5fec6f932ae75bf2758_DDOS-04.png
+createdOn: "Tue Mar 02 2021 06:06:37 GMT+0000 (Coordinated Universal Time)"
+author: ""
+mainImage: "/images/blog-adding-web-security-to-envoy.png"
+thumbnail: "/images/blog-adding-web-security-to-envoy.png"
 redirect_from:
 - "/post/adding-web-security-to-envoy"
 ---

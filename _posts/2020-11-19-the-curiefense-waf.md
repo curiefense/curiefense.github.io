@@ -5,11 +5,10 @@ description: Curiefense’s WAF protects against a wide range of attacks. It inc
   an extensive database of threat signatures, and users can create custom security
   policies as well. Here are its capabilities and how to use them.
 published: true
-excerpt: Curiefense’s WAF protects against a wide range of attacks. It includes an
-  extensive database of threat signatures, and users can create custom security policies
-  as well. Here are its capabilities and how to use them.
-mainImage: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb6190d223a0f4b73236273_hexagon-grid-locked.jpg
-thumbnail: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb6191501f604ae8c3403c3_hexagon-grid-locked-opengraph.jpg
+createdOn: ""
+author: ""
+mainImage: "/images/blog-the-curiefense-waf-1.jpeg"
+thumbnail: "/images/blog-the-curiefense-waf-1.jpeg"
 redirect_from:
 - "/post/the-curiefense-waf"
 ---
@@ -18,7 +17,7 @@ redirect_from:
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb32c94cb1bfc90e1f891c9_xowYh8ajZe7ixE0LQHI-aqgh6M9X6XXJXrvwqrN4GTIsWIh9UbCi_-Zm7Kkqo6QU2PxDFzk9zoywniNdEQhAtflQ1bD5Pkt1_rZ80-zSWPyvzQCd8CvaXT7IZIDPyV1y_nohX3Fg.png"
+            src="/images/blog-an-intuitive-system-1.png"
             width="auto"
             height="auto"
             loading="auto"
@@ -75,7 +74,7 @@ redirect_from:
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb615e73775b86f8648c759_AXA_3FsDLRjqAjqoTrIrhdTJX8wxkDDOSrxZD2uZrra6uYIcx07ACymfdznEtdMdsulviUGtVSz6Kf4AHo28L7fVCXyCtDMuFdZ_ewYlqowWyB4WeDDjU_V49QnVCp_d4JEdC6Sh.png"
+            src="/images/blog-the-curiefense-waf-2.jpeg"
             width="auto"
             height="auto"
             loading="auto"
@@ -96,7 +95,7 @@ redirect_from:
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/5fb615e8cbb953b1e851b20c_MEXqHYfQ29cQQnKPLOFhZBWkR6vAEfCcJMdIp0p71tnuX1-nOKCC4UBqJeFEaU0sd3EjoXNdgn1_K45tXS2MOX3ny20uwfHxQ0KZ9Ef4VOl27cl5o-RAb4ZINtTOqig6Q9QzGggs.png"
+            src="/images/blog-the-curiefense-waf-3.png"
             width="auto"
             height="auto"
             loading="auto"

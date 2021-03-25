@@ -23,7 +23,12 @@
         </div>
         <div class="columns w-row w-hidden-tiny w-hidden-small">
           <div class="w-col w-col-6 w-col-small-3 w-col-tiny-3">
-            <a href="https://github.com/curiefense/curiefense.github.io/tree/main{% if page.url == '/' %}{{ '/index.md' }}{% else %}{{page.url}}.md{% endif %}">Edit This Page</a>
+            {% if page.layout == "post" %}
+              {%- assign pageUrl = "/_posts" | strip -%}
+            {% else %}
+              {% assign pageUrl = page.url | append: ".md" %}
+            {% endif %}
+            <a href="https://github.com/curiefense/curiefense.github.io/tree/main{% if page.url == '/' %}{{ '/index.md' }}{% else %}{{pageUrl}}{% endif %}">Edit This Page</a>
           </div>
         </div>
       </div>
@@ -63,7 +68,7 @@
     </div>
   </div>
   <div class="container-2 w-container">
-    <a href="https://www.cncf.io/sandbox-projects/" target="_blank" class="w-inline-block"><img src="/images/cncf-sandbox-horizontal-color.svg" loading="lazy" width="150" alt="" class="image-8"></a>
+    <a href="https://www.cncf.io/sandbox-projects/" target="_blank" class="w-inline-block"><img src="/images/blog-now-a-cncf-sandbox-poject.svg" loading="lazy" width="150" alt="" class="image-8"></a>
   </div>
   <div class="w-container">
     <div class="text-block-4">© 2021 The Linux Foundation. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. <br>For a list of trademarks of The Linux Foundation, please see our <a href="https://www.linuxfoundation.org/en/trademark-usage/" target="_blank">Trademark Usage</a> page.</div>

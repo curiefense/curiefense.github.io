@@ -74,7 +74,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
                srcset="/images/isometric_white_bg-06-06-p-500.png 500w,
                /images/isometric_white_bg-06-06-p-800.png 800w,
                /images/isometric_white_bg-06-06-p-1080.png 1080w,
-               /images/isometric_white_bg-06-06-p-1600.png 1600w,
+               /images/blog-introducing-curiefense.png 1600w,
                /images/isometric_white_bg-06-06-p-3200.png 3200w,
                /images/isometric_white_bg-06-06.png 6580w"
                sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt="">
@@ -111,7 +111,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
         </div>
         <div class="w-col w-col-1 w-col-stack"></div>
         <div class="w-col w-col-6 w-col-stack">
-          <img width="530" src="/images/security-six-layers-1600.png" srcset="images/security-six-layers-1600.png 500w, images/security-six-layers-1600.png 1600w, images/security-layers_DARK_BG-03-p-2000.png 2000w, security-six-layers-1600.png 2600w, images/security-six-layers-1600.png 3200w, images/security-six-layers-1600.png 4478w">
+          <img width="530" src="/images/blog-welcome.png" srcset="images/blog-welcome.png 500w, images/blog-welcome.png 1600w, images/security-layers_DARK_BG-03-p-2000.png 2000w, blog-welcome.png 2600w, images/blog-welcome.png 3200w, images/blog-welcome.png 4478w">
         </div>
       </div>
     </div>

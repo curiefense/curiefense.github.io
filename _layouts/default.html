@@ -11,15 +11,27 @@ layout: compress
     <meta content="{{page.description}}" name="description">
     <meta content="{{page.title}}" property="og:title">
     <meta content="{{page.description}}" property="og:description">
-    <meta content="https://assets.website-files.com/5f906e60f009d620eb2024dd/5fab726ec93b28ec252e165e_Main_diagram-01-p-1080.png"
+    
+    <meta content="/images/blog-how-curiefense-works.png"
           property="og:image">
+          
     <meta content="{{page.title}}" property="twitter:title">
     <meta content="{{page.description}}" property="twitter:description">
-    <meta content="https://assets.website-files.com/5f906e60f009d620eb2024dd/5fab726ec93b28ec252e165e_Main_diagram-01-p-1080.png"
+    
+    {% if page.canonical_url %}
+      {%- assign canonicalurl = page.canonical_url | strip -%}
+      {% if canonicalurl != "" %}
+        <link rel="canonical" href="{{canonicalurl}}" />
+      {% endif %}
+    {% endif %}
+    
+    <meta content="/images/blog-how-curiefense-works.png"
           property="twitter:image">
+          
     <meta property="og:type" content="website">
     <meta content="summary_large_image" name="twitter:card">
     <meta content="width=device-width, initial-scale=1" name="viewport">
+    
     <link href="/css/normalize.css" rel="stylesheet" type="text/css">
     <link href="/css/components.css" rel="stylesheet" type="text/css">
     <link href="/css/curiefense.css" rel="stylesheet" type="text/css">
@@ -58,14 +70,14 @@ layout: compress
         width: 16px;
         background-size: 100%;
         background-repeat: no-repeat;
-        background-image: url(https://uploads-ssl.webflow.com/5f906e60f009d620eb2024dd/5f99e1f2fb15070ef945c1a0_tick.png);
+        background-image: url(/images/tick.png);
         position: absolute;
         top: 4px;
         left: -25px;
       }
 
       ul.list.contrast li::before {
-        background-image: url(https://uploads-ssl.webflow.com/5f906e60f009d620eb2024dd/5f99e8706336051698f5a977_tick_contrast.png);
+        background-image: url(/images/tick_contrast.png);
       }
     </style>
     <!--  Global site tag (gtag.js) - Google Analytics  -->
@@ -76,9 +88,6 @@ layout: compress
       gtag('js', new Date());
       gtag('config', 'G-GS3KLXMBN3');
     </script> -->
-
-    {% seo %}
-    
   </head>
 
   <body class="body">

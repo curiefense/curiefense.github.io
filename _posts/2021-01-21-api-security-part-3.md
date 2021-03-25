@@ -5,13 +5,10 @@ description: This article continues the discussion of API security mechanisms, i
   session flow control, behavioral profiling, content filtering, hostile bot detection,
   and deep packet inspection.
 published: true
-excerpt: This article continues the discussion of API security mechanisms, including
-  session flow control, behavioral profiling, content filtering, hostile bot detection,
-  and deep packet inspection.
-createdOn: Thu Jan 21 2021 06:01:10 GMT+0000 (Coordinated Universal Time)
-author: Spiros Psarris
-mainImage: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/6009189af697d71e882e4516_Flow-Control.png
-thumbnail: https://uploads-ssl.webflow.com/5fa1500e10bda4bfdcb1b209/6009189af697d71e882e4516_Flow-Control.png
+createdOn: "Thu Jan 21 2021 06:01:10 GMT+0000 (Coordinated Universal Time)"
+author: "Spiros Psarris"
+mainImage: "/images/blog-api-security-part3.png"
+thumbnail: "/images/blog-api-security-part3.png"
 redirect_from:
 - "/post/api-security-part-3"
 ---

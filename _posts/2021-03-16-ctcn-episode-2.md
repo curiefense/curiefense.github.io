@@ -6,11 +6,10 @@ description: The Cloud Native Ecosystem continues to develop and expand its reac
   as more and more entrepreneurs see pain points in the developer landscape and seek
   to fill those gaps.
 published: true
-createdOn: Tue Mar 16 2021 13:42:55 GMT+0000 (Coordinated Universal Time)
-author: Justin Dorfman
+createdOn: "Tue Mar 16 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
+author: "Justin Dorfman"
 mainImage: ""
-thumbnail: https://p21.p4.n0.cdn.getcloudapp.com/items/8Luk8X6R/a1778d09-66e3-4db9-bb3a-45f6714d7692.png?v=209e73bb4d6aad8488684c481fb76280
-
+thumbnail: "/images/blog-how-appfleet-fits-into-the-cloud-native-ecosystem.png"
 ---
 
 <iframe src="https://player.fireside.fm/v2/sO31L4lC+8O-k1eqE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe><br>

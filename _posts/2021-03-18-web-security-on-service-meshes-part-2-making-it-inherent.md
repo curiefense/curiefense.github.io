@@ -7,10 +7,6 @@ description: In a service mesh architecture, can legacy security solutions still
   Is there a way to make security an inherent part of the mesh? These questions are
   the focus of this article.
 published: true
-excerpt: In a service mesh architecture, can legacy security solutions still be used,
-  or will a different approach be required? What about cloud-based solutions? Is there
-  a way to make security an inherent part of the mesh? These questions are the focus
-  of this article.
 createdOn: Tue Mar 18 2021 13:42:55 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
 mainImage: "/images/6052fc67d0c48c4af4eb1179_cybersecurity-Earth-16x9-p-2000.jpg"
