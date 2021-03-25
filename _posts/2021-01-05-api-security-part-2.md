@@ -6,7 +6,7 @@ description: Curiefense includes a number of security mechanisms for defending A
   Mobile Client Authentication, Behavior Enforcement, and Rate Limiting.
 published: true
 createdOn: "Tue Jan 05 2021 04:50:01 GMT+0000 (Coordinated Universal Time)"
-author: ""
+author: Spiros Psarris
 mainImage: "/images/blog-api-security-part2.png"
 thumbnail: "/images/blog-api-security-part2.png"
 redirect_from:

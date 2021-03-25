@@ -5,7 +5,7 @@ description: 'Curiefense represents a new approach to web security: traffic filt
   done directly within the service mesh. Here’s how it works.'
 published: true
 createdOn: "Thu Nov 12 2020 21:51:27 GMT+0000 (Coordinated Universal Time)"
-author: ""
+author: Spiros Psarris
 mainImage: "/images/blog-how-curiefense-works.png"
 thumbnail: "/images/blog-how-curiefense-works.png"
 redirect_from:

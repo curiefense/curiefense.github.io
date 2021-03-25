@@ -5,7 +5,7 @@ description: Reblaze Data Scientist Tamara Shostak writes about being inspired b
   Marie Curie and the example she set by her life, work ethic, and extensive accomplishments.
 published: true
 createdOn: "Tue Dec 22 2020 07:20:34 GMT+0000 (Coordinated Universal Time)"
-author: ""
+author: Spiros Psarris
 mainImage: "/images/blog-inspired-by-marie-curie-1.jpg"
 thumbnail: "/images/blog-inspired-by-marie-curie-1.jpg"
 redirect_from:

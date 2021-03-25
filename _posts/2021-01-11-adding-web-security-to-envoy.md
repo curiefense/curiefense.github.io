@@ -6,7 +6,7 @@ description: As Envoy Proxy continues to grow and becomes more widely adopted, a
   and flexibility to provide traffic filtering for a wide variety of use cases.
 published: true
 createdOn: "Tue Mar 02 2021 06:06:37 GMT+0000 (Coordinated Universal Time)"
-author: ""
+author: Spiros Psarris
 mainImage: "/images/blog-adding-web-security-to-envoy.png"
 thumbnail: "/images/blog-adding-web-security-to-envoy.png"
 redirect_from:
