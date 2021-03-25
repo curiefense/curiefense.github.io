@@ -23,7 +23,12 @@
         </div>
         <div class="columns w-row w-hidden-tiny w-hidden-small">
           <div class="w-col w-col-6 w-col-small-3 w-col-tiny-3">
-            <a href="https://github.com/curiefense/curiefense.github.io/tree/main{% if page.url == '/' %}{{ '/index.md' }}{% else %}{{page.url}}.md{% endif %}">Edit This Page</a>
+            {% if page.layout == "post" %}
+              {%- assign pageUrl = "/_posts" | strip -%}
+            {% else %}
+              {% assign pageUrl = page.url | append: ".md" %}
+            {% endif %}
+            <a href="https://github.com/curiefense/curiefense.github.io/tree/main{% if page.url == '/' %}{{ '/index.md' }}{% else %}{{pageUrl}}{% endif %}">Edit This Page</a>
           </div>
         </div>
       </div>
