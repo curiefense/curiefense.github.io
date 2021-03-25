@@ -6,7 +6,7 @@ description: To filter HTTP traffic, Curiefense uses an intuitive tag-based syst
   how it works.
 published: true
 createdOn: "Tue Nov 17 2020 01:56:49 GMT+0000 (Coordinated Universal Time)"
-author: ""
+author: Spiros Psarris
 mainImage: "/images/blog-an-intuitive-system-1.png"
 thumbnail: "/images/blog-an-intuitive-system-1.png"
 redirect_from:

@@ -5,8 +5,8 @@ description: Curiefense’s WAF protects against a wide range of attacks. It inc
   an extensive database of threat signatures, and users can create custom security
   policies as well. Here are its capabilities and how to use them.
 published: true
-createdOn: ""
-author: ""
+createdOn: "Thu Nov 19 2020 21:51:27 GMT+0000 (Coordinated Universal Time)"
+author: Spiros Psarris
 mainImage: "/images/blog-the-curiefense-waf-1.jpeg"
 thumbnail: "/images/blog-the-curiefense-waf-1.jpeg"
 redirect_from:

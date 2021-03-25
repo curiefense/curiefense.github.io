@@ -6,7 +6,7 @@ description: API security is increasingly important on the web today. However, f
   Here's how Curiefense approaches these challenges.
 published: true
 createdOn: "Wed Dec 30 2020 18:30:26 GMT+0000 (Coordinated Universal Time)"
-author: ""
+author: Spiros Psarris
 mainImage: "/images/blog-welcome.png"
 thumbnail: "/images/blog-welcome.png"
 redirect_from:

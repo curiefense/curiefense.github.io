@@ -6,7 +6,7 @@ description: Curiefense is a new open-source cloud-native application security p
   benefits that were not previously available in this form.
 published: true
 createdOn: "Mon Nov 09 2020 17:56:04 GMT+0000 (Coordinated Universal Time)"
-author: ""
+author: Spiros Psarris
 mainImage: "/images/blog-introducing-curiefense.png"
 thumbnail: "/images/blog-introducing-curiefense.png"
 redirect_from:
