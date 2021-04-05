@@ -2,10 +2,7 @@
 layout: post
 title: 'Web Security on Service Meshes, Part 2: Making It Inherent'
 canonical_url: 'https://www.reblaze.com/blog/web-security-on-service-meshes-part-2-making-it-inherent/'
-description: In a service mesh architecture, can legacy security solutions still be
-  used, or will a different approach be required? What about cloud-based solutions?
-  Is there a way to make security an inherent part of the mesh? These questions are
-  the focus of this article.
+description: In a service mesh architecture, can legacy security solutions still be used, or will a different approach be required? What about cloud-based solutions? Is there a way to make security an inherent part of the mesh? These questions are the focus of this article.
 published: true
 createdOn: Tue Mar 18 2021 13:42:55 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris

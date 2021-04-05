@@ -1,9 +1,8 @@
 ---
 title: API Security, Part 2
 layout: post
-description: Curiefense includes a number of security mechanisms for defending APIs
-  against hostile traffic. This article discusses API Discovery, Identity-Based Filtering,
-  Mobile Client Authentication, Behavior Enforcement, and Rate Limiting.
+canonical_url: 'https://www.reblaze.com/blog/api-security-part-2/'
+description: Curiefense includes a number of security mechanisms for defending APIs against hostile traffic. This article discusses API Discovery, Identity-Based Filtering, Mobile Client Authentication, Behavior Enforcement, and Rate Limiting.
 published: true
 createdOn: "Tue Jan 05 2021 04:50:01 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris

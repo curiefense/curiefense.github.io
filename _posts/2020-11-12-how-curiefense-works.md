@@ -1,8 +1,8 @@
 ---
 title: How Curiefense Works
 layout: post
-description: 'Curiefense represents a new approach to web security: traffic filtering
-  done directly within the service mesh. Here’s how it works.'
+canonical_url: 'https://www.reblaze.com/blog/how-curiefense-works/'
+description: Curiefense represents a new approach to web security: traffic filtering done directly within the service mesh. Here’s how it works.
 published: true
 createdOn: "Thu Nov 12 2020 21:51:27 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris

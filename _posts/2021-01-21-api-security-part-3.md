@@ -1,9 +1,8 @@
 ---
 title: API Security, Part 3
 layout: post
-description: This article continues the discussion of API security mechanisms, including
-  session flow control, behavioral profiling, content filtering, hostile bot detection,
-  and deep packet inspection.
+canonical_url: 'https://www.reblaze.com/blog/api-security-part-3/'
+description: This article continues the discussion of API security mechanisms, including session flow control, behavioral profiling, content filtering, hostile bot detection, and deep packet inspection.
 published: true
 createdOn: "Thu Jan 21 2021 06:01:10 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
