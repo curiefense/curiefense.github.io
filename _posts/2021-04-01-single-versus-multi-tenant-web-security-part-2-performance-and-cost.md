@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Single- versus Multi-Tenant Web Security, Part 2: Performance and Cost'
-canonical\_url: 'https://www.reblaze.com/blog/single-versus-multi-tenant-web-security-part-2-performance-and-cost/'
+canonical_url: 'https://www.reblaze.com/blog/single-versus-multi-tenant-web-security-part-2-performance-and-cost/'
 description: The previous article discussed the data protection and privacy advantages of a dedicated single-tenant security architecture. This article continues this theme and discusses performance and cost.
 published: true
 excerpt: The previous article discussed the data protection and privacy advantages of a dedicated single-tenant security architecture. This article continues this theme and discusses performance and cost.
@@ -9,24 +9,24 @@ createdOn: Thu Apr 01 2021 07:05:55 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
 mainImage: "/images/single-tenant-p-2000.jpg"
 thumbnail: "/images/single-tenant-p-2000.jpg"
-redirect\_from:
+redirect_from:
 - "/post/single-versus-multi-tenant-web-security-part-2-performance-and-cost"
 ---
 Curiefense is a single-tenant security solution; each protected service has a dedicated Curiefense instance that filters its traffic. In contrast to this, most security solutions today are multi-tenant, and so people tend to think that this is an acceptable approach.
 
 In the [previous article in this series][1], we looked at the data protection and privacy advantages of a single-tenant web security solution, compared to the more typical multi-tenant model. As shown in Figure 1, in a multi-tenant architecture, data is decrypted and processed in an external multi-tenant scrubbing center, then re-encrypted and sent to the target origin server. For organizations which have migrated to the cloud, the web application is often within a VPC (Virtual Private Cloud), as shown here. This type of deployment can expose applications to data leakage, downtime from DDoS attacks that target fellow tenants, and weak compliance links in their data governance chain.
 
-\<div align="center"\>
-  \<img width="80%" src="/images/multi-tenant-1-1024x576.jpg" /\>\<br\>
-  \<em\>Figure 1: Typical multi-tenant web security architecture \</em\>
-\</div\>
+<div align="center">
+  <img width="80%" src="/images/multi-tenant-1-1024x576.jpg" /><br>
+  <em>Figure 1: Typical multi-tenant web security architecture </em>
+</div>
 
 By contrast, a single-tenant web security architecture eliminates these vulnerabilities since the web security solution runs on dedicated resources within the customer’s environment.
 
-\<div align="center"\>
-  \<img width="80%" src="/images/single-tenant-1024x576.jpg" /\>\<br\>
-  \<em\>Figure 2: Single-tenant web security architecture \</em\>
-\</div\>
+<div align="center">
+  <img width="80%" src="/images/single-tenant-1024x576.jpg" /><br>
+  <em>Figure 2: Single-tenant web security architecture </em>
+</div>
 
 These topics were discussed in-depth in Part 1. Now in Part 2, we’ll look at the performance and cost advantages of a single-tenant web security architecture.
 
@@ -44,10 +44,10 @@ Web application owners go out of their way to optimize performance because a poo
 ## **Single-Tenant Web Security and Performance**
 The last thing a web application owner wants is for its web security solution to slow down performance. But that’s exactly what can happen in a multi-tenant web security model.
 
-\<div align="center"\>
-  \<img width="80%" src="/images/multi-tenant-issues-1024x576.jpg" /\>\<br\>
-  \<em\> Figure 3: Performance degradation for a multi-tenant web security architecture \</em\>
-\</div\>
+<div align="center">
+  <img width="80%" src="/images/multi-tenant-issues-1024x576.jpg" /><br>
+  <em> Figure 3: Performance degradation for a multi-tenant web security architecture </em>
+</div>
 
 First, as shown in Figure 3, data packets travel in two legs from the user to the origin server: from the client to the external security infrastructure, and then from the infrastructure to the server. Except for the (very rare) situation where the infrastructure is geolocated exactly in-between the user and the origin, this extra routing will add latency and degrade performance.
 
