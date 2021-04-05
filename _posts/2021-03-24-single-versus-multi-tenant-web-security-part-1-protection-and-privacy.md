@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Single- versus Multi-Tenant Web Security, Part 1: Protection and Privacy'
-canonical\_url: 'https://www.reblaze.com/blog/single-versus-multi-tenant-web-security-part-1-protection-and-privacy/'
+canonical_url: 'https://www.reblaze.com/blog/single-versus-multi-tenant-web-security-part-1-protection-and-privacy/'
 description: Most commercial web security solutions are based on a multi-tenant architecture. Curiefense is single-tenant; here's why this is important, and the advantages that this architecture provides.
 published: true
 excerpt: Most commercial web security solutions are based on a multi-tenant architecture. Curiefense is single-tenant; here's why this is important, and the advantages that this architecture provides.
@@ -9,7 +9,7 @@ createdOn: Wed Mar 24 2021 18:42:00 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
 mainImage: "/images/multi-tenant-p-2000.jpg"
 thumbnail: "/images/multi-tenant-p-2000.jpg"
-redirect\_from:
+redirect_from:
 - "/post/single-versus-multi-tenant-web-security-part-1-protection-and-privacy"
 ---
 Web application security continues to be challenging for many organizations today. According to [Edgescan][1]’s 2020 Vulnerability Statistics Report, 27% of internet-facing assets have at least one CVE (Common Vulnerability and Exposure) with a CVSS score of 7.0 or more. Meanwhile, the direct and indirect costs of successful exploits are high. In 2020, for example, the average cost to an enterprise of a data breach was [$3.92 million][2]. And the annual global cost of cybercrime is expected to reach [$6 trillion][3] in 2021. Organizations, therefore, must pay close attention to the security of their web applications and services.
@@ -21,10 +21,10 @@ Most commercial web security solutions are based on a multi-tenant architecture.
 ## **Typical Multi-Tenant Web Security Architecture**
 As shown in Figure 1, a typical web security architecture diverts user traffic to a multi-tenant scrubbing center, where data packets are decrypted in order to be checked for possible security threats. The scrubbed user traffic is then re-encrypted and routed to the origin server hosting the application. The external scrubbing center may be deployed in the cloud or in an on-premises data center.
 
-\<div align="center"\>
-  \<img width="80%" src="/images/multi-tenant-1-1024x576.jpg" /\>\<br\>
-  \<em\>Figure 1: Typical multi-tenant web security architecture\</em\>
-\</div\>
+<div align="center">
+  <img width="80%" src="/images/multi-tenant-1-1024x576.jpg" /><br>
+  <em>Figure 1: Typical multi-tenant web security architecture</em>
+</div>
 
 ## **Multi-Tenant Web Security Challenges**
 The multi-tenant web security architecture illustrated in Figure 1 exposes the web application owner to several security challenges, as described below.
@@ -47,10 +47,10 @@ As you can see in Figure 1, a multi-tenant security solution routes user data th
 ## **What a Single-Tenant Web Security Architecture Looks Like**
 A single-tenant web security architecture ensures that an organization’s traffic is only filtered within the customer’s environment.
 
-\<div align="center"\>
-  \<img width="80%" src="/images/single-tenant-1024x576.jpg" /\>\<br\>
-  \<em\>Figure 2: Single-tenant web security architecture \</em\>
-\</div\>
+<div align="center">
+  <img width="80%" src="/images/single-tenant-1024x576.jpg" /><br>
+  <em>Figure 2: Single-tenant web security architecture </em>
+</div>
 
 For example, [Curiefense][7] runs within the customer’s service mesh. Data packets from users are decrypted once, and the scrubbed traffic goes directly to the destination within the same environment.
 
