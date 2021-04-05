@@ -1,9 +1,8 @@
 ---
 title: The Curiefense WAF
 layout: post
-description: Curiefense’s WAF protects against a wide range of attacks. It includes
-  an extensive database of threat signatures, and users can create custom security
-  policies as well. Here are its capabilities and how to use them.
+canonical_url: 'https://www.reblaze.com/blog/the-curiefense-waf/'
+description: Curiefense's WAF protects against a wide range of attacks. It includes an extensive database of threat signatures, and users can create custom security policies as well. Here are its capabilities and how to use them.
 published: true
 createdOn: "Thu Nov 19 2020 21:51:27 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris

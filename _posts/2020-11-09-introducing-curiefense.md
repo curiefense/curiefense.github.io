@@ -1,9 +1,8 @@
 ---
 title: Introducing Curiefense
 layout: post
-description: Curiefense is a new open-source cloud-native application security platform.
-  It integrates security directly into modern service architectures, and offers multiple
-  benefits that were not previously available in this form.
+canonical_url: 'https://www.reblaze.com/blog/introducing-curiefense/'
+description: Curiefense is a new open-source cloud-native application security platform. It integrates security directly into modern service architectures, and offers multiple benefits that were not previously available in this form.
 published: true
 createdOn: "Mon Nov 09 2020 17:56:04 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris

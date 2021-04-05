@@ -1,8 +1,8 @@
 ---
 title: Now a CNCF Sandbox Project
 layout: post
-description: Curiefense has been accepted as a Sandbox Project within the Cloud Native
-  Computing Foundation. Here's what this means, now and going forward.
+canonical_url: 'https://www.reblaze.com/blog/now-a-cncf-sandbox-project/'
+description: Curiefense has been accepted as a Sandbox Project within the Cloud Native Computing Foundation. Here's what this means, now and going forward.
 published: true
 createdOn: "Thu Feb 18 2021 17:54:12 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"

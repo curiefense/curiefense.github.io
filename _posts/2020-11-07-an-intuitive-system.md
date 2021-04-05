@@ -1,9 +1,8 @@
 ---
 title: An Intuitive System
 layout: post
-description: To filter HTTP traffic, Curiefense uses an intuitive tag-based system.
-  It's flexible and powerful, but still straightforward to understand and use. Here's
-  how it works.
+canonical_url: 'https://www.reblaze.com/blog/an-intuitive-system/'
+description: To filter HTTP traffic, Curiefense uses an intuitive tag-based system. It's flexible and powerful, but still straightforward to understand and use. Here's how it works.
 published: true
 createdOn: "Tue Nov 17 2020 01:56:49 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris

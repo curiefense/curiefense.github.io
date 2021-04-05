@@ -1,9 +1,8 @@
 ---
 title: API Security, Part 1
 layout: post
-description: API security is increasingly important on the web today. However, filtering
-  API traffic is, in some ways, quite different than protecting a web application.
-  Here's how Curiefense approaches these challenges.
+canonical_url: 'https://www.reblaze.com/blog/api-security-part-1/'
+description: API security is increasingly important on the web today. However, filtering API traffic is, in some ways, quite different than protecting a web application. Here's how Curiefense approaches these challenges.
 published: true
 createdOn: "Wed Dec 30 2020 18:30:26 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris
