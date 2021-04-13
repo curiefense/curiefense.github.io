@@ -8,8 +8,10 @@ createdOn: Tue Mar 18 2021 13:42:55 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
 mainImage: "/images/6052fc67d0c48c4af4eb1179_cybersecurity-Earth-16x9-p-2000.jpg"
 thumbnail: "/images/6052fc67d0c48c4af4eb1179_cybersecurity-Earth-16x9-p-2000.jpg"
+permalink: /blog/:title/
 redirect_from:
 - "/post/web-security-on-service-meshes-part-2-making-it-inherent"
+- "/web-security-on-service-meshes-part-2-making-it-inherent"
 ---
 
 In cloud native architectures, service meshes are growing increasingly popular, and for good reason; they offer many benefits, as described in the [previous article](https://www.reblaze.com/blog/web-security-on-service-meshes-part-1-introduction/) in this series. However, as with any architectural innovation, we must ask some important questions about security, such as: Can legacy solutions still be used, or will a different approach be required? What new challenges must be addressed? And what new opportunities are available?

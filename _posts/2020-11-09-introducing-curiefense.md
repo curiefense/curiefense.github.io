@@ -8,8 +8,10 @@ createdOn: "Mon Nov 09 2020 17:56:04 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris
 mainImage: "/images/blog-introducing-curiefense.png"
 thumbnail: "/images/blog-introducing-curiefense.png"
+permalink: /blog/:title/
 redirect_from:
 - "/post/introducing-curiefense"
+- "/introducing-curiefense"
 ---
 
 <p>Curiefense is an open-source cloud-native application security platform. It offers protection for all forms of web traffic: sites, apps, services, and APIs.&nbsp;<br /></p>

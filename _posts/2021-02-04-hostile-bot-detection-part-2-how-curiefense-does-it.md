@@ -8,8 +8,10 @@ createdOn: "Thu Feb 04 2021 16:43:09 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
 mainImage: "/images/blog-hostile-bot-detection-part2-how-curiefense-does-it.png"
 thumbnail: "/images/blog-hostile-bot-detection-part2-how-curiefense-does-it.png"
+permalink: /blog/:title/
 redirect_from:
 - "/post/hostile-bot-detection-part-2-how-curiefense-does-it"
+- "/hostile-bot-detection-part-2-how-curiefense-does-it"
 ---
 
 <p>In the previous article on this topic, we discussed:</p>

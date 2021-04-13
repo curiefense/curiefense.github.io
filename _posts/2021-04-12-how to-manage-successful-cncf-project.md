@@ -8,6 +8,9 @@ createdOn: "Tue Mar 16 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
 mainImage: ""
 thumbnail: "/images/ctcn-podcast-linkerd-episode-5-william-morgan.png"
+permalink: /blog/:title/
+redirect_from:
+- "how-to-manage-successful-cncf-project"
 ---
 
 <iframe src="https://player.fireside.fm/v2/sO31L4lC+yksQJSXD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe><br>

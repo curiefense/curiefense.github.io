@@ -8,8 +8,10 @@ createdOn: "Thu Jan 21 2021 06:01:10 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
 mainImage: "/images/blog-api-security-part3.png"
 thumbnail: "/images/blog-api-security-part3.png"
+permalink: /blog/:title/
 redirect_from:
 - "/post/api-security-part-3"
+- "/api-security-part-3"
 ---
 
 <p>

@@ -9,8 +9,10 @@ createdOn: Thu Apr 01 2021 07:05:55 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
 mainImage: "/images/single-tenant-p-2000.jpg"
 thumbnail: "/images/single-tenant-p-2000.jpg"
+permalink: /blog/:title/
 redirect_from:
 - "/post/single-versus-multi-tenant-web-security-part-2-performance-and-cost"
+- "/single-versus-multi-tenant-web-security-part-2-performance-and-cost"
 ---
 Curiefense is a single-tenant security solution; each protected service has a dedicated Curiefense instance that filters its traffic. In contrast to this, most security solutions today are multi-tenant, and so people tend to think that this is an acceptable approach.
 

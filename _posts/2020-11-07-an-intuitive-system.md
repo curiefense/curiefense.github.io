@@ -8,8 +8,10 @@ createdOn: "Tue Nov 17 2020 01:56:49 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris
 mainImage: "/images/blog-an-intuitive-system-1.png"
 thumbnail: "/images/blog-an-intuitive-system-1.png"
+permalink: /blog/:title/
 redirect_from:
 - "/post/an-intuitive-system"
+- "/an-intuitive-system"
 ---
 
 <p>A key element of every security system is its ease of use. One of Curiefense’s core principles (as discussed in the <a href="https://www.curiefense.io/manifesto">Manifesto</a>) is simplicity:&nbsp;<br /></p>

@@ -8,8 +8,10 @@ createdOn: "Thu Jan 28 2021 06:02:08 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
 mainImage: "/images/blog-hostile-bot-detection-part1-replacing-reCAPTCHA.png"
 thumbnail: "/images/blog-hostile-bot-detection-part1-replacing-reCAPTCHA.png"
+permalink: /blog/:title/
 redirect_from:
 - "/post/hostile-bot-detection-part-1-replacing-recaptcha"
+- "/hostile-bot-detection-part-1-replacing-recaptcha"
 ---
 
 <p>Bot detection is crucially important for any organization with a web presence. Almost all attacks involve automated traffic in one form or another, and excluding hostile bots is a vital part of good security.</p>
