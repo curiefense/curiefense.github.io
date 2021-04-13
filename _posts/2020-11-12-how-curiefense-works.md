@@ -8,8 +8,10 @@ createdOn: "Thu Nov 12 2020 21:51:27 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris
 mainImage: "/images/blog-how-curiefense-works.png"
 thumbnail: "/images/blog-how-curiefense-works.png"
+permalink: /blog/:title/
 redirect_from:
 - "/post/how-curiefense-works"
+- "/how-curiefense-works"
 ---
 
 <p>Curiefense represents a new approach to web security: traffic filtering done directly within the service mesh. Here’s how it works.</p>

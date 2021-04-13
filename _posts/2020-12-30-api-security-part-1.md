@@ -8,8 +8,10 @@ createdOn: "Wed Dec 30 2020 18:30:26 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris
 mainImage: "/images/blog-welcome.png"
 thumbnail: "/images/blog-welcome.png"
+permalink: /blog/:title/
 redirect_from:
 - "/post/api-security-part-1"
+- "/api-security-part-1"
 ---
 
 <p>API security is increasingly important on the web today, thanks to microservice architectures, mobile apps, and other growing trends. It’s a broad subject, and includes requirements such as:&nbsp;</p>

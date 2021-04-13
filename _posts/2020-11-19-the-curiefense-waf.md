@@ -8,8 +8,10 @@ createdOn: "Thu Nov 19 2020 21:51:27 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris
 mainImage: "/images/blog-the-curiefense-waf-1.jpeg"
 thumbnail: "/images/blog-the-curiefense-waf-1.jpeg"
+permalink: /blog/:title/
 redirect_from:
 - "/post/the-curiefense-waf"
+- "/the-curiefense-waf"
 ---
 
 <p>In a previous article, we discussed <a href="https://www.curiefense.io/post/an-intuitive-system">Curiefense’s tag-based real-time traffic processing</a>:<br /></p>

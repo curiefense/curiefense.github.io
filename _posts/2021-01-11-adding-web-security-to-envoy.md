@@ -8,8 +8,10 @@ createdOn: "Tue Mar 02 2021 06:06:37 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris
 mainImage: "/images/blog-adding-web-security-to-envoy.png"
 thumbnail: "/images/blog-adding-web-security-to-envoy.png"
+permalink: /blog/:title/
 redirect_from:
 - "/post/adding-web-security-to-envoy"
+- "/adding-web-security-to-envoy"
 ---
 
 <p>As <a href="https://www.envoyproxy.io/" target="_blank">Envoy</a> continues to grow and becomes more widely adopted, a natural next step is to leverage its inherent extensibility to add security capabilities.</p>

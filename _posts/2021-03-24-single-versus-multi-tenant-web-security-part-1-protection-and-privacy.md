@@ -9,8 +9,10 @@ createdOn: Wed Mar 24 2021 18:42:00 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
 mainImage: "/images/multi-tenant-p-2000.jpg"
 thumbnail: "/images/multi-tenant-p-2000.jpg"
+permalink: /blog/:title/
 redirect_from:
 - "/post/single-versus-multi-tenant-web-security-part-1-protection-and-privacy"
+- "/single-versus-multi-tenant-web-security-part-1-protection-and-privacy"
 ---
 Web application security continues to be challenging for many organizations today. According to [Edgescan][1]’s 2020 Vulnerability Statistics Report, 27% of internet-facing assets have at least one CVE (Common Vulnerability and Exposure) with a CVSS score of 7.0 or more. Meanwhile, the direct and indirect costs of successful exploits are high. In 2020, for example, the average cost to an enterprise of a data breach was [$3.92 million][2]. And the annual global cost of cybercrime is expected to reach [$6 trillion][3] in 2021. Organizations, therefore, must pay close attention to the security of their web applications and services.
 
