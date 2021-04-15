@@ -149,8 +149,28 @@ description: 'Frequently Asked Questions for Curiefense, the open-source securit
           <p class="paragraph manifesto-paragraph">Curiefense uses an intuitive tag-based system to evaluate incoming requests:<br><br>1. Tags are attached to requests and sessions during their initial processing.<br>2. Then the tags are evaluated (and if appropriate, actions are taken) during later processing mechanisms, including rate limiting, ACL, and metrics. <br><br>Session profiling is the first step of this process. Admins can define tags according to a wide variety of criteria:<br><br>-- Inherent characteristics (e.g., IP address, CIDR, ASN)<br>-- Content (e.g., matching headers, cookies, arguments or URLs)<br>-- External data sources (e.g., blocklists and whitelists)<br>-- Internal data sources and lists<br></p>
         </div>
         <div class="item-vertical faq">
+          <h2 class="heading-3">I don't see any options for securing the UI or API (authentication), is there an option for that?</h2>
+          <p class="paragraph manifesto-paragraph">There is no option for user and or API authentication since Curiefense is designed to run internally, in an environment you are already securing (e.g. behind identity-aware infrastructure).</p>
+        </div>
+        <div class="item-vertical faq">
+          <h2 class="heading-3">Would I need a separate instance of Curiefense to protect several different applications?</h2>
+          <p class="paragraph manifesto-paragraph">Curiefense can protect as many endpoints that you need It is "plugged" into Envoy as an HTTP filter, and therefore, supports all services your Envoy Proxy is serving.</p>
+        </div>
+        <div class="item-vertical faq">
+          <h2 class="heading-3">Is there some extra configuration I can do to the included Envoy container to send traffic for certain URL Maps to different targets?</h2>
+          <p class="paragraph manifesto-paragraph">You will need to set up Envoy to Proxy your API traffic as step one. That means routing traffic to upstreams as desired and all.</p>
+        </div>
+        <div class="item-vertical faq">
+          <h2 class="heading-3">Would I need the Curiefense bundled Envoy, and then a separate Envoy instance for routing to different upstreams?</h2>
+          <p class="paragraph manifesto-paragraph">You can use the very same Envoy as a matter of fact. there is no need for additional Envoy whatsoever.</p>
+        </div>
+        <div class="item-vertical faq">
           <h2 class="heading-3">I have more questions. How can I reach out to you?</h2>
-          <p class="paragraph manifesto-paragraph">You can <a href="contact-us">contact us here</a>.<br></p>
+          <p class="paragraph manifesto-paragraph">You can... 
+          <li><a href="contact-us">Contact us here</a></li>
+          <li><a href="https://join.slack.com/t/curiefense/shared_invite/zt-nc8lyrjo-JJoY2mwrqNOfkmoA6ycTHg">Join us on Slack</a></li>
+          <li><a href="https://github.com/curiefense/curiefense/issues/new/choose">Open an issue on GitHub</a></li>
+          </p>
         </div>
       </div>
       <div class="w-col w-col-4 w-col-stack"></div>
