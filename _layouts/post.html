@@ -13,6 +13,7 @@ layout: default
         <h1 class="hero-title nohome">{{page.title}}</h1>
         {% if page.author != "" %}
           <div>by {{page.author}}</div>
+          <div>{% include share-buttons.html %}</div>
         {% endif %}
       </div>
       {% if page.mainImage != "" %}
