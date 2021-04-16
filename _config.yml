@@ -11,6 +11,8 @@ compress_html:
 
 permalink: /:title
 
+url: https://www.curiefense.io
+
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
