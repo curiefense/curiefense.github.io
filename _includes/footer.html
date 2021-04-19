@@ -83,26 +83,21 @@
 
 <script src="https://cdn.jsdelivr.net/npm/hello-bar@1.4.0/build/index.js"></script>
 <script>
-
   const helloBar = new HelloBar['default']({
-    id: "here-it-is",
+    id: "hello-bar-container",
     text: [
-    'You are seeing A! <a href="/link-1" class="cta">Click here</a>',
-    'You are seeing B! <a href="/link-2" class="cta">Click here</a>'
+      'You are seeing A! <a href="/link-1" class="cta">Click here</a>',
+      'You are seeing B! <a href="/link-2" class="cta">Click here</a>'
     ],
     hideClose: false,
-    position: "bottom",
+    position: "top",
     fixed: true,
+    move: null,
     background: "#000",
     size: "large",
+    textColor: null,
     duration: 1000,
     align: "center",
-    targeting: {
-      once: false,
-    },
   });
-
-  // window.ga("create", "G-GS3KLXMBN3", "auto");
-  // helloBar.on("cta-mouse-click", e => window.ga("send", "event", "ab-test", e.getAttribute("href")));
 
 </script>
