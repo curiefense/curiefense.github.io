@@ -21,7 +21,7 @@ description: "Curiefense is named after Marie Skłodowska Curie, the famous scie
           </div>
         </div>
         <div class="no-paddings w-col w-col-7">
-          <div class="hero-image-nohome"><img src="images/V4VWSYDNOGOBZCMBGMYWFVV36Q.jpg" height="" alt=""></div>
+          <div class="hero-image-nohome"><img src="/images/marie-curie.jpg" height="" alt=""></div>
         </div>
       </div>
     </div>
