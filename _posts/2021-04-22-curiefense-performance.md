@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Curiefense's Performance'
+title: 'The Performance of Curiefense'
 canonical_url: 'https://www.reblaze.com/blog/curiefenses-performance/'
 description: How much processing latency does Curiefense introduce? Here are the results from some recent testing, and how you can run the same tests within your own environment.
 published: true
@@ -9,6 +9,7 @@ createdOn: Thu Apr 22 2021 19:01:05 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
 mainImage: "/images/stopwatch-16x9.png"
 thumbnail: "/images/stopwatch-16x9.png"
+permalink: /blog/:title/
 ---
 When evaluating a web security solution, there are multiple aspects to consider. Among them are:
 
