@@ -4,7 +4,7 @@ layout: post
 canonical_url: ''
 description: It takes a lot of skill to be able to facilitate a successful CNCF project and we wanted to get a sense of what it looks like in the trenches.  So, we spoke to William Morgan to delve into the good, the bad, and the ugly.
 published: true
-createdOn: "Tue Mar 16 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
+createdOn: "Tue Apr 12 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
 mainImage: ""
 thumbnail: "/images/ctcn-podcast-linkerd-episode-5-william-morgan.png"
