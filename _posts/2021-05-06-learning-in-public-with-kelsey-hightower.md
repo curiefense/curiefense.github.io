@@ -4,7 +4,7 @@ layout: post
 canonical_url: ''
 description: Our awesome guest this time is Kelsey Hightower, who is Principal Engineer and Principal Staff Advocate at Google in the Google Cloud Platform Division.  Kelsey shares with us how ended up in the Cloud Native space, joining Google, and his job offer at NASA.  We also learn about how Kelsey succeeds with his live demo’s, why he calls himself a Minimalist.
 published: true
-createdOn: "Tue May 06 2021 00:00:55 GMT+0000 (Coordinated Universal Time)"
+createdOn: "Thu May 06 2021 00:00:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
 mainImage: ""
 thumbnail: "/images/being-a-minimalist-with-kelsey-hightower.png"
