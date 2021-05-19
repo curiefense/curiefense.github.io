@@ -58,17 +58,9 @@ description: 'Frequently Asked Questions for Curiefense, the open-source securit
           <p class="paragraph manifesto-paragraph">A growing number of companies, including eBay and Cisco.<br></p>
         </div>
         <div class="item-vertical faq">
-          <h2 class="heading-3">What is available for free, and which features are paid?</h2>
-          <p class="paragraph manifesto-paragraph">Curiefense is available as a fully operational system that is:<br>-- free<br>-- open source<br>-- and extensible.<br><br>If community support is sufficient, you have no need for advanced automated detection and reaction (or prefer to plug in your own), and you feel comfortable with a weekly update of the IP reputation database, then you are still in the free zone.<br><br>On top of the above, we also offer services such as:<br>‍<br></p>
-          <ol role="list" class="faq-list">
-            <li>24x7 support (mail, Slack, Zoom, and phone)</li>
-            <li>Hourly updates of the threat intelligence feed (IP addresses, AS numbers, headers, signatures, and so on)</li>
-            <li>Advanced detection and automation modules</li>
-            <li>Automatic WAF configuration</li>
-            <li>Rate limiting recommendations</li>
-            <li>CurieSaaS - your own Virtual Private Cloud, hosting your Curiefense exclusively, and fully managed by our expert engineers.</li>
-          </ol>
-        </div>
+          <h2 class="heading-3">Is it really free?</h2>
+          <p class="paragraph manifesto-paragraph">Curiefense is available as a fully operational system that is:<br>-- free<br>-- open source<br>-- and extensible.</p>
+                  </div>
         <div class="item-vertical faq">
           <h2 class="heading-3">What are you planning for the future?</h2>
           <p class="paragraph manifesto-paragraph">Currently, Curiefense is extending Envoy using its built in Lua binding capabilities. A more extensive roadmap will be published soon.<br></p>

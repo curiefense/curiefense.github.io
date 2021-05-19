@@ -102,9 +102,8 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
                 <p class="paragraph contrast">Auto-updates security policies as the threat environment changes.</p>
               </li>
               <li class="list-item">
-                <div class="list-item-title contrast">Rigorous</div>
-                <p class="paragraph contrast">Machine Learning creates specific profiles, customized for the
-                  applications and APIs being defended.</p>
+                <div class="list-item-title contrast">Granular</div>
+                <p class="paragraph contrast">Allows security profiles to be applied at any scale, from entire domains to individual URLs.</p>
               </li>
             </ul>
           </div>
