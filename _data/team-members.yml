@@ -26,12 +26,12 @@
   imageSrc: /images/photo6.jpg
   imageSrcSet: /images/photo6-p-500.jpeg 500w, /images/photo6.jpg 690w
   
-- name: James Bynoe
-  company: eBay Classifieds Group
-  title: Product Advisory
-  linkedInProfileLink: https://www.linkedin.com/in/james-austin-bynoe-5693a418/
-  imageSrc: /images/james.jpg
-  imageSrcSet: 
+#- name: James Bynoe
+#  company: eBay Classifieds Group
+#  title: Product Advisory
+#  linkedInProfileLink: https://www.linkedin.com/in/james-austin-bynoe-5693a418/
+#  imageSrc: /images/james.jpg
+#  imageSrcSet: 
 
 - name: Santosh Kumar
   company: Cisco
