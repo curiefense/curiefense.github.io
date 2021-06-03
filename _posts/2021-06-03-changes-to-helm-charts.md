@@ -7,8 +7,8 @@ published: true
 excerpt: Until recently, Curiefense’s Helm charts were part of the Curiefense repository. Now they have been moved into a separate repo. Here’s why this was done, and the benefits that we expect from this.
 createdOn: Thu Jun 03 2021 03:02:05 GMT+0000 (Coordinated Universal Time)
 author: Flavio Percoco
-mainImage: "/images/Helm-16x9.png"
-thumbnail: "/images/Helm-16x9.png"
+mainImage: "/images/Helm-16x9.jpg"
+thumbnail: "/images/Helm-16x9.jpg"
 permalink: /blog/:title/
 ---
 Until recently, Curiefense’s Helm charts were part of the [Curiefense repository][1]. Now they have been moved into a [separate repo][2]. Here’s why this was done, and the benefits that we expect from this.
