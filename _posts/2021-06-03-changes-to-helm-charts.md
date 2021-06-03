@@ -27,20 +27,20 @@ First, the charts are more organized. This will become more significant going fo
 
 Also, they are easier to use. People who want to deploy Curiefense with Helm in their Kubernetes environments can now just simply run a couple of helm commands, like this:
 
-`⛵ minikube in curiefense-fresh on gh-pages [?] took 3s`
-`➜ helm repo add curiefense https://helm.curiefense.io/`
-`"curiefense" has been added to your repositories`
-`⛵ minikube in curiefense-fresh on gh-pages [?]`
-`➜ helm repo update`
-`Hang tight while we grab the latest from your chart repositories...`
-`[snip]`
-`...Successfully got an update from the "curiefense" chart repository`
-`[snip]`
-`Update Complete. ⎈Happy Helming!⎈`
-`⛵ minikube in curiefense-fresh on gh-pages [?]`
-`➜ helm search repo curiefense`
-`NAME                    CHART VERSION   APP VERSION     DESCRIPTION`
-`curiefense/curiefense   1.0.0           1.0.0           Complete curiefense deployment`
+`⛵ minikube in curiefense-fresh on gh-pages [?] took 3s`<br>
+`➜ helm repo add curiefense https://helm.curiefense.io/`<br>
+`"curiefense" has been added to your repositories`<br>
+`⛵ minikube in curiefense-fresh on gh-pages [?]`<br>
+`➜ helm repo update`<br>
+`Hang tight while we grab the latest from your chart repositories...`<br>
+`[snip]`<br>
+`...Successfully got an update from the "curiefense" chart repository`<br>
+`[snip]`<br>
+`Update Complete. ⎈Happy Helming!⎈`<br>
+`⛵ minikube in curiefense-fresh on gh-pages [?]`<br>
+`➜ helm search repo curiefense`<br>
+`NAME                    CHART VERSION   APP VERSION     DESCRIPTION`<br>
+`curiefense/curiefense   1.0.0           1.0.0           Complete curiefense deployment`<br>
 
 Next, we can now cut releases for Helm charts, and version them properly. Basically, the charts have become a separate product that we can develop and support.
 
