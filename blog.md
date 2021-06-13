@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 'Curiefense Blog'
-description: 'News and information about Curiefense, the security extension for Envoy'
+title: "Curiefense Blog"
+description: "News and information about Curiefense, the security extension for Envoy"
 ---
 
 <div class="hero-nohome blog-posts">
@@ -44,12 +44,6 @@ description: 'News and information about Curiefense, the security extension for 
           </div>
           <div class="blog-box-sepparator"></div>
           <div class="w-row">
-            <div class="w-col w-col-6">
-              <div class="blog-box-date">{{post.createdOn | date_to_string: "ordinal", "US"}}</div>
-            </div>
-            <div class="w-col w-col-6">
-              <div class="blog-box-date">by {{post.author}}</div>
-            </div>
           </div>
           <a href="{{post.url}}" class="w-inline-block">
             <div class="blog-box-name">{{post.title}}</div>
@@ -57,9 +51,14 @@ description: 'News and information about Curiefense, the security extension for 
           <p class="paragraph blog-box-summary">
             {{post.description}}
           </p>
-          <a href="{{post.url}}" class="button blog-box-button w-inline-block">
-            <div class="text-block">Read more</div>
-          </a>
+          <div class="card-author">
+            <img src="https://www.justindorfman.com/assets/images/profile-late-2018.png" />
+            <div class="author-date"> 
+            {{post.author}}
+            <br/>
+            {{post.createdOn | date_to_string: "ordinal", "US"}}
+            </div>
+          </div>
         </div>
       {% endfor %}
       </div>
