@@ -83,7 +83,7 @@ If you make your users’ cookies unpredictable, unsettable, and unsniffable, it
 
 Once session tokens are obtained, they must be used. Obviously, the EA attackers were able to do this successfully.
 
-Thus, **failure to prevent token abuse** is the second vulnerability exploited in this event. To avoid this, your system must make stolen tokens worthless to the attacker.
+Thus, **failure to prevent token abuse** is the second vulnerability exploited in this event. To avoid this, your system must try to make stolen tokens worthless to the attacker.
 
 There are several different approaches for doing this. They are not mutually exclusive, and ideally, your system would be doing all of them. Here they are, in order of increasing difficulty. 
 * **Set short session durations**. If an attacker tries to use a token, but the session has expired, then the attack will fail.
