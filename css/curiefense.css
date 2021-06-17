@@ -312,6 +312,7 @@ strong {
   align-items: center;
 }
 .card-author img {
+  object-fit: cover;
   width: 75px;
   height: 75px;
   border-radius: 50%;
@@ -1078,12 +1079,13 @@ strong {
   display: -ms-grid;
   display: grid;
   grid-auto-flow: row;
-  grid-auto-columns: 1fr;
+  grid-auto-columns: 0.6fr;
   grid-column-gap: 32px;
   grid-row-gap: 32px;
   grid-template-areas: ".";
   -ms-grid-rows: auto;
   grid-template-rows: auto;
+  justify-content: center;
 }
 .blog-box {
   position: relative;
