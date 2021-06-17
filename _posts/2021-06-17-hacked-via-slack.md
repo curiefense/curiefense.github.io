@@ -69,14 +69,14 @@ Here’s one way this can be done. First, all insecure traffic is tagged by a Ta
   <img width="80%" src="/images/curiefense-tag-unencrypted.png" /><br>
   <em>Attaching "insecure-http" tags</em>
 </div>
-
+<br>
 And then all requests with that tag are blocked by this ACL Policy:
 
 <div align="center">
   <img width="80%" src="/images/curiefense-acl-insecure-http.png" /><br>
   <em>Blocking requests with the "insecure-http" tag</em>
 </div>
-  
+<br>  
 If you make your users’ cookies unpredictable, unsettable, and unsniffable, it will be very difficult for attackers to obtain session tokens. But you should still prepare for the possibility that a user’s cookies get compromised anyway. And this brings us to the next stage of the EA attack.
 
 ## Stage 2: Abusing Session Tokens
@@ -104,14 +104,14 @@ For example, here’s a Rate Limit rule that's configured for sessions with maxi
   <img width="80%" src="/images/curiefense-add-header-ip-change.png" /><br>
   <em>Adding a custom header when source IP changes</em>
 </div>
-
+<br>
 However, in other situations where the context changes more drastically, an admin might want a stricter response. The following rule will detect when the user’s country changes, and will block all subsequent activity until the session has had time to expire.
 
 <div align="center">
   <img width="80%" src="/images/curiefense-block-new-country.png" /><br>
   <em>Blocking requests when the country of origin changes</em>
 </div>
- 
+<br>
 ## Conclusion
 
 The Electronic Arts breach was a sophisticated, multi-vector attack. One vector exploited deficiencies in training and/or compliance among EA’s IT staff, while the other two vectors exploited technical vulnerabilities.
