@@ -52,8 +52,9 @@ description: "News and information about Curiefense, the security extension for 
             {{post.description}}
           </p>
           <div class="card-author">
-            <img src="https://www.justindorfman.com/assets/images/profile-late-2018.png" />
-            <div class="author-date"> 
+            {% assign author = site.data.team-members | find: "name", post.author %}
+            <img src='{{ author.imageSrc }}' />
+            <div class="author-date">
             {{post.author}}
             <br/>
             {{post.createdOn | date_to_string: "ordinal", "US"}}
