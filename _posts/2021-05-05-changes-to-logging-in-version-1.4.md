@@ -7,8 +7,8 @@ published: true
 excerpt: Curiefense currently offers a variety of outputs for its traffic logs. In version 1.4, this will change, and later, some of its current behavior will be deprecated. In this post, we’ll discuss how and why this is happening.
 createdOn: Wed May 05 2021 20:34:00 GMT+0000 (Coordinated Universal Time)
 author: Flavio Percoco
-mainImage: "/images/blog-how-curiefense-works.png"
-thumbnail: "/images/blog-how-curiefense-works.png"
+mainImage: "/images/Changes_to_logging_in_version_1.4.png"
+thumbnail: "/images/Changes_to_logging_in_version_1.4.png"
 permalink: /blog/:title/
 ---
 Curiefense currently offers a variety of outputs for its traffic logs. In version 1.4, this will change, and later, some of its current behavior will be deprecated. In this post, we’ll discuss how and why this is happening.

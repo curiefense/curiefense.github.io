@@ -6,8 +6,8 @@ description: We chatted to Richard Li – someone who has accomplished building 
 published: true
 createdOn: "Tue Apr 26 2021 00:00:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
-mainImage: ""
-thumbnail: "/images/ctcn-podcast-ambassador-labs-episode-7-richard-li.png"
+mainImage: "/images/Committing_to_Cloud_Native_podcast-Richard_li.png"
+thumbnail: "/images/Committing_to_Cloud_Native_podcast-Richard_li.png"
 permalink: /blog/:title/
 ---
 

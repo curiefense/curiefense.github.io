@@ -6,8 +6,8 @@ description: Mike Sparr is currently the Chief Cloud Architect at DoiT Internati
 published: true
 createdOn: "Tue Apr 21 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
-mainImage: ""
-thumbnail: "/images/ctcn-podcast-mike-sparr-episode-6.png"
+mainImage: "/images/Committing_to_Cloud_Native_podcast_doit_intl.png"
+thumbnail: "/images/Committing_to_Cloud_Native_podcast_doit_intl.png"
 permalink: /blog/:title/
 ---
 

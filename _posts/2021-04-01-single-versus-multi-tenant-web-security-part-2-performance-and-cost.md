@@ -7,8 +7,8 @@ published: true
 excerpt: The previous article discussed the data protection and privacy advantages of a dedicated single-tenant security architecture. This article continues this theme and discusses performance and cost.
 createdOn: Thu Apr 01 2021 07:05:55 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
-mainImage: "/images/single-tenant-p-2000.jpg"
-thumbnail: "/images/single-tenant-p-2000.jpg"
+mainImage: "/images/Single-_versus_Multi-Tenant_Web_Security,_Part_2__Performance_and_Cost.png"
+thumbnail: "/images/Single-_versus_Multi-Tenant_Web_Security,_Part_2__Performance_and_Cost.png"
 permalink: /blog/:title/
 redirect_from:
 - "/post/single-versus-multi-tenant-web-security-part-2-performance-and-cost"

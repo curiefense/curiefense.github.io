@@ -6,8 +6,8 @@ description: Curiefense has been accepted as a Sandbox Project within the Cloud 
 published: true
 createdOn: "Thu Feb 18 2021 17:54:12 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
-mainImage: "/images/blog-now-a-cncf-sandbox-poject.svg"
-thumbnail: "/images/blog-now-a-cncf-sandbox-poject.svg"
+mainImage: "/images/Now_a_CNCF_Sandbox_Project.png"
+thumbnail: "/images/Now_a_CNCF_Sandbox_Project.png"
 permalink: /blog/:title/
 redirect_from:
 - "/post/now-a-cncf-sandbox-project"

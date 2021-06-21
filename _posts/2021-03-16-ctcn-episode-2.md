@@ -8,9 +8,9 @@ description: The Cloud Native Ecosystem continues to develop and expand its reac
 published: true
 createdOn: "Tue Mar 16 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
-mainImage: ""
+mainImage: "/images/Committing_to_CloudNative_podcast-appfleet.png"
 permalink: /blog/:title/
-thumbnail: "/images/blog-how-appfleet-fits-into-the-cloud-native-ecosystem.png"
+thumbnail: "/images/Committing_to_CloudNative_podcast-appfleet.png"
 redirect_from:
   - /ctcn-episode-2
 ---

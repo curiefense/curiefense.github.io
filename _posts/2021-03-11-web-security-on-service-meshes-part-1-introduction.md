@@ -6,8 +6,8 @@ description: Many organizations today have embraced microservices; they have aba
 published: true
 createdOn: Tue Mar 11 2021 13:42:55 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
-mainImage: ""
-thumbnail: "/images/604b2dba5c9a7036a9c629c6_service-mesh-16x9-p-2000.jpg"
+mainImage: "/images/Web_Security_on_Service_Meshes,_Part_1__Introduction.png"
+thumbnail: "/images/Web_Security_on_Service_Meshes,_Part_1__Introduction.png"
 permalink: /blog/:title/
 redirect_from:
   - /post/web-security-on-service-meshes-part-1-introduction

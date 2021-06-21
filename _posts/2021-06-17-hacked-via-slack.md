@@ -7,8 +7,8 @@ published: true
 excerpt: Another high-profile breach is in the news. This time, the victim was compromised through Slack. Here’s what happened, and how Curiefense can help to avoid a similar incident at your organization.
 createdOn: Thu Jun 17 2021 08:39:15 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
-mainImage: "/images/hacked-laptop-markus-spiske-unsplash.jpg"
-thumbnail: "/images/hacked-laptop-markus-spiske-unsplash.jpg"
+mainImage: "/images/hacked_via_slack__how_to_avoid_an_ea-style_breach.png"
+thumbnail: "/images/hacked_via_slack__how_to_avoid_an_ea-style_breach.png"
 permalink: /blog/:title/
 ---
 Another high-profile breach is in the news; this time, the victim was compromised through Slack. Here’s what happened, and how Curiefense can help to avoid a similar incident at your organization.

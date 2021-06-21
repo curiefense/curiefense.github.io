@@ -6,8 +6,8 @@ description: In a service mesh architecture, can legacy security solutions still
 published: true
 createdOn: Tue Mar 18 2021 13:42:55 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
-mainImage: "/images/6052fc67d0c48c4af4eb1179_cybersecurity-Earth-16x9-p-2000.jpg"
-thumbnail: "/images/6052fc67d0c48c4af4eb1179_cybersecurity-Earth-16x9-p-2000.jpg"
+mainImage: "/images/Web_Security_on_Service_Meshes,_Part_2__Making_It_Inherent.png"
+thumbnail: "/images/Web_Security_on_Service_Meshes,_Part_2__Making_It_Inherent.png"
 permalink: /blog/:title/
 redirect_from:
 - "/post/web-security-on-service-meshes-part-2-making-it-inherent"

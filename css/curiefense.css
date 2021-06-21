@@ -305,6 +305,27 @@ strong {
   font-size: 18px;
   line-height: 28px;
 }
+.card-author {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.card-author img {
+  object-fit: cover;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  margin: 9px;
+}
+.card-author > div {
+  margin: 5px;
+  color: grey;
+}
+.card-author > div::first-line {
+  color: black;
+  font-weight: bold;
+}
 .item-vertical {
   display: inline-block;
   width: 100%;
@@ -1058,18 +1079,18 @@ strong {
   display: -ms-grid;
   display: grid;
   grid-auto-flow: row;
-  grid-auto-columns: 1fr;
+  grid-auto-columns: 0.6fr;
   grid-column-gap: 32px;
   grid-row-gap: 32px;
   grid-template-areas: ".";
-  grid-template-columns: repeat(auto-fit, minmax(263px, 1fr));
   -ms-grid-rows: auto;
   grid-template-rows: auto;
+  justify-content: center;
 }
 .blog-box {
   position: relative;
   overflow: hidden;
-  padding: 20px 20px 81px;
+  padding: 20px 20px 20px;
   border-radius: 10px;
   background-color: #fff;
   box-shadow: 14px 14px 65px 0 rgba(67, 109, 180, 0.15);
@@ -1100,12 +1121,6 @@ strong {
   line-height: 32px;
   font-weight: 500;
   letter-spacing: 0.2px;
-}
-.blog-box-date {
-  position: static;
-  margin-top: 7px;
-  margin-bottom: 15px;
-  color: rgba(70, 84, 100, 0.44);
 }
 .blog-box-sepparator {
   height: 292px;
@@ -1362,8 +1377,20 @@ strong {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url(https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg);
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg);
+  background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(rgba(0, 0, 0, 0.6)),
+      to(rgba(0, 0, 0, 0.6))
+    ),
+    url(https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg);
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg);
   background-position: 0 0, 50% 50%;
   color: #fff;
 }
