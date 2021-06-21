@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Recap: Curiefense Community Meeting #1'
-canonical_url: 'https://www.reblaze.com/blog/hacked-via-slack-how-to-avoid-an-ea-style-breach/'
 description: Open source isn’t open source without community.  And so we were very excited to host our very first community meeting where we can bring everyone together in a virtual space to discuss anything and everything to do with Curiefense.
 published: true
 excerpt: Open source isn’t open source without community.  And so we were very excited to host our very first community meeting where we can bring everyone together in a virtual space to discuss anything and everything to do with Curiefense.
