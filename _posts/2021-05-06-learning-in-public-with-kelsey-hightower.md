@@ -6,8 +6,8 @@ description: Our awesome guest this time is Kelsey Hightower, who is Principal E
 published: true
 createdOn: "Thu May 06 2021 00:00:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
-mainImage: ""
-thumbnail: "/images/being-a-minimalist-with-kelsey-hightower.png"
+mainImage: "/images/Committing_to_Cloud_Native_podcast-kelsey-hightower.png"
+thumbnail: "/images/Committing_to_Cloud_Native_podcast-kelsey-hightower.png"
 permalink: /blog/:title/
 ---
 

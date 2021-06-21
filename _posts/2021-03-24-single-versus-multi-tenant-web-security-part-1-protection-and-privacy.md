@@ -7,8 +7,8 @@ published: true
 excerpt: Most commercial web security solutions are based on a multi-tenant architecture. Curiefense is single-tenant; here's why this is important, and the advantages that this architecture provides.
 createdOn: Wed Mar 24 2021 18:42:00 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
-mainImage: "/images/multi-tenant-p-2000.jpg"
-thumbnail: "/images/multi-tenant-p-2000.jpg"
+mainImage: "/images/Single-_versus_Multi-Tenant_Web_Security,_Part_1__Protection_and_Privacy.png"
+thumbnail: "/images/Single-_versus_Multi-Tenant_Web_Security,_Part_1__Protection_and_Privacy.png"
 permalink: /blog/:title/
 redirect_from:
 - "/post/single-versus-multi-tenant-web-security-part-1-protection-and-privacy"

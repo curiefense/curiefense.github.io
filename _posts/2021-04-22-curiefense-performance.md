@@ -7,8 +7,8 @@ published: true
 excerpt: How much processing latency does Curiefense introduce? Here are the results from some recent testing, and how you can run the same tests within your own environment.
 createdOn: Thu Apr 22 2021 19:01:05 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
-mainImage: "/images/stopwatch-16x9.png"
-thumbnail: "/images/stopwatch-16x9.png"
+mainImage: "/images/The_Performance_of_Curiefense.png"
+thumbnail: "/images/The_Performance_of_Curiefense.png"
 permalink: /blog/:title/
 ---
 When evaluating a web security solution, there are multiple aspects to consider. Among them are:
