@@ -6,8 +6,8 @@ description: It takes a lot of skill to be able to facilitate a successful CNCF 
 published: true
 createdOn: "Tue Apr 12 2021 13:42:55 GMT+0000 (Coordinated Universal Time)"
 author: "Justin Dorfman"
-mainImage: ""
-thumbnail: "/images/ctcn-podcast-linkerd-episode-5-william-morgan.png"
+mainImage: "/images/Committing_to_Cloud_Native_podcast_-_Linkerd"
+thumbnail: "/images/Committing_to_Cloud_Native_podcast_-_Linkerd.png"
 permalink: /blog/:title/
 redirect_from:
 - "how-to-manage-successful-cncf-project"
