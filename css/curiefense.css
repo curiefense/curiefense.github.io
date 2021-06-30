@@ -1087,6 +1087,11 @@ strong {
   grid-template-rows: auto;
   justify-content: center;
 }
+@media screen and (max-width: 800px) {
+  .blog-grid {
+    grid-auto-columns: 1fr;
+  }
+}
 .blog-box {
   position: relative;
   overflow: hidden;
