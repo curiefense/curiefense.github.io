@@ -152,10 +152,10 @@ description: 'Curiefense extends NGINX and Envoy proxy to protect all forms of w
   </div>
   
   
-<div class="section runs-anywhere">
+<div class="section">
     <div class="container w-container">
-      <div class="row-section platform-agnostic w-row">
-        <div class="w-col w-col-8 w-col-stack">
+      <div class="row-section flex-vertical w-row">
+        <div class="w-col w-col-5 w-col-stack">
           <div class="item-vertical first">
             <h3 class="heading-2">Web security for servers, service meshes, load balancers, and more</h3>
             <h2 class="heading-3">Fully integrated with NGINX and Envoy Proxy</h2>
