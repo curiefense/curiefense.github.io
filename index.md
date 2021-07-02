@@ -130,7 +130,7 @@ description: 'Curiefense extends NGINX and Envoy proxy to protect all forms of w
             <h3 class="heading-2">Platform agnostic</h3>
             <h2 class="heading-3">Runs anywhere</h2>
             <div class="item-vertical">
-              <p class="paragraph hero-paragraph">Deployment options include Docker Compose, Helm chart, Terraform, with more on the way.<br></p>
+              <p class="paragraph hero-paragraph">Deployment options include Docker Compose, Helm chart, and Terraform, with more on the way.<br></p>
             </div>
           </div>
         </div>
