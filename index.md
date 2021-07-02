@@ -161,7 +161,7 @@ description: 'Curiefense extends NGINX and Envoy proxy to protect all forms of w
             <h2 class="heading-3">Fully integrated with NGINX and Envoy Proxy</h2>
             <div class="item-vertical">
               <p class="paragraph hero-paragraph">NGINX is the most popular web server in the world, and is widely used for other purposes as well. Curiefense adds built-in traffic filtering to NGINX environments.<br></p>
-              <p>Curiefense also attaches directly to Envoy Proxy, and can be used anywhere Envoy runs: as a service mesh sidecar, ingress gateway, reverse proxy, load balancer, or other uses.<br></p>
+              <p class="paragraph hero-paragraph">Curiefense also attaches directly to Envoy Proxy, and can be used anywhere Envoy runs: as a service mesh sidecar, ingress gateway, reverse proxy, load balancer, or other uses.<br></p>
             </div>
           </div>
         </div>
