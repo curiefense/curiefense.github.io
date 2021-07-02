@@ -1,15 +1,15 @@
 ---
 layout: default
 title: 'Curiefense | Protecting Cloud Native Applications'
-description: 'Curiefense extends Envoy proxy to protect all forms of web traffic: sites, apps, services, and APIs. Includes Bot Management, WAF, application-layer DDoS protection, session profiling, advanced rate limiting, and much more, in a unified open source platform.'
+description: 'Curiefense extends NGINX and Envoy proxy to protect all forms of web traffic: sites, apps, services, and APIs. Includes Bot Management, WAF, application-layer DDoS protection, session profiling, advanced rate limiting, and much more, in a unified open source platform.'
 ---
 
 <header id="hero" class="hero-2">
   <div class="flex-container-2 w-container">
     <div class="div-block">
-      <h1>The open source cloud native application security platform.</h1>
-      <p>Curiefense protects all forms of web traffic, services, and APIs. It includes bot management, WAF,
-        application-layer DDoS protection, session profiling, advanced rate limiting, and much more.<br></p>
+      <h1>Secure Your Services</h1>
+      <p>Curiefense is the open source cloud native application security platform that protects all forms of web traffic, services, and APIs. It includes bot management, WAF, application-layer DDoS protection, session profiling, advanced rate limiting, and much more.<br></p>
+      <p>Curiefense is integrated with NGINX and Envoy proxy, or you can run it directly in a VM. It excludes hostile traffic from services, microservices, containers, service meshes, and more.<br></p>
       <a href="https://docs.curiefense.io/installation/getting-started-with-curiefense"
          class="button-7 w-button">Get Started</a>
       <a href="#" class="lightbox-link w-inline-block w-lightbox">
@@ -29,9 +29,9 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
 }</script>
       </a>
     </div>
-    <div class="hero-image-mask"><img width="384" src="/images/5fb8444198723103ddf44156_DDOS-04-p-1600.png"
+    <div class="hero-image-mask"><img width="384" src="/images/Curiefense-header.gif"
            sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 252.46875px, 385.265625px"
-           srcset="images/5fb8444198723103ddf44156_DDOS-04-p-1600-p-800.png 800w, images/5fb8444198723103ddf44156_DDOS-04-p-1600-p-1080.png 1080w, images/5fb8444198723103ddf44156_DDOS-04-p-1600.png 1600w"
+           srcset="images/Curiefense-header.gif 800w, images/Curiefense-header.gif 1080w, images/Curiefense-header.gif 1600w"
            alt="" class="hero-image-2"></div>
   </div>
 </header>
@@ -40,48 +40,9 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
        class="image-9">
 </div>
 <div class="wrapper">
-  <div class="section traffic">
-    <div class="container w-container">
-      <div class="row-section flex-vertical w-row">
-        <div class="w-col w-col-5 w-col-stack">
-          <div class="item-vertical first">
-            <h3 class="heading-2">Enterprise-grade web security</h3>
-            <h2 class="heading-3">Control your traffic</h2>
-          </div>
-          <div class="item-vertical">
-            <ul role="list" class="list">
-              <li class="list-item">
-                <div class="list-item-title">Precision</div>
-                <p class="paragraph">Precise ACLs give granular control over traffic filtering.</p>
-              </li>
-              <li class="list-item">
-                <div class="list-item-title">Accurate anomaly detection</div>
-                <p class="paragraph">Biometric analysis constructs behavioral profiles of legitimate usage for the
-                  protected applications and APIs. Deviators can be flagged for closer monitoring, or immediately
-                  blocked.</p>
-              </li>
-              <li class="list-item">
-                <div class="list-item-title">Advanced bot management</div>
-                <p class="paragraph">Curiefense blocks even sophisticated hostile bots that masquerade as human
-                  users.</p>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="w-col w-col-1 w-col-stack"></div>
-        <div class="w-col w-col-6 w-col-stack">
-          <img width="530" src="/images/isometric_white_bg-06-06-p-500.png"
-               srcset="/images/isometric_white_bg-06-06-p-500.png 500w,
-               /images/isometric_white_bg-06-06-p-800.png 800w,
-               /images/isometric_white_bg-06-06-p-1080.png 1080w,
-               /images/blog-introducing-curiefense.png 1600w,
-               /images/isometric_white_bg-06-06-p-3200.png 3200w,
-               /images/isometric_white_bg-06-06.png 6580w"
-               sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt="">
-          </div>
-      </div>
-    </div>
-  </div>
+
+
+
   <div class="section automation">
     <div class="container w-container">
       <div class="row-section flex-vertical w-row">
@@ -110,11 +71,17 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
         </div>
         <div class="w-col w-col-1 w-col-stack"></div>
         <div class="w-col w-col-6 w-col-stack">
-          <img width="530" src="/images/blog-welcome.png" srcset="images/blog-welcome.png 500w, images/blog-welcome.png 1600w, images/security-layers_DARK_BG-03-p-2000.png 2000w, blog-welcome.png 2600w, images/blog-welcome.png 3200w, images/blog-welcome.png 4478w">
+          <img width="530" src="/images/blog-welcome.png" srcset="images/blog-welcome.png 500w, images/blog-welcome.png 1600w, images/blog-welcome.png 2000w, images/blog-welcome.png 2600w, images/blog-welcome.png 3200w, images/blog-welcome.png 4478w">
         </div>
       </div>
     </div>
   </div>
+  
+  
+  
+  
+  
+
   <div class="section">
     <div class="container w-container">
       <div class="row-section flex-vertical w-row">
@@ -152,16 +119,18 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
       </div>
     </div>
   </div>
+  
+  
+
   <div class="section runs-anywhere">
     <div class="container w-container">
       <div class="row-section platform-agnostic w-row">
         <div class="w-col w-col-8 w-col-stack">
           <div class="item-vertical first">
-            <h3 class="heading-2"> Platform agnostic</h3>
+            <h3 class="heading-2">Platform agnostic</h3>
             <h2 class="heading-3">Runs anywhere</h2>
             <div class="item-vertical">
-              <p class="paragraph hero-paragraph">Runs on cloud VMs and as an Envoy plugin. Deployment options
-                include Docker Compose, Helm chart, Terraform, with more on the way.<br></p>
+              <p class="paragraph hero-paragraph">Deployment options include Docker Compose, Helm chart, Terraform, with more on the way.<br></p>
             </div>
           </div>
         </div>
@@ -178,6 +147,35 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
           <img src="/images/azure-icon-250x250.png" loading="lazy" width="82" alt="">
           <img src="/images/Terraform.png" loading="lazy" width="258" sizes="(max-width: 479px) 88vw, 266.859375px" srcset="images/Terraform-p-500.png 500w, images/Terraform-p-800.png 800w, images/Terraform-p-1080.png 1080w, images/Terraform-p-1600.png 1600w, images/Terraform.png 1838w" alt="">
         </div>
+      </div>
+    </div>
+  </div>
+  
+  
+<div class="section runs-anywhere">
+    <div class="container w-container">
+      <div class="row-section platform-agnostic w-row">
+        <div class="w-col w-col-8 w-col-stack">
+          <div class="item-vertical first">
+            <h3 class="heading-2">Web security for servers, service meshes, load balancers, and more</h3>
+            <h2 class="heading-3">Fully integrated with NGINX and Envoy Proxy</h2>
+            <div class="item-vertical">
+              <p class="paragraph hero-paragraph">NGINX is the most popular web server in the world, and is widely used for other purposes as well. Curiefense adds built-in traffic filtering to NGINX environments.<br></p>
+              <p>Curiefense also attaches directly to Envoy Proxy, and can be used anywhere Envoy runs: as a service mesh sidecar, ingress gateway, reverse proxy, load balancer, or other uses.<br></p>
+            </div>
+          </div>
+        </div>
+        <div class="w-col w-col-4 w-col-stack"></div>
+      </div>
+      <div class="w-col w-col-6 w-col-stack">
+          <img width="530" src="/images/Curiefense-isometric-Envoy-NGINX.gif"
+               srcset="/images/Curiefense-isometric-Envoy-NGINX.gif 500w,
+               /images/Curiefense-isometric-Envoy-NGINX.gif 800w,
+               /images/Curiefense-isometric-Envoy-NGINX.gif 1080w,
+               /images/Curiefense-isometric-Envoy-NGINX.gif 1600w,
+               /images/Curiefense-isometric-Envoy-NGINX.gif 3200w,
+               /images/Curiefense-isometric-Envoy-NGINX.gif 6580w"
+               sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt="">
       </div>
     </div>
   </div>
@@ -229,6 +227,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
       </div>
     </div>
   </div>
+  
   <div class="section endorsements">
     <div class="container w-container">
       <div class="item-vertical">
@@ -304,6 +303,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
       </div>
     </div>
   </div>
+  
   <div class="section createdby">
     <div class="container w-container">
       <div class="item-vertical centered">
