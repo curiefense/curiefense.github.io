@@ -6,8 +6,8 @@ description: "Curiefense represents a new approach to web security: traffic filt
 published: true
 createdOn: "Thu Nov 12 2020 21:51:27 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris
-mainImage: "/images/blog-how-curiefense-works.png"
-thumbnail: "/images/blog-how-curiefense-works.png"
+mainImage: "/images/how_curiefense_works.png"
+thumbnail: "/images/how_curiefense_works.png"
 permalink: /blog/:title/
 redirect_from:
 - "/post/how-curiefense-works"
