@@ -9,7 +9,7 @@ description: 'Curiefense extends NGINX and Envoy proxy to protect all forms of w
     <div class="div-block">
       <h1>Secure Your Services</h1>
       <p>Curiefense is the open source cloud native application security platform that protects all forms of web traffic, services, and APIs. It includes bot management, WAF, application-layer DDoS protection, session profiling, advanced rate limiting, and much more.<br></p>
-      <p>Curiefense is integrated with NGINX and Envoy proxy, or you can run it directly in a VM. It excludes hostile traffic from services, microservices, containers, service meshes, and more.<br></p>
+      <p>Curiefense is integrated with NGINX and Envoy proxy. It blocks hostile traffic from sites, services, microservices, containers, service meshes, and more.<br></p>
       <a href="https://docs.curiefense.io/installation/getting-started-with-curiefense"
          class="button-7 w-button">Get Started</a>
       <a href="#" class="lightbox-link w-inline-block w-lightbox">
