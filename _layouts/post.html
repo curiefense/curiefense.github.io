@@ -21,6 +21,7 @@ layout: default
             {{page.createdOn | date_to_string: "ordinal", "US"}}
             </div>
         {% endif %}
+        <div class="share-right">{% include share-buttons.html %}</div>
       </div>
       {% if page.mainImage != "" %}
         <div class="blog-post-main-image">
@@ -30,7 +31,6 @@ layout: default
       <div class="rich-text-block w-richtext">
         {{content}}
       </div>
-      <div>{% include share-buttons.html %}</div>
     </div>
   </div>
 </div>
