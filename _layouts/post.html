@@ -9,10 +9,17 @@ layout: default
   <div class="container w-container">
     <div class="blog-post-wrapper">
       <div class="blog-post-header">
-        <h3 class="heading-2">{{page.createdOn | date_to_string: "ordinal", "US"}}</h3>
+        <h3 class="heading-2">Blog</h3>
         <h1 class="hero-title nohome">{{page.title}}</h1>
         {% if page.author != "" %}
-          <div>by {{page.author}}</div>
+          <div class="card-author">
+            {% assign author = site.data.team-members | find: "name", page.author %}
+            <img src='{{author.imageSrc}}' />
+            <div class="author-date">
+            {{page.author}}
+            <br/>
+            {{page.createdOn | date_to_string: "ordinal", "US"}}
+            </div>
         {% endif %}
       </div>
       {% if page.mainImage != "" %}
