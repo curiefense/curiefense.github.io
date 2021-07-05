@@ -319,12 +319,17 @@ strong {
   margin: 9px;
 }
 .card-author > div {
-  margin: 5px;
   color: grey;
 }
-.card-author > div::first-line {
+.author-date::first-line {
   color: black;
   font-weight: bold;
+}
+.read-time {
+  margin-top: 24px;
+}
+.share-right {
+  margin-left: auto;
 }
 .item-vertical {
   display: inline-block;

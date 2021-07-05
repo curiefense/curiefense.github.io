@@ -16,6 +16,7 @@ url: https://www.curiefense.io
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-time-to-read
 
 exclude:
   - Gemfile
