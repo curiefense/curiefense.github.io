@@ -16,11 +16,14 @@ layout: default
             {% assign author = site.data.team-members | find: "name", page.author %}
             <img src='{{author.imageSrc}}' />
             <div class="author-date">
-            {{page.author}}
-            <br/>
-            {{page.createdOn | date_to_string: "ordinal", "US"}}
+              {{page.author}}
+              <br/>
+              {{page.createdOn | date_to_string: "ordinal", "US"}}
             </div>
-        {% endif %}
+            {% endif %}
+            <div class="read-time">
+              &bullet; &nbsp;{{content | reading_time_as_i}}
+            </div>
         <div class="share-right">{% include share-buttons.html %}</div>
       </div>
       {% if page.mainImage != "" %}

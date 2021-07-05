@@ -321,9 +321,12 @@ strong {
 .card-author > div {
   color: grey;
 }
-.card-author > div::first-line {
+.author-date::first-line {
   color: black;
   font-weight: bold;
+}
+.read-time {
+  margin-top: 24px;
 }
 .share-right {
   margin-left: auto;
