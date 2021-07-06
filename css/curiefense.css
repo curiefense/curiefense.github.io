@@ -331,6 +331,9 @@ strong {
 .share-right {
   margin-left: auto;
 }
+.share-bottom {
+  text-align: center;
+}
 .item-vertical {
   display: inline-block;
   width: 100%;
