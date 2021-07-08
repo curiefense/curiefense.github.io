@@ -1,3 +1,2 @@
 cache-control: max-age=31536000
-/* 
-  Content-Security-Policy: child-src 'self' app.netlify.com; script-src 'self' app.netlify.com netlify-cdp-loader.netlify.app;
+Content-Security-Policy: child-src 'self' app.netlify.com; script-src 'self' app.netlify.com netlify-cdp-loader.netlify.app;
