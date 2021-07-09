@@ -327,6 +327,21 @@ strong {
 }
 .read-time {
   margin-top: 24px;
+  align-items: baseline;
+}
+.card-author span:nth-child(3) {
+  padding-top: 24px;
+}
+@media screen and (max-width: 800px) {
+  .card-author {
+    flex-direction: column;
+  }
+  .card-author span:nth-child(3) {
+    padding-top: 0px;
+  }
+  .read-time {
+    margin-top: 0px;
+  }
 }
 .share-right {
   margin-left: auto;
