@@ -21,8 +21,9 @@ layout: default
               {{page.createdOn | date_to_string: "ordinal", "US"}}
             </div>
             {% endif %}
+            <span>&bullet; &nbsp;</span>
             <div class="read-time">
-              &bullet; &nbsp;{{content | reading_time_as_i}}
+              {{content | reading_time_as_i}}
             </div>
         <div class="share-right">{% include share-buttons.html %}</div>
       </div>
