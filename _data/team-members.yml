@@ -130,6 +130,11 @@
   linkedInProfileLink: https://www.linkedin.com/in/justindorfman/
   imageSrc: /images/Justin-Dorfman.jpg
   imageSrcSet: /images/Justin-Dorfman-p-500.jpeg 500w, /images/Justin-Dorfman.jpg 690w
+
+- name: Aaryan Porwal
+  title: Summer Intern
+  linkedInProfileLink: https://www.linkedin.com/in/aaryan-porwal/
+  imageSrc: /images/aaryan.jpg
   
 - name: Nir Geninson
   company: Reblaze
