@@ -166,7 +166,6 @@ description: 'Curiefense extends NGINX and Envoy proxy to protect all forms of w
           </div>
         </div>
         <div class="w-col w-col-4 w-col-stack"></div>
-      </div>
       <div class="w-col w-col-6 w-col-stack">
           <img width="530" src="/images/Curiefense-isometric-Envoy-NGINX.gif"
                srcset="/images/Curiefense-isometric-Envoy-NGINX.gif 500w,
@@ -176,6 +175,7 @@ description: 'Curiefense extends NGINX and Envoy proxy to protect all forms of w
                /images/Curiefense-isometric-Envoy-NGINX.gif 3200w,
                /images/Curiefense-isometric-Envoy-NGINX.gif 6580w"
                sizes="(max-width: 767px) 89vw, (max-width: 991px) 75vw, 46vw" alt="">
+      </div>
       </div>
     </div>
   </div>
