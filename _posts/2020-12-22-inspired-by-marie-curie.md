@@ -6,8 +6,8 @@ description: Reblaze Data Scientist Tamara Shostak writes about being inspired b
 published: true
 createdOn: "Tue Dec 22 2020 07:20:34 GMT+0000 (Coordinated Universal Time)"
 author: Tamara Shostak
-mainImage: "/images/blog-inspired-by-marie-curie-1.jpg"
-thumbnail: "/images/blog-inspired-by-marie-curie-1.jpg"
+mainImage: "/images/inspired_by_marie_curie.png"
+thumbnail: "/images/inspired_by_marie_curie.png"
 permalink: /blog/:title/
 redirect_from:
 - "/post/inspired-by-marie-curie"
