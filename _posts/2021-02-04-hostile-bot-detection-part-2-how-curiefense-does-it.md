@@ -6,8 +6,8 @@ description: The previous article on Hostile Bot Detection discussed why it is s
 published: true
 createdOn: "Thu Feb 04 2021 16:43:09 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
-mainImage: "/images/blog-hostile-bot-detection-part2-how-curiefense-does-it.png"
-thumbnail: "/images/blog-hostile-bot-detection-part2-how-curiefense-does-it.png"
+mainImage: "/images/hostile_bot_detection_part_2__how_curiefense_does_it.png"
+thumbnail: "/images/hostile_bot_detection_part_2__how_curiefense_does_it.png"
 permalink: /blog/:title/
 redirect_from:
 - "/post/hostile-bot-detection-part-2-how-curiefense-does-it"

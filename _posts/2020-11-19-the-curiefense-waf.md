@@ -6,8 +6,8 @@ description: Curiefense's WAF protects against a wide range of attacks. It inclu
 published: true
 createdOn: "Thu Nov 19 2020 21:51:27 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris
-mainImage: "/images/blog-the-curiefense-waf-1.jpeg"
-thumbnail: "/images/blog-the-curiefense-waf-1.jpeg"
+mainImage: "/images/the_curiefense_waf.png"
+thumbnail: "/images/the_curiefense_waf.png"
 permalink: /blog/:title/
 redirect_from:
 - "/post/the-curiefense-waf"
