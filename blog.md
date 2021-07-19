@@ -39,25 +39,27 @@ description: "News and information about Curiefense, the security extension for 
       {% for post in site.posts %}
         <div role="listitem" class="blog-box w-dyn-item">
           <div class="blog-box-image">
-            <a href="{{post.url}}" class="w-inline-block" style="background-image: url({{post.MainImage | default: post.thumbnail}}); background-size: cover; background-repeat: no-repeat; height: 100%; display: block;">
+            <a href="{{post.url}}">
+              <img src="{{post.mainImage | default: post.thumbnail}}">
             </a>
           </div>
-          <div class="blog-box-sepparator"></div>
-          <div class="w-row">
-          </div>
-          <a href="{{post.url}}" class="w-inline-block">
-            <div class="blog-box-name">{{post.title}}</div>
-          </a>
-          <p class="paragraph blog-box-summary">
-            {{post.description}}
-          </p>
-          <div class="card-author">
-            {% assign author = site.data.team-members | find: "name", post.author %}
-            <img src='{{ author.imageSrc }}' />
-            <div class="author-date">
-            {{post.author}}
-            <br/>
-            {{post.createdOn | date_to_string: "ordinal", "US"}}
+          <div class="blog-intro">
+            <div class="w-row">
+            </div>
+            <a href="{{post.url}}" class="w-inline-block">
+              <div class="blog-box-name">{{post.title}}</div>
+            </a>
+            <p class="paragraph blog-box-summary">
+              {{post.description}}
+            </p>
+            <div class="card-author">
+              {% assign author = site.data.team-members | find: "name", post.author %}
+              <img src='{{ author.imageSrc }}' />
+              <div class="author-date">
+              {{post.author}}
+              <br/>
+              {{post.createdOn | date_to_string: "ordinal", "US"}}
+              </div>
             </div>
           </div>
         </div>

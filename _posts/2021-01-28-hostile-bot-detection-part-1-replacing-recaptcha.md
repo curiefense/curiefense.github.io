@@ -6,8 +6,8 @@ description: reCAPTCHA is a popular service for automatically excluding bots, bu
 published: true
 createdOn: "Thu Jan 28 2021 06:02:08 GMT+0000 (Coordinated Universal Time)"
 author: "Spiros Psarris"
-mainImage: "/images/blog-hostile-bot-detection-part1-replacing-reCAPTCHA.png"
-thumbnail: "/images/blog-hostile-bot-detection-part1-replacing-reCAPTCHA.png"
+mainImage: "/images/hostile_bot_detection_part_1__replacing_recaptcha.png"
+thumbnail: "/images/hostile_bot_detection_part_1__replacing_recaptcha.png"
 permalink: /blog/:title/
 redirect_from:
 - "/post/hostile-bot-detection-part-1-replacing-recaptcha"

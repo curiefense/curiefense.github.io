@@ -6,8 +6,8 @@ description: To filter HTTP traffic, Curiefense uses an intuitive tag-based syst
 published: true
 createdOn: "Tue Nov 17 2020 01:56:49 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris
-mainImage: "/images/blog-an-intuitive-system-1.png"
-thumbnail: "/images/blog-an-intuitive-system-1.png"
+mainImage: "/images/an_intuitive_system.png"
+thumbnail: "/images/an_intuitive_system.png"
 permalink: /blog/:title/
 redirect_from:
 - "/post/an-intuitive-system"
@@ -137,7 +137,7 @@ redirect_from:
 <figure class="w-richtext-figure-type-image w-richtext-align-fullwidth" style="max-width: 1600px;">
     <div>
         <img
-            src="/images/blog-an-intuitive-system-1.png"
+            src="/images/an_intuitive_system.png"
             width="auto"
             height="auto"
             loading="auto"

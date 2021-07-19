@@ -6,8 +6,8 @@ description: API security is increasingly important on the web today. However, f
 published: true
 createdOn: "Wed Dec 30 2020 18:30:26 GMT+0000 (Coordinated Universal Time)"
 author: Spiros Psarris
-mainImage: "/images/blog-welcome.png"
-thumbnail: "/images/blog-welcome.png"
+mainImage: "/images/api_security__part_1.png"
+thumbnail: "/images/api_security__part_1.png"
 permalink: /blog/:title/
 redirect_from:
 - "/post/api-security-part-1"

@@ -145,7 +145,7 @@ description: 'Curiefense extends NGINX and Envoy proxy to protect all forms of w
           <img src="/images/google-cloud-1200-630.png" loading="lazy" width="200" sizes="200px" srcset="images/google-cloud-1200-630-p-500.png 500w, images/google-cloud-1200-630-p-800.png 800w, images/google-cloud-1200-630-p-1080.png 1080w, images/google-cloud-1200-630.png 1200w" alt="">
           <img src="/images/aws_logo_smile_1200x630.png" loading="lazy" width="97" sizes="97.1875px" srcset="images/aws_logo_smile_1200x630-p-500.png 500w, images/aws_logo_smile_1200x630.png 605w" alt="">
           <img src="/images/azure-icon-250x250.png" loading="lazy" width="82" alt="">
-          <img src="/images/Terraform.png" loading="lazy" width="258" sizes="(max-width: 479px) 88vw, 266.859375px" srcset="images/Terraform-p-500.png 500w, images/Terraform-p-800.png 800w, images/Terraform-p-1080.png 1080w, images/Terraform-p-1600.png 1600w, images/Terraform.png 1838w" alt="">
+          <img src="/images/nginx.png" loading="lazy" width="97" alt="">
         </div>
       </div>
     </div>

@@ -7,8 +7,8 @@ published: true
 excerpt: As discussed previously, version 1.4 will include some changes to logging. Some of them created a file management problem. We evaluated several options for log file rotation; here’s what we chose, and why.
 createdOn: Wed May 26 2021 03:48:00 GMT+0000 (Coordinated Universal Time)
 author: Flavio Percoco
-mainImage: "/images/blog-how-curiefense-works.png"
-thumbnail: "/images/blog-how-curiefense-works.png"
+mainImage: "/images/Evaluating_logging_tools,_choosing_rotatelogs.png"
+thumbnail: "/images/Evaluating_logging_tools,_choosing_rotatelogs.png"
 permalink: /blog/:title/
 ---
 A previous post discussed some [upcoming changes to logging in Curiefense version 1.4][1]. The **curielogger** service is being refactored; instead of sending log data directly to multiple collectors (logstash, fluentd, elasticsearch, etc.), it will be writing its data to stdout. Then users can select their preferred method of collecting the data and importing into their logging solution of choice.
