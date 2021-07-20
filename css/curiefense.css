@@ -1492,8 +1492,8 @@ strong {
   -webkit-flex: 0 0.5 auto;
   -ms-flex: 0 0.5 auto;
   flex: 0 0.5 auto;
-  -o-object-fit: cover;
-  object-fit: cover;
+  -o-object-fit: contain;
+  object-fit: contain;
   -o-object-position: 50% 50%;
   object-position: 50% 50%;
 }
