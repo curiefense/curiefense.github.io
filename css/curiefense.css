@@ -195,7 +195,6 @@ strong {
 }
 .wrapper {
   overflow: hidden;
-  max-width: 2100px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -781,10 +780,13 @@ strong {
   font-size: 38px;
   line-height: 48px;
   font-weight: 700;
-  text-align: center;
+  text-align: left;
 }
 .heading-3.contrast {
   color: #fff;
+}
+.heading-3.reblaze {
+  text-align: center;
 }
 .createdby-grid {
   margin-top: 44px;
@@ -1483,7 +1485,6 @@ strong {
 }
 .hero-image-mask {
   width: 100%;
-  margin-left: 40px;
 }
 .hero-image-2 {
   width: 384px;
@@ -1530,6 +1531,7 @@ strong {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
+  max-width: 1080px;
 }
 .button-6 {
   position: static;
