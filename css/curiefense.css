@@ -1532,6 +1532,8 @@ strong {
   -ms-flex: 1;
   flex: 1;
   max-width: 1080px;
+  padding-right: 32px;
+  padding-left: 32px;
 }
 .button-6 {
   position: static;
@@ -1575,6 +1577,8 @@ strong {
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 .section-2 {
   margin-bottom: 140px;
