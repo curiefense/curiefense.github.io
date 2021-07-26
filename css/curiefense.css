@@ -1485,9 +1485,12 @@ strong {
 }
 .hero-image-mask {
   width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .hero-image-2 {
-  width: 384px;
+  width: 457px;
   -webkit-box-flex: 0;
   -webkit-flex: 0 0.5 auto;
   -ms-flex: 0 0.5 auto;
@@ -1579,6 +1582,7 @@ strong {
   grid-template-rows: auto auto;
   padding-left: 10px;
   padding-right: 10px;
+  flex-shrink: 1.5;
 }
 .section-2 {
   margin-bottom: 140px;
