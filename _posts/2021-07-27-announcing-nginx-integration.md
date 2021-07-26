@@ -27,13 +27,13 @@ NGINX is the world’s most popular web server, and it has other uses as well. N
 
 Now with Curiefense version 1.4, NGINX--which is used by more than 400 million sites--is also fully supported. Users can now make Curiefense’s comprehensive suite of security technologies an inherent part of their environments, blocking hostile traffic while maintaining high performance and complete privacy.
 
-For an overview of Curiefense, see the video [Introduction to Curiefense v1.4][4]. For more in-depth coverage, see the instructional content on the [Curiefense YouTube channel][5]. 
+For an overview of Curiefense, see the video [Introduction to Curiefense v1.4][4]. For more in-depth coverage, see the instructional content on the Curiefense YouTube channel. 
 
 
 [1]:	https://nginx.org/en/
 [2]:	https://www.curiefense.io/
 [3]:	https://www.reblaze.com/
 [4]:	https://youtu.be/DcQPEu76YkI
-[5]:	https://www.youtube.com/channel/UCG_XSaj_YX_26nD3Hvm_6OA
+
 
 
