@@ -18,10 +18,10 @@ description: 'Curiefense extends NGINX and Envoy proxy to protect all forms of w
   "items": [
     {
       "type": "video",
-      "originalUrl": "https://www.youtube.com/watch?v=5KDTg_bFYsM&hd=1&autoplay=true&rel=0",
-      "url": "https://www.youtube.com/watch?v=5KDTg_bFYsM&hd=1&autoplay=true&rel=0",
-      "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F5KDTg_bFYsM%3Ffeature%3Doembed%26autoplay%3D1%26rel%3D0&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5KDTg_bFYsM&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5KDTg_bFYsM%2Fhqdefault.jpg&args=rel%3D0&key=96f1f04c5f4143bcb0f2e68c87d65feb&autoplay=1&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe>",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5KDTg_bFYsM/hqdefault.jpg",
+      "originalUrl": "https://www.youtube.com/watch?v=DcQPEu76YkI&hd=1&autoplay=true&rel=0",
+      "url": "https://www.youtube.com/watch?v=DcQPEu76YkI&hd=1&autoplay=true&rel=0",
+      "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FDcQPEu76YkI%3Ffeature%3Doembed%26autoplay%3D1%26rel%3D0&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDcQPEu76YkI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDcQPEu76YkI%2Fhqdefault.jpg&args=rel%3D0&key=96f1f04c5f4143bcb0f2e68c87d65feb&autoplay=1&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe>",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DcQPEu76YkI/hqdefault.jpg",
       "width": 940,
       "height": 528
     }
