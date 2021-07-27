@@ -195,7 +195,6 @@ strong {
 }
 .wrapper {
   overflow: hidden;
-  max-width: 2100px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -781,10 +780,13 @@ strong {
   font-size: 38px;
   line-height: 48px;
   font-weight: 700;
-  text-align: center;
+  text-align: left;
 }
 .heading-3.contrast {
   color: #fff;
+}
+.heading-3.reblaze {
+  text-align: center;
 }
 .createdby-grid {
   margin-top: 44px;
@@ -1483,11 +1485,12 @@ strong {
 }
 .hero-image-mask {
   width: 100%;
-  margin-left: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .hero-image-2 {
-  width: 384px;
-  height: 255px;
+  width: 457px;
   -webkit-box-flex: 0;
   -webkit-flex: 0 0.5 auto;
   -ms-flex: 0 0.5 auto;
@@ -1531,6 +1534,9 @@ strong {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
+  max-width: 1080px;
+  padding-right: 32px;
+  padding-left: 32px;
 }
 .button-6 {
   position: static;
@@ -1574,6 +1580,9 @@ strong {
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  flex-shrink: 1.5;
 }
 .section-2 {
   margin-bottom: 140px;
