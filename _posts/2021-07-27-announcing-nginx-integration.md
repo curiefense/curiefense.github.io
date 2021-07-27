@@ -5,7 +5,7 @@ canonical_url: 'https://www.reblaze.com/blog/curiefense-now-supports-nginx/'
 description: Curiefense v1.4 is now available. This is a milestone release; along with a number of updates and additions, Curiefense is now integrated with NGINX.
 published: true
 excerpt: Curiefense v1.4 is now available. This is a milestone release; along with a number of updates and additions, Curiefense is now integrated with NGINX.
-createdOn: Tue Jul 27 2021 15:00:00 GMT+0000 (Coordinated Universal Time)
+createdOn: Tue Jul 27 2021 00:00:00 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
 mainImage: "/images/curiefense-v-1-4-0-released.png"
 thumbnail: "/images/curiefense-v-1-4-0-released.png"
