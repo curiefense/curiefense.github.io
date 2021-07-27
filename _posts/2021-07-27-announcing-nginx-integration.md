@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Announcing NGINX integration'
+title: 'Announcing NGINX Support'
 canonical_url: 'https://www.reblaze.com/blog/curiefense-now-supports-nginx/'
 description: Curiefense v1.4 is now available. This is a milestone release; along with a number of updates and additions, Curiefense is now integrated with NGINX.
 published: true
