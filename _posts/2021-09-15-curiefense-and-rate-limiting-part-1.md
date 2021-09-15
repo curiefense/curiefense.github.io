@@ -7,8 +7,8 @@ published: true
 excerpt: Rate limiting is a vital, but often under-appreciated, part of cybersecurity. Curiefense includes an extensive featureset that goes beyond the capabilities offered by many commercial solutions.
 createdOn: Wed Sep 15 2021 07:45:00 GMT+0000 (Coordinated Universal Time)
 author: Spiros Psarris
-mainImage: "/images/the_curiefense_waf.png"
-thumbnail: "/images/the_curiefense_waf.png"
+mainImage: "/images/curiefense-rate-limiting-part-1.png"
+thumbnail: "/images/curiefense-rate-limiting-part-1.png"
 permalink: /blog/:title/
 ---
 Rate limiting is a vital, but often under-appreciated, part of cybersecurity. Many security solutions include rate limiting features, but often, these are rudimentary. [Curiefense](https://curiefense.io/) includes an extensive featureset that goes beyond the capabilities offered by many commercial solutions.
