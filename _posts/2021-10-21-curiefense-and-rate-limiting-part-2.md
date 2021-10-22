@@ -26,6 +26,7 @@ In Curiefense, basic rate limiting is easy to set up. This UI screenshot shows a
 
 <div align="center">
   <img width="80%" src="/images/Curiefense-rate-limiting-5-in-60.png"/><br>
+  <em>An example rate limit</em>
 </div>
 
 Another important parameter is scope. Global rate limits can be useful, but often, it’s better to define specific limits for different purposes. Otherwise, a limit that is appropriate for some URIs might create problems when applied elsewhere.
@@ -34,12 +35,14 @@ Curiefense provides this ability, as shown below. For each rate limit, admins ca
 
 <div align="center">
   <img width="80%" src="/images/Curiefense-rate-limits-global-locations.png"/><br>
+  <em>A rate limit enforced throughout a web application</em>
 </div>
 
 ...down to a single endpoint.
 
 <div align="center">
   <img width="80%" src="/images/Curiefense-rate-limits-single-URL.png"/><br>
+  <em>A rate limit enforced on a single endpoint</em>
 </div>
 
 A combination of limits can then be defined for different paths or endpoints. For example, a web application’s login form might have a tight rate limit enforced, while access to the rest of the application could be less restricted. 
@@ -54,6 +57,7 @@ Curiefense allows rate limits to be defined according to combined criteria. For 
 
 <div align="center">
   <img width="80%" src="/images/Curiefense-rate-limits-IP-and-userid.png"/><br>
+  <em>Distinguishing individual users sharing an IP</em>
 </div>
 
 This would address the shared IP issue described above. However, there’s a caveat with this.
@@ -80,6 +84,7 @@ Curiefense provides this capability via the “Event” parameter. Here’s how 
 
 <div align="center">
   <img width="80%" src="/images/Curiefense-rate-limits-ASN-per-user.png"/><br>
+  <em>Limiting the number of ASNs per user</em>
 </div>
 
 The Event parameter is very powerful. For a more in-depth explanation, see the [Rate Limiting documentation][3].
