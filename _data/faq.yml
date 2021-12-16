@@ -100,9 +100,14 @@
 - question: "Would I need the Curiefense bundled Envoy, and then a separate Envoy instance for routing to different upstreams?"
   answer: "You can use the very same Envoy as a matter of fact. there is no need for additional Envoy whatsoever."
 
+- question: "Are Elastic and Grafana required to use Curiefense?"
+  answer: "No.
+          <li>Grafana is only needed if you want to see the metrics exposed to Prometheus.</li>
+          <li>Elastic stack is only needed if you want to forward logs there.</li>
+          <li>i.e., both can be disabled.</li>"
+
 - question: "I have more questions. How can I reach out to you?"
   answer: "You can...
           <li><a href=\"contact-us\">Contact us here</a></li>
           <li><a href=\"https://join.slack.com/t/curiefense/shared_invite/zt-nc8lyrjo-JJoY2mwrqNOfkmoA6ycTHg\">Join us on Slack</a></li>
           <li><a href=\"https://github.com/curiefense/curiefense/issues/new/choose\">Open an issue on GitHub</a></li>"
-
