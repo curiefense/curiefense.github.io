@@ -14,7 +14,7 @@ description: 'Curiefense extends Envoy proxy to protect all forms of web traffic
             </div>
             <div class="item-vertical">
               <p class="paragraph hero-paragraph">
-              To get started with curiefense, simply visit our [Getting started page](https://docs.curiefense.io/installation/getting-started-with-curiefense)
+                To get started with curiefense, simply visit our <a href="https://docs.curiefense.io/installation/getting-started-with-curiefense">Getting started page</a>
               </p>
             </div>
             <div class="item-vertical level-one last"></div>
