@@ -96,11 +96,6 @@
   imageSrc: /images/photo2.jpg
   imageSrcSet: /images/photo2-p-500.jpeg 500w, /images/photo2.jpg 690w
   
-- name: Aaryan Porwal
-  title: Summer Intern
-  linkedInProfileLink: https://www.linkedin.com/in/aaryan-porwal/
-  imageSrc: /images/aaryan.jpg
-  
 - name: Nir Geninson
   company: Reblaze
   title: Marketing
