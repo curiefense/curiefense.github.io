@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About Us | The team behind Curiefense"
-description: "Curiefense is an open source project that adds web security to Envoy Proxy. Here is its mission and the people behind it."
+description: "Curiefense is an open source project that adds web security to Envoy Proxy and NGINX. Here is its mission and the people behind it."
 ---
 
 <div class="section product-team">

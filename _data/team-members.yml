@@ -60,14 +60,7 @@
   linkedInProfileLink: https://www.linkedin.com/in/xavier-mehrenberger-49163b28/
   imageSrc: /images/xavier.jpg
   imageSrcSet: /images/xavier-p-500.jpeg 500w, /images/xavier-p-800.jpeg 800w, /images/xavier-p-1080.jpeg 1080w, /images/xavier.jpg 1368w
-  
-- name: Tony Naidanov
-  company: Reblaze
-  title: Design
-  linkedInProfileLink: https://www.linkedin.com/in/tony-naidanov-0425b635/
-  imageSrc: /images/photo10.jpg
-  imageSrcSet: /images/photo10-p-500.jpeg 500w, /images/photo10.jpg 690w
-  
+   
 - name: Flavio Percoco
   company: RedHat
   title: Maintainer
@@ -84,7 +77,7 @@
   
 - name: Spiros Psarris
   company: Reblaze
-  title: Technical Communications
+  title: Communications
   linkedInProfileLink:
   imageSrc: /images/photo8.jpg
   imageSrcSet: /images/photo8-p-500.jpeg 500w, /images/photo8.jpg 690w
@@ -103,34 +96,6 @@
   imageSrc: /images/photo2.jpg
   imageSrcSet: /images/photo2-p-500.jpeg 500w, /images/photo2.jpg 690w
   
-- name: Yoav Toussia-Cohen
-  company: DoIT International
-  title: Cloud Strategist
-  linkedInProfileLink: https://www.linkedin.com/in/yoavtoussiacohen/
-  imageSrc: /images/photo14.jpg
-  imageSrcSet: /images/photo14-p-500.jpeg 500w, /images/photo14.jpg 690w
-  
-- name: Eyal Hayardeny
-  company: Reblaze
-  title: Chief Strategist
-  linkedInProfileLink: https://www.linkedin.com/in/eyal-hayardeny-8aa1293b/
-  imageSrc: /images/photo3.jpg
-  imageSrcSet: /images/photo3-p-500.jpeg 500w, /images/photo3.jpg 690w
-  
-- name: Ophir Shalitin
-  company: Reblaze
-  title: Marketing
-  linkedInProfileLink: https://www.linkedin.com/in/ophirshalitin/
-  imageSrc: /images/photo7.jpg
-  imageSrcSet: /images/photo7-p-500.jpeg 500w, /images/photo7.jpg 690w
-  
-- name: Justin Dorfman
-  company: Reblaze
-  title: Swiss Army Knife
-  linkedInProfileLink: https://www.linkedin.com/in/justindorfman/
-  imageSrc: /images/Justin-Dorfman.jpg
-  imageSrcSet: /images/Justin-Dorfman-p-500.jpeg 500w, /images/Justin-Dorfman.jpg 690w
-
 - name: Aaryan Porwal
   title: Summer Intern
   linkedInProfileLink: https://www.linkedin.com/in/aaryan-porwal/
