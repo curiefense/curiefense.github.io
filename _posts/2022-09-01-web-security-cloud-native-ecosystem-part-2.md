@@ -25,7 +25,7 @@ However, with new challenges come new solutions. In this article, we’ll look a
 ## Requirements
 Effective web security requires a number of different elements.
 
-* **Scope**: Traffic must be filtered at multiple levels.
+**Scope**: Traffic must be filtered at multiple levels.
 
 * **Per request**. Many types of attacks are contained within individual requests. For example, content filtering should be performed to detect attempts at code injection. (This is the traditional role of a WAF.)
 * **Per requestor**. A security solution must maintain an awareness of everything that has happened within a user session, analyzing all requests within their context. For example, a credential stuffing attack consists of requests (failed login attempts) that individually appear to be innocuous. The hostile nature of the requestor is only realized when considering the overall traffic that it generates.
